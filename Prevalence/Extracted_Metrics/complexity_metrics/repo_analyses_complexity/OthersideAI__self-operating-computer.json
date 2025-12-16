@@ -1,0 +1,200 @@
+[
+  {
+    "file": "OthersideAI/self-operating-computer/OthersideAI-self-operating-computer-fac568e/evaluate.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 33,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 180
+  },
+  {
+    "file": "OthersideAI/self-operating-computer/OthersideAI-self-operating-computer-fac568e/operate/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "OthersideAI/self-operating-computer/OthersideAI-self-operating-computer-fac568e/operate/config.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 187
+  },
+  {
+    "file": "OthersideAI/self-operating-computer/OthersideAI-self-operating-computer-fac568e/operate/exceptions.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 15
+  },
+  {
+    "file": "OthersideAI/self-operating-computer/OthersideAI-self-operating-computer-fac568e/operate/main.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 56
+  },
+  {
+    "file": "OthersideAI/self-operating-computer/OthersideAI-self-operating-computer-fac568e/operate/models/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "OthersideAI/self-operating-computer/OthersideAI-self-operating-computer-fac568e/operate/models/apis.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 195,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1139
+  },
+  {
+    "file": "OthersideAI/self-operating-computer/OthersideAI-self-operating-computer-fac568e/operate/models/prompts.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 267
+  },
+  {
+    "file": "OthersideAI/self-operating-computer/OthersideAI-self-operating-computer-fac568e/operate/models/weights/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "OthersideAI/self-operating-computer/OthersideAI-self-operating-computer-fac568e/operate/operate.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 187
+  },
+  {
+    "file": "OthersideAI/self-operating-computer/OthersideAI-self-operating-computer-fac568e/operate/utils/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "OthersideAI/self-operating-computer/OthersideAI-self-operating-computer-fac568e/operate/utils/label.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 36,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 160
+  },
+  {
+    "file": "OthersideAI/self-operating-computer/OthersideAI-self-operating-computer-fac568e/operate/utils/misc.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 42
+  },
+  {
+    "file": "OthersideAI/self-operating-computer/OthersideAI-self-operating-computer-fac568e/operate/utils/ocr.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 100
+  },
+  {
+    "file": "OthersideAI/self-operating-computer/OthersideAI-self-operating-computer-fac568e/operate/utils/operating_system.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 63
+  },
+  {
+    "file": "OthersideAI/self-operating-computer/OthersideAI-self-operating-computer-fac568e/operate/utils/screenshot.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 42
+  },
+  {
+    "file": "OthersideAI/self-operating-computer/OthersideAI-self-operating-computer-fac568e/operate/utils/style.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 36
+  },
+  {
+    "file": "OthersideAI/self-operating-computer/OthersideAI-self-operating-computer-fac568e/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 28
+  }
+]

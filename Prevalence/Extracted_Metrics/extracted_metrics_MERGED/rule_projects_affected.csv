@@ -1,0 +1,6 @@
+rule,projects_affected
+No Structured Output (NSO),81
+Unbounded Max Metrics (UMM),76
+LLM Temperature Not Explicitly Set(TNES),73
+No Model Version Pinning (NMVP),72
+No System Message (NSM),69

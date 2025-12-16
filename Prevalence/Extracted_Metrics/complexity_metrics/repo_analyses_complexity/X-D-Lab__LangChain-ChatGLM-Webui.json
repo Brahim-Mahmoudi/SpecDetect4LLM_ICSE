@@ -1,0 +1,134 @@
+[
+  {
+    "file": "X-D-Lab/LangChain-ChatGLM-Webui/X-D-Lab-LangChain-ChatGLM-Webui-ef829a2/app.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 74,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 344
+  },
+  {
+    "file": "X-D-Lab/LangChain-ChatGLM-Webui/X-D-Lab-LangChain-ChatGLM-Webui-ef829a2/chatllm.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 43,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 157
+  },
+  {
+    "file": "X-D-Lab/LangChain-ChatGLM-Webui/X-D-Lab-LangChain-ChatGLM-Webui-ef829a2/chinese_text_splitter.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 25
+  },
+  {
+    "file": "X-D-Lab/LangChain-ChatGLM-Webui/X-D-Lab-LangChain-ChatGLM-Webui-ef829a2/config.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 50
+  },
+  {
+    "file": "X-D-Lab/LangChain-ChatGLM-Webui/X-D-Lab-LangChain-ChatGLM-Webui-ef829a2/jina_serving.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 60,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 273
+  },
+  {
+    "file": "X-D-Lab/LangChain-ChatGLM-Webui/X-D-Lab-LangChain-ChatGLM-Webui-ef829a2/modelscope/app.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 44,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 258
+  },
+  {
+    "file": "X-D-Lab/LangChain-ChatGLM-Webui/X-D-Lab-LangChain-ChatGLM-Webui-ef829a2/modelscope/chatglm_llm.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 17,
+    "pipeline_patterns": 1,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 63
+  },
+  {
+    "file": "X-D-Lab/LangChain-ChatGLM-Webui/X-D-Lab-LangChain-ChatGLM-Webui-ef829a2/modelscope/modelscope_hub.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 8,
+    "pipeline_patterns": 1,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 71
+  },
+  {
+    "file": "X-D-Lab/LangChain-ChatGLM-Webui/X-D-Lab-LangChain-ChatGLM-Webui-ef829a2/paddlepaddle/app.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 170
+  },
+  {
+    "file": "X-D-Lab/LangChain-ChatGLM-Webui/X-D-Lab-LangChain-ChatGLM-Webui-ef829a2/paddlepaddle/chatllm.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 36
+  },
+  {
+    "file": "X-D-Lab/LangChain-ChatGLM-Webui/X-D-Lab-LangChain-ChatGLM-Webui-ef829a2/paddlepaddle/cli.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 119
+  },
+  {
+    "file": "X-D-Lab/LangChain-ChatGLM-Webui/X-D-Lab-LangChain-ChatGLM-Webui-ef829a2/paddlepaddle/paddle_embedding.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 74
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "file": "alexdphan/babyagi-chroma-agent/alexdphan-babyagi-chroma-agent-a537928/babyagi-chroma.py",
+    "num_functions": 14,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 57,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 405
+  }
+]

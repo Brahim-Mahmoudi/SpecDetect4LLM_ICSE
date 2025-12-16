@@ -1,0 +1,123 @@
+[
+  {
+    "file": "joaocarlosleme/chat-langchain/joaocarlosleme-chat-langchain-362e71c/archive/app.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 98
+  },
+  {
+    "file": "joaocarlosleme/chat-langchain/joaocarlosleme-chat-langchain-362e71c/archive/chain.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 127
+  },
+  {
+    "file": "joaocarlosleme/chat-langchain/joaocarlosleme-chat-langchain-362e71c/archive/ingest.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 92
+  },
+  {
+    "file": "joaocarlosleme/chat-langchain/joaocarlosleme-chat-langchain-362e71c/archive/ingest_examples.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 219
+  },
+  {
+    "file": "joaocarlosleme/chat-langchain/joaocarlosleme-chat-langchain-362e71c/callback.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 33
+  },
+  {
+    "file": "joaocarlosleme/chat-langchain/joaocarlosleme-chat-langchain-362e71c/format.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 4
+  },
+  {
+    "file": "joaocarlosleme/chat-langchain/joaocarlosleme-chat-langchain-362e71c/ingest.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 36
+  },
+  {
+    "file": "joaocarlosleme/chat-langchain/joaocarlosleme-chat-langchain-362e71c/main.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 80
+  },
+  {
+    "file": "joaocarlosleme/chat-langchain/joaocarlosleme-chat-langchain-362e71c/query_data.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 57
+  },
+  {
+    "file": "joaocarlosleme/chat-langchain/joaocarlosleme-chat-langchain-362e71c/schemas.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 22
+  },
+  {
+    "file": "joaocarlosleme/chat-langchain/joaocarlosleme-chat-langchain-362e71c/start.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 4
+  }
+]

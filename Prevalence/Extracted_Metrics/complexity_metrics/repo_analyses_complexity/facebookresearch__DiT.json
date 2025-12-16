@@ -1,0 +1,112 @@
+[
+  {
+    "file": "facebookresearch/DiT/facebookresearch-DiT-ed81ce2/diffusion/__init__.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 46
+  },
+  {
+    "file": "facebookresearch/DiT/facebookresearch-DiT-ed81ce2/diffusion/diffusion_utils.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 88
+  },
+  {
+    "file": "facebookresearch/DiT/facebookresearch-DiT-ed81ce2/diffusion/gaussian_diffusion.py",
+    "num_functions": 28,
+    "max_function_depth": 2,
+    "num_classes": 4,
+    "num_assignments": 158,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 873
+  },
+  {
+    "file": "facebookresearch/DiT/facebookresearch-DiT-ed81ce2/diffusion/respace.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 129
+  },
+  {
+    "file": "facebookresearch/DiT/facebookresearch-DiT-ed81ce2/diffusion/timestep_sampler.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 150
+  },
+  {
+    "file": "facebookresearch/DiT/facebookresearch-DiT-ed81ce2/download.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 50
+  },
+  {
+    "file": "facebookresearch/DiT/facebookresearch-DiT-ed81ce2/models.py",
+    "num_functions": 32,
+    "max_function_depth": 2,
+    "num_classes": 5,
+    "num_assignments": 87,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 370
+  },
+  {
+    "file": "facebookresearch/DiT/facebookresearch-DiT-ed81ce2/sample.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 83
+  },
+  {
+    "file": "facebookresearch/DiT/facebookresearch-DiT-ed81ce2/sample_ddp.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 44,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 166
+  },
+  {
+    "file": "facebookresearch/DiT/facebookresearch-DiT-ed81ce2/train.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 55,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 269
+  }
+]

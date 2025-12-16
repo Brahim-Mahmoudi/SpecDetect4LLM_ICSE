@@ -1,0 +1,145 @@
+[
+  {
+    "file": "Significant-Gravitas/AutoGPT/Significant-Gravitas-AutoGPT-9ef4fab/scripts/agent_manager.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 73
+  },
+  {
+    "file": "Significant-Gravitas/AutoGPT/Significant-Gravitas-AutoGPT-9ef4fab/scripts/ai_functions.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 15,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 63
+  },
+  {
+    "file": "Significant-Gravitas/AutoGPT/Significant-Gravitas-AutoGPT-9ef4fab/scripts/browse.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 137
+  },
+  {
+    "file": "Significant-Gravitas/AutoGPT/Significant-Gravitas-AutoGPT-9ef4fab/scripts/chat.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 86
+  },
+  {
+    "file": "Significant-Gravitas/AutoGPT/Significant-Gravitas-AutoGPT-9ef4fab/scripts/commands.py",
+    "num_functions": 18,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 28,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 227
+  },
+  {
+    "file": "Significant-Gravitas/AutoGPT/Significant-Gravitas-AutoGPT-9ef4fab/scripts/config.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 29
+  },
+  {
+    "file": "Significant-Gravitas/AutoGPT/Significant-Gravitas-AutoGPT-9ef4fab/scripts/data.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 10
+  },
+  {
+    "file": "Significant-Gravitas/AutoGPT/Significant-Gravitas-AutoGPT-9ef4fab/scripts/execute_code.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 42
+  },
+  {
+    "file": "Significant-Gravitas/AutoGPT/Significant-Gravitas-AutoGPT-9ef4fab/scripts/file_operations.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 60
+  },
+  {
+    "file": "Significant-Gravitas/AutoGPT/Significant-Gravitas-AutoGPT-9ef4fab/scripts/main.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 45,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 273
+  },
+  {
+    "file": "Significant-Gravitas/AutoGPT/Significant-Gravitas-AutoGPT-9ef4fab/scripts/memory.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "Significant-Gravitas/AutoGPT/Significant-Gravitas-AutoGPT-9ef4fab/scripts/speak.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 34
+  },
+  {
+    "file": "Significant-Gravitas/AutoGPT/Significant-Gravitas-AutoGPT-9ef4fab/scripts/spinner.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 31
+  }
+]

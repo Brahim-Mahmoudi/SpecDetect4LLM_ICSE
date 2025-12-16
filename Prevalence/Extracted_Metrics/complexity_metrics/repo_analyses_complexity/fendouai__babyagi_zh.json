@@ -1,0 +1,90 @@
+[
+  {
+    "file": "fendouai/babyagi_zh/fendouai-babyagi_zh-bc907f1/babyagi.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 50,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 290
+  },
+  {
+    "file": "fendouai/babyagi_zh/fendouai-babyagi_zh-bc907f1/extensions/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "fendouai/babyagi_zh/fendouai-babyagi_zh-bc907f1/extensions/argparseext.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 80
+  },
+  {
+    "file": "fendouai/babyagi_zh/fendouai-babyagi_zh-bc907f1/extensions/dotenvext.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 5
+  },
+  {
+    "file": "fendouai/babyagi_zh/fendouai-babyagi_zh-bc907f1/tools/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "fendouai/babyagi_zh/fendouai-babyagi_zh-bc907f1/tools/monitor.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 40
+  },
+  {
+    "file": "fendouai/babyagi_zh/fendouai-babyagi_zh-bc907f1/tools/results.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 55
+  },
+  {
+    "file": "fendouai/babyagi_zh/fendouai-babyagi_zh-bc907f1/tools/results_browser.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 116
+  }
+]

@@ -1,0 +1,7 @@
+owner,repo,files_py,total_loc,total_functions,total_classes,total_assignments,total_pipelines,total_custom_pipeline_classes,max_function_depth,has_dynamic_construct_any,functions_per_kloc,assignments_per_kloc,pipelines_per_kloc,functions_per_file,complexity_score,size_bucket
+joaocarlosleme,chat-langchain,11,772,15,4,94,0,0,1,False,19.43,121.762,0.0,1.364,0.004,small
+stas00,ml-engineering,35,5494,243,25,735,0,0,4,True,44.23,133.782,0.0,6.943,0.466,small
+StanGirard,quivr,162,7875,353,78,836,0,0,1,False,44.825,106.159,0.0,2.179,0.013,medium
+lucidrains,DALLE2-pytorch,19,8516,444,89,1844,3,1,2,True,52.137,216.534,0.352,23.368,0.469,medium
+Shubhamsaboo,awesome-llm-apps,407,56125,923,256,7135,9,1,2,True,16.445,127.127,0.16,2.268,0.223,large
+huggingface,transformers,3847,1493225,49253,12676,291631,506,344,5,True,32.984,195.303,0.339,12.803,0.65,large

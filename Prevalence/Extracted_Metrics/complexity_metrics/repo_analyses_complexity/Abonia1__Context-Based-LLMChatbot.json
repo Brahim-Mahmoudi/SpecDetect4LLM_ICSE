@@ -1,0 +1,35 @@
+[
+  {
+    "file": "Abonia1/Context-Based-LLMChatbot/Abonia1-Context-Based-LLMChatbot-f21f7e1/app.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 44
+  },
+  {
+    "file": "Abonia1/Context-Based-LLMChatbot/Abonia1-Context-Based-LLMChatbot-f21f7e1/chat.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 74
+  },
+  {
+    "file": "Abonia1/Context-Based-LLMChatbot/Abonia1-Context-Based-LLMChatbot-f21f7e1/config.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 20
+  }
+]

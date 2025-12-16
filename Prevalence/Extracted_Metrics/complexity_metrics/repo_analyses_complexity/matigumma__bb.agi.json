@@ -1,0 +1,101 @@
+[
+  {
+    "file": "matigumma/bb.agi/matigumma-bb.agi-9af4396/babyagi.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 49,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 310
+  },
+  {
+    "file": "matigumma/bb.agi/matigumma-bb.agi-9af4396/extensions/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "matigumma/bb.agi/matigumma-bb.agi-9af4396/extensions/argparseext.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 80
+  },
+  {
+    "file": "matigumma/bb.agi/matigumma-bb.agi-9af4396/extensions/dotenvext.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 5
+  },
+  {
+    "file": "matigumma/bb.agi/matigumma-bb.agi-9af4396/langChain-llama.py",
+    "num_functions": 14,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 51,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 273
+  },
+  {
+    "file": "matigumma/bb.agi/matigumma-bb.agi-9af4396/tools/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "matigumma/bb.agi/matigumma-bb.agi-9af4396/tools/monitor.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 40
+  },
+  {
+    "file": "matigumma/bb.agi/matigumma-bb.agi-9af4396/tools/results.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 55
+  },
+  {
+    "file": "matigumma/bb.agi/matigumma-bb.agi-9af4396/tools/results_browser.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 116
+  }
+]

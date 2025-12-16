@@ -1,0 +1,46 @@
+[
+  {
+    "file": "EmbraceAGI/LocalAGI/EmbraceAGI-LocalAGI-f2fd782/chatglm_server.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 59
+  },
+  {
+    "file": "EmbraceAGI/LocalAGI/EmbraceAGI-LocalAGI-f2fd782/local_agi.py",
+    "num_functions": 25,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 92,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 680
+  },
+  {
+    "file": "EmbraceAGI/LocalAGI/EmbraceAGI-LocalAGI-f2fd782/local_agi_mini.py",
+    "num_functions": 23,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 81,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 589
+  },
+  {
+    "file": "EmbraceAGI/LocalAGI/EmbraceAGI-LocalAGI-f2fd782/local_agi_zh.py",
+    "num_functions": 25,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 92,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 680
+  }
+]

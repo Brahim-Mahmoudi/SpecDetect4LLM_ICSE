@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SpecDetect4LLM</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    </head>
+<body>
+    <div class="wrap">
+        <div class="title">SpecDetect4LLM</div>
+        <div class="subtitle">Python Code Static Analysis</div>
+        
+        {% if error %}
+            <div class="error-message">{{ error }}</div>
+        {% endif %}
+
+        <form method="POST" enctype="multipart/form-data" id="analysisForm">
+            <div class="grid">
+                
+                <div class="card">
+                    <h2>1. Files and Rules</h2>
+                    
+                    <label>Project archive (ZIP/TAR)</label>
+                    <div class="upload-area">
+                        <input type="file" name="project_zip" accept=".zip,.tar,.gz,.tgz" required>
+                        <div class="small" style="margin-top: 10px;">
+                            The project should be compressed as a ZIP or TAR for upload.
+                        </div>
+                    </div>
+                    
+                    <label style="margin-top: 20px;">Rule Options</label>
+                    <div class="row" style="margin-bottom: 10px;">
+                        <button type="button" class="btn" onclick="selectAllRules()">Select All</button>
+                        <button type="button" class="btn" onclick="deselectAllRules()">Deselect All</button>
+                    </div>
+
+                    <div class="rules-container">
+                        {% for rule_id in rules %}
+                            <div>
+                                <input type="checkbox" name="rules" value="{{ rule_id }}" id="{{ rule_id }}" checked>
+                                <label for="{{ rule_id }}">
+                                    {{ rule_metadata[rule_id] if rule_id in rule_metadata else rule_id }}
+                                </label>
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+
+                    <div class="card" style="display: flex; flex-direction: column; justify-content: space-between;">
+                    <div>
+                        <h2>Run</h2>
+                        <div class="muted" style="margin-bottom: 20px;">
+                            Files will be analyzed on the server. Wait time depends on project size.
+                        </div>
+                        <button type="submit" class="btn" style="width: 100%;">Run Analysis</button>
+                    </div>
+
+                    <div style="margin-top: 20px;">
+                        <h2>Status</h2>
+                        <div class="muted">
+                           Ready for analysis. Ensure the ZIP file is under 500 MB.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <script>
+        function selectAllRules() {
+            const checkboxes = document.querySelectorAll('input[name="rules"]');
+            checkboxes.forEach(cb => cb.checked = true);
+        }
+
+        function deselectAllRules() {
+            const checkboxes = document.querySelectorAll('input[name="rules"]');
+            checkboxes.forEach(cb => cb.checked = false);
+        }
+    </script>
+    </body>
+</html>

@@ -1,0 +1,156 @@
+[
+  {
+    "file": "marella/chatdocs/marella-chatdocs-ff0f962/chatdocs/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "marella/chatdocs/marella-chatdocs-ff0f962/chatdocs/__main__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 3
+  },
+  {
+    "file": "marella/chatdocs/marella-chatdocs-ff0f962/chatdocs/add.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 163
+  },
+  {
+    "file": "marella/chatdocs/marella-chatdocs-ff0f962/chatdocs/chains.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 21
+  },
+  {
+    "file": "marella/chatdocs/marella-chatdocs-ff0f962/chatdocs/chat.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 49
+  },
+  {
+    "file": "marella/chatdocs/marella-chatdocs-ff0f962/chatdocs/config.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 26
+  },
+  {
+    "file": "marella/chatdocs/marella-chatdocs-ff0f962/chatdocs/download.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 10
+  },
+  {
+    "file": "marella/chatdocs/marella-chatdocs-ff0f962/chatdocs/embeddings.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 14
+  },
+  {
+    "file": "marella/chatdocs/marella-chatdocs-ff0f962/chatdocs/llms.py",
+    "num_functions": 3,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 22,
+    "pipeline_patterns": 2,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 81
+  },
+  {
+    "file": "marella/chatdocs/marella-chatdocs-ff0f962/chatdocs/main.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 64
+  },
+  {
+    "file": "marella/chatdocs/marella-chatdocs-ff0f962/chatdocs/ui.py",
+    "num_functions": 3,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 63
+  },
+  {
+    "file": "marella/chatdocs/marella-chatdocs-ff0f962/chatdocs/utils.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 10
+  },
+  {
+    "file": "marella/chatdocs/marella-chatdocs-ff0f962/chatdocs/vectorstores.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 32
+  },
+  {
+    "file": "marella/chatdocs/marella-chatdocs-ff0f962/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 70
+  }
+]

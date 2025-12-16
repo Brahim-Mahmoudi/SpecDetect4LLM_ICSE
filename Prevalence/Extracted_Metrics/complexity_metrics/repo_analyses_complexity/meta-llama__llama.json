@@ -1,0 +1,79 @@
+[
+  {
+    "file": "meta-llama/llama/meta-llama-llama-689c7f2/example_chat_completion.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 104
+  },
+  {
+    "file": "meta-llama/llama/meta-llama-llama-689c7f2/example_text_completion.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 69
+  },
+  {
+    "file": "meta-llama/llama/meta-llama-llama-689c7f2/llama/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 6
+  },
+  {
+    "file": "meta-llama/llama/meta-llama-llama-689c7f2/llama/generation.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 65,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 421
+  },
+  {
+    "file": "meta-llama/llama/meta-llama-llama-689c7f2/llama/model.py",
+    "num_functions": 15,
+    "max_function_depth": 1,
+    "num_classes": 6,
+    "num_assignments": 84,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 495
+  },
+  {
+    "file": "meta-llama/llama/meta-llama-llama-689c7f2/llama/tokenizer.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 68
+  },
+  {
+    "file": "meta-llama/llama/meta-llama-llama-689c7f2/setup.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 16
+  }
+]

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Analysis Results</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="wrap">
+        <div class="title">Analysis Results</div>
+        <div class="subtitle">Report for project: <code>{{ project_name }}</code></div>
+
+        <div class="grid">
+            <div class="card">
+                <h2>Alerts Details</h2>
+                
+                {% if results %}
+                    {% for filepath, file_results in results.items() %}
+                        <div class="file-result">
+                            <div class="file-path">
+                                {{ filepath|replace(project_extracted_path + '/', '') }}
+                            </div>
+                            
+                            {% for rule_id, messages in file_results.items() %}
+                                {% set rule_name = rule_metadata[rule_id] if rule_id in rule_metadata else 'Name Not Found' %}
+                                <div class="rule-group">
+                                    <div class="rule-title">Rule {{ rule_id }}: {{ rule_name }} ({{ messages|length }} alert(s))</div>
+                                    <ul>
+                                        {% for msg in messages %}
+                                            <li class="alert-item">{{ msg }}</li>
+                                        {% endfor %}
+                                    </ul>
+                                </div>
+                            {% endfor %}
+                        </div>
+                    {% endfor %}
+                
+                {% else %}
+                    <div class="empty-state">
+                         No code smells detected! Your code looks clean.
+                    </div>
+                {% endif %}
+            </div>
+
+            <div class="card">
+                <h2>Summary and Export</h2>
+                
+                <div class="kpi">
+                    <div class="pill">
+                        <div class="n">{{ total_files }}</div>
+                        <div class="t">Python files found</div>
+                    </div>
+                    <div class="pill">
+                        <div class="n" id="k_alerts">{{ results|length }}</div>
+                        <div class="t">Files with alerts</div>
+                    </div>
+                </div>
+
+                <h2 style="margin-top: 30px;">Summary by Rule</h2>
+                <table class="summary-table">
+                    <thead>
+                        <tr><th>Rule ID</th><th>Name</th><th>Alerts</th></tr>
+                    </thead>
+                    <tbody>
+                        {% for rule_id, count in summary.items() %}
+                        <tr>
+                            <td>{{ rule_id }}</td>
+                            <td>{{ rule_metadata[rule_id] if rule_id in rule_metadata else 'Name Not Found' }}</td>
+                            <td>{{ count }}</td>
+                        </tr> {% endfor %}
+                    </tbody>
+                </table>
+                
+                
+                <h2 style="margin-top: 30px;">Summary by Rule (Table)</h2>
+                <table class="summary-table"></table>
+                
+                <div class="row" style="margin-top: 25px;">
+                    <form action="{{ url_for('download_json') }}" method="POST" style="width: 100%;">
+                        <input type="hidden" name="results_json" value="{{ results_json }}">
+                            <button type="submit" class="btn" style="width: 100%;">
+                             Export Results (JSON)
+                        </button>
+                    </form>
+                </div>
+
+                <div style="text-align: center; margin-top: 20px;">
+                    <a href="{{ url_for('index') }}" class="muted">⬅ Run a New Analysis</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

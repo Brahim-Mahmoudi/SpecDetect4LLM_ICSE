@@ -1,0 +1,302 @@
+project,file_path,rule,n_alerts
+0xk1h0__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/0xk1h0__PentestGPT/pentestgpt/utils/APIs/azure_api.py,No Structured Output (NSO),5
+0xk1h0__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/0xk1h0__PentestGPT/pentestgpt/utils/APIs/azure_api.py,No System Message (NSM),1
+0xk1h0__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/0xk1h0__PentestGPT/pentestgpt/utils/APIs/azure_api.py,Unbounded Max Metrics (UMM),5
+0xk1h0__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/0xk1h0__PentestGPT/pentestgpt/utils/APIs/chatgpt_api.py,LLM Temperature Not Explicitly Set(TNES),1
+0xk1h0__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/0xk1h0__PentestGPT/pentestgpt/utils/APIs/chatgpt_api.py,No Structured Output (NSO),5
+0xk1h0__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/0xk1h0__PentestGPT/pentestgpt/utils/APIs/chatgpt_api.py,No System Message (NSM),1
+0xk1h0__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/0xk1h0__PentestGPT/pentestgpt/utils/APIs/chatgpt_api.py,Unbounded Max Metrics (UMM),5
+0xk1h0__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/0xk1h0__PentestGPT/pentestgpt/utils/APIs/gemini_api.py,LLM Temperature Not Explicitly Set(TNES),1
+0xk1h0__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/0xk1h0__PentestGPT/pentestgpt/utils/APIs/gemini_api.py,No Model Version Pinning (NMVP),1
+0xk1h0__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/0xk1h0__PentestGPT/pentestgpt/utils/APIs/gemini_api.py,Unbounded Max Metrics (UMM),1
+0xk1h0__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/0xk1h0__PentestGPT/pentestgpt/utils/chatgpt.py,LLM Temperature Not Explicitly Set(TNES),1
+0xk1h0__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/0xk1h0__PentestGPT/pentestgpt/utils/chatgpt.py,No Model Version Pinning (NMVP),1
+0xk1h0__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/0xk1h0__PentestGPT/pentestgpt/utils/chatgpt.py,No Structured Output (NSO),1
+0xk1h0__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/0xk1h0__PentestGPT/pentestgpt/utils/chatgpt.py,No System Message (NSM),1
+0xk1h0__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/0xk1h0__PentestGPT/pentestgpt/utils/chatgpt.py,Unbounded Max Metrics (UMM),1
+0xk1h0__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/0xk1h0__PentestGPT/pentestgpt/utils/llm_api.py,No Structured Output (NSO),5
+0xk1h0__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/0xk1h0__PentestGPT/pentestgpt/utils/llm_api.py,No System Message (NSM),1
+0xk1h0__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/0xk1h0__PentestGPT/pentestgpt/utils/llm_api.py,Unbounded Max Metrics (UMM),5
+ATheorell__AutoGPTArenaHack,/Users/bramss/Desktop/Extracted_Repo_ICSE/ATheorell__AutoGPTArenaHack/autogpts/gpt-engineer/gpt_engineer/core/ai.py,Unbounded Max Metrics (UMM),1
+ATheorell__AutoGPTArenaHack,/Users/bramss/Desktop/Extracted_Repo_ICSE/ATheorell__AutoGPTArenaHack/benchmark/agbenchmark/utils/challenge.py,LLM Temperature Not Explicitly Set(TNES),1
+ATheorell__AutoGPTArenaHack,/Users/bramss/Desktop/Extracted_Repo_ICSE/ATheorell__AutoGPTArenaHack/benchmark/agbenchmark/utils/challenge.py,No Model Version Pinning (NMVP),1
+ATheorell__AutoGPTArenaHack,/Users/bramss/Desktop/Extracted_Repo_ICSE/ATheorell__AutoGPTArenaHack/benchmark/agbenchmark/utils/challenge.py,No Structured Output (NSO),1
+ATheorell__AutoGPTArenaHack,/Users/bramss/Desktop/Extracted_Repo_ICSE/ATheorell__AutoGPTArenaHack/benchmark/agbenchmark/utils/challenge.py,Unbounded Max Metrics (UMM),1
+AgentValley__chromadb-chatbot,/Users/bramss/Desktop/Extracted_Repo_ICSE/AgentValley__chromadb-chatbot/tools/chat_openai.py,No Structured Output (NSO),1
+AgentValley__chromadb-chatbot,/Users/bramss/Desktop/Extracted_Repo_ICSE/AgentValley__chromadb-chatbot/tools/chat_openai.py,No System Message (NSM),1
+AgentValley__chromadb-chatbot,/Users/bramss/Desktop/Extracted_Repo_ICSE/AgentValley__chromadb-chatbot/tools/chat_openai.py,Unbounded Max Metrics (UMM),1
+BillSchumacher__Auto-GPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/BillSchumacher__Auto-GPT/autogpt/api_manager.py,No Structured Output (NSO),2
+BillSchumacher__Auto-GPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/BillSchumacher__Auto-GPT/autogpt/api_manager.py,No System Message (NSM),1
+CloudDevStudios__Agent-LLM,/Users/bramss/Desktop/Extracted_Repo_ICSE/CloudDevStudios__Agent-LLM/provider/openai.py,No Structured Output (NSO),2
+CloudDevStudios__Agent-LLM,/Users/bramss/Desktop/Extracted_Repo_ICSE/CloudDevStudios__Agent-LLM/provider/openai.py,No System Message (NSM),1
+Doriandarko__BabyAGIChatGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/Doriandarko__BabyAGIChatGPT/main.py,LLM Temperature Not Explicitly Set(TNES),1
+Doriandarko__BabyAGIChatGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/Doriandarko__BabyAGIChatGPT/main.py,No Model Version Pinning (NMVP),2
+Doriandarko__BabyAGIChatGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/Doriandarko__BabyAGIChatGPT/main.py,No Structured Output (NSO),2
+Doriandarko__BabyAGIChatGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/Doriandarko__BabyAGIChatGPT/main.py,No System Message (NSM),1
+Doriandarko__BabyAGIChatGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/Doriandarko__BabyAGIChatGPT/main.py,Unbounded Max Metrics (UMM),1
+EmbraceAGI__LocalAGI,/Users/bramss/Desktop/Extracted_Repo_ICSE/EmbraceAGI__LocalAGI/chatglm_server.py,No Model Version Pinning (NMVP),2
+EmbraceAGI__LocalAGI,/Users/bramss/Desktop/Extracted_Repo_ICSE/EmbraceAGI__LocalAGI/local_agi.py,No Structured Output (NSO),2
+EmbraceAGI__LocalAGI,/Users/bramss/Desktop/Extracted_Repo_ICSE/EmbraceAGI__LocalAGI/local_agi.py,No System Message (NSM),1
+EmbraceAGI__LocalAGI,/Users/bramss/Desktop/Extracted_Repo_ICSE/EmbraceAGI__LocalAGI/local_agi_zh.py,No Structured Output (NSO),2
+EmbraceAGI__LocalAGI,/Users/bramss/Desktop/Extracted_Repo_ICSE/EmbraceAGI__LocalAGI/local_agi_zh.py,No System Message (NSM),1
+ExpressGit__langchain-ChatGLM,/Users/bramss/Desktop/Extracted_Repo_ICSE/ExpressGit__langchain-ChatGLM/models/loader/loader.py,No Model Version Pinning (NMVP),2
+FOLLGAD__Godmode-GPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/FOLLGAD__Godmode-GPT/autogpt/llm/api_manager.py,No Structured Output (NSO),2
+FOLLGAD__Godmode-GPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/FOLLGAD__Godmode-GPT/autogpt/llm/api_manager.py,No System Message (NSM),1
+Gamma-Software__AppifyAi,/Users/bramss/Desktop/Extracted_Repo_ICSE/Gamma-Software__AppifyAi/generative_app/core/chains/llm.py,Unbounded Max Metrics (UMM),3
+Haste171__langchain-chatbot,/Users/bramss/Desktop/Extracted_Repo_ICSE/Haste171__langchain-chatbot/streamlit.py,Unbounded Max Metrics (UMM),1
+Haste171__langchain-chatbot,/Users/bramss/Desktop/Extracted_Repo_ICSE/Haste171__langchain-chatbot/utils/query.py,Unbounded Max Metrics (UMM),1
+Jerk400__h2ogpt-dev-local,/Users/bramss/Desktop/Extracted_Repo_ICSE/Jerk400__h2ogpt-dev-local/models/create_model_cards.py,No Model Version Pinning (NMVP),1
+Jerk400__h2ogpt-dev-local,/Users/bramss/Desktop/Extracted_Repo_ICSE/Jerk400__h2ogpt-dev-local/spaces/demo/app.py,No Model Version Pinning (NMVP),2
+Jerk400__h2ogpt-dev-local,/Users/bramss/Desktop/Extracted_Repo_ICSE/Jerk400__h2ogpt-dev-local/src/create_data.py,No Model Version Pinning (NMVP),1
+Jerk400__h2ogpt-dev-local,/Users/bramss/Desktop/Extracted_Repo_ICSE/Jerk400__h2ogpt-dev-local/src/gen.py,LLM Temperature Not Explicitly Set(TNES),2
+Jerk400__h2ogpt-dev-local,/Users/bramss/Desktop/Extracted_Repo_ICSE/Jerk400__h2ogpt-dev-local/src/gen.py,No Structured Output (NSO),2
+Jerk400__h2ogpt-dev-local,/Users/bramss/Desktop/Extracted_Repo_ICSE/Jerk400__h2ogpt-dev-local/src/gen.py,Unbounded Max Metrics (UMM),2
+Jerk400__h2ogpt-dev-local,/Users/bramss/Desktop/Extracted_Repo_ICSE/Jerk400__h2ogpt-dev-local/src/gpt_langchain.py,LLM Temperature Not Explicitly Set(TNES),1
+Jerk400__h2ogpt-dev-local,/Users/bramss/Desktop/Extracted_Repo_ICSE/Jerk400__h2ogpt-dev-local/src/gpt_langchain.py,Unbounded Max Metrics (UMM),1
+Jerk400__h2ogpt-dev-local,/Users/bramss/Desktop/Extracted_Repo_ICSE/Jerk400__h2ogpt-dev-local/tests/test_eval_models.py,No Model Version Pinning (NMVP),2
+Jerk400__h2ogpt-dev-local,/Users/bramss/Desktop/Extracted_Repo_ICSE/Jerk400__h2ogpt-dev-local/tests/test_langchain_simple.py,LLM Temperature Not Explicitly Set(TNES),1
+Jerk400__h2ogpt-dev-local,/Users/bramss/Desktop/Extracted_Repo_ICSE/Jerk400__h2ogpt-dev-local/tests/test_langchain_simple.py,Unbounded Max Metrics (UMM),1
+Jerk400__h2ogpt-dev-local,/Users/bramss/Desktop/Extracted_Repo_ICSE/Jerk400__h2ogpt-dev-local/tests/test_long_context.py,No Model Version Pinning (NMVP),5
+Jerk400__h2ogpt-dev-local,/Users/bramss/Desktop/Extracted_Repo_ICSE/Jerk400__h2ogpt-dev-local/tests/test_pipeline.py,No Model Version Pinning (NMVP),6
+Jerk400__h2ogpt-dev-local,/Users/bramss/Desktop/Extracted_Repo_ICSE/Jerk400__h2ogpt-dev-local/tests/test_tokenizer.py,No Model Version Pinning (NMVP),2
+Josh-XT__AGiXT,/Users/bramss/Desktop/Extracted_Repo_ICSE/Josh-XT__AGiXT/provider/openai.py,No Structured Output (NSO),2
+Josh-XT__AGiXT,/Users/bramss/Desktop/Extracted_Repo_ICSE/Josh-XT__AGiXT/provider/openai.py,No System Message (NSM),1
+Shaunwei__RealChar,/Users/bramss/Desktop/Extracted_Repo_ICSE/Shaunwei__RealChar/realtime_ai_character/llm/anthropic_llm.py,Unbounded Max Metrics (UMM),1
+Shaunwei__RealChar,/Users/bramss/Desktop/Extracted_Repo_ICSE/Shaunwei__RealChar/realtime_ai_character/llm/openai_llm.py,Unbounded Max Metrics (UMM),1
+Significant-Gravitas__AutoGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/Significant-Gravitas__AutoGPT/scripts/agent_manager.py,LLM Temperature Not Explicitly Set(TNES),2
+Significant-Gravitas__AutoGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/Significant-Gravitas__AutoGPT/scripts/agent_manager.py,No Structured Output (NSO),2
+Significant-Gravitas__AutoGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/Significant-Gravitas__AutoGPT/scripts/agent_manager.py,No System Message (NSM),1
+Significant-Gravitas__AutoGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/Significant-Gravitas__AutoGPT/scripts/agent_manager.py,Unbounded Max Metrics (UMM),2
+Significant-Gravitas__AutoGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/Significant-Gravitas__AutoGPT/scripts/ai_functions.py,No Structured Output (NSO),1
+Significant-Gravitas__AutoGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/Significant-Gravitas__AutoGPT/scripts/ai_functions.py,No System Message (NSM),1
+Significant-Gravitas__AutoGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/Significant-Gravitas__AutoGPT/scripts/ai_functions.py,Unbounded Max Metrics (UMM),1
+Significant-Gravitas__AutoGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/Significant-Gravitas__AutoGPT/scripts/browse.py,LLM Temperature Not Explicitly Set(TNES),2
+Significant-Gravitas__AutoGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/Significant-Gravitas__AutoGPT/scripts/browse.py,No Model Version Pinning (NMVP),2
+Significant-Gravitas__AutoGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/Significant-Gravitas__AutoGPT/scripts/browse.py,No Structured Output (NSO),2
+Significant-Gravitas__AutoGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/Significant-Gravitas__AutoGPT/scripts/browse.py,No System Message (NSM),1
+Significant-Gravitas__AutoGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/Significant-Gravitas__AutoGPT/scripts/chat.py,LLM Temperature Not Explicitly Set(TNES),1
+Significant-Gravitas__AutoGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/Significant-Gravitas__AutoGPT/scripts/chat.py,No Model Version Pinning (NMVP),1
+Significant-Gravitas__AutoGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/Significant-Gravitas__AutoGPT/scripts/chat.py,No Structured Output (NSO),1
+Significant-Gravitas__AutoGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/Significant-Gravitas__AutoGPT/scripts/chat.py,No System Message (NSM),1
+Significant-Gravitas__AutoGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/Significant-Gravitas__AutoGPT/scripts/chat.py,Unbounded Max Metrics (UMM),1
+SolaceDev__pr-agent,/Users/bramss/Desktop/Extracted_Repo_ICSE/SolaceDev__pr-agent/pr_agent/algo/ai_handlers/langchain_ai_handler.py,LLM Temperature Not Explicitly Set(TNES),2
+SolaceDev__pr-agent,/Users/bramss/Desktop/Extracted_Repo_ICSE/SolaceDev__pr-agent/pr_agent/algo/ai_handlers/langchain_ai_handler.py,Unbounded Max Metrics (UMM),2
+VTSTech__localagi,/Users/bramss/Desktop/Extracted_Repo_ICSE/VTSTech__localagi/babyagi.py,LLM Temperature Not Explicitly Set(TNES),1
+VTSTech__localagi,/Users/bramss/Desktop/Extracted_Repo_ICSE/VTSTech__localagi/babyagi.py,No Model Version Pinning (NMVP),2
+VTSTech__localagi,/Users/bramss/Desktop/Extracted_Repo_ICSE/VTSTech__localagi/babyagi.py,No Structured Output (NSO),1
+VTSTech__localagi,/Users/bramss/Desktop/Extracted_Repo_ICSE/VTSTech__localagi/babyagi.py,Unbounded Max Metrics (UMM),2
+Vidminas__chatdocs-streamlit,/Users/bramss/Desktop/Extracted_Repo_ICSE/Vidminas__chatdocs-streamlit/chatdocs/llms.py,LLM Temperature Not Explicitly Set(TNES),3
+Vidminas__chatdocs-streamlit,/Users/bramss/Desktop/Extracted_Repo_ICSE/Vidminas__chatdocs-streamlit/chatdocs/llms.py,No Model Version Pinning (NMVP),2
+Vidminas__chatdocs-streamlit,/Users/bramss/Desktop/Extracted_Repo_ICSE/Vidminas__chatdocs-streamlit/chatdocs/llms.py,Unbounded Max Metrics (UMM),2
+X-D-Lab__LangChain-ChatGLM-Webui,/Users/bramss/Desktop/Extracted_Repo_ICSE/X-D-Lab__LangChain-ChatGLM-Webui/chatllm.py,No Model Version Pinning (NMVP),4
+ai8hyf__babyagi,/Users/bramss/Desktop/Extracted_Repo_ICSE/ai8hyf__babyagi/babyagi.py,No Structured Output (NSO),2
+ai8hyf__babyagi,/Users/bramss/Desktop/Extracted_Repo_ICSE/ai8hyf__babyagi/babyagi.py,No System Message (NSM),1
+aigeek0x0__chat-with-multiple-pdfs-streamlit-langchain-faiss-openai,/Users/bramss/Desktop/Extracted_Repo_ICSE/aigeek0x0__chat-with-multiple-pdfs-streamlit-langchain-faiss-openai/app.py,LLM Temperature Not Explicitly Set(TNES),1
+aigeek0x0__chat-with-multiple-pdfs-streamlit-langchain-faiss-openai,/Users/bramss/Desktop/Extracted_Repo_ICSE/aigeek0x0__chat-with-multiple-pdfs-streamlit-langchain-faiss-openai/app.py,Unbounded Max Metrics (UMM),1
+alejandro-ao__ask-multiple-pdfs,/Users/bramss/Desktop/Extracted_Repo_ICSE/alejandro-ao__ask-multiple-pdfs/app.py,LLM Temperature Not Explicitly Set(TNES),1
+alejandro-ao__ask-multiple-pdfs,/Users/bramss/Desktop/Extracted_Repo_ICSE/alejandro-ao__ask-multiple-pdfs/app.py,Unbounded Max Metrics (UMM),1
+amauryfischer__Auto-GPT-WebUI,/Users/bramss/Desktop/Extracted_Repo_ICSE/amauryfischer__Auto-GPT-WebUI/autogpt/llm_utils.py,No Structured Output (NSO),2
+amauryfischer__Auto-GPT-WebUI,/Users/bramss/Desktop/Extracted_Repo_ICSE/amauryfischer__Auto-GPT-WebUI/autogpt/llm_utils.py,No System Message (NSM),1
+arc53__DocsGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/arc53__DocsGPT/application/llm/huggingface.py,LLM Temperature Not Explicitly Set(TNES),2
+arc53__DocsGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/arc53__DocsGPT/application/llm/huggingface.py,No Model Version Pinning (NMVP),2
+arc53__DocsGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/arc53__DocsGPT/application/llm/huggingface.py,Unbounded Max Metrics (UMM),2
+arc53__DocsGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/arc53__DocsGPT/application/llm/openai.py,LLM Temperature Not Explicitly Set(TNES),2
+arc53__DocsGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/arc53__DocsGPT/application/llm/openai.py,No Structured Output (NSO),2
+arc53__DocsGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/arc53__DocsGPT/application/llm/openai.py,No System Message (NSM),1
+arc53__DocsGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/arc53__DocsGPT/application/llm/openai.py,Unbounded Max Metrics (UMM),2
+benjaminearlevans__Chatgpt-babyagi-plugin,/Users/bramss/Desktop/Extracted_Repo_ICSE/benjaminearlevans__Chatgpt-babyagi-plugin/main.py,LLM Temperature Not Explicitly Set(TNES),1
+benjaminearlevans__Chatgpt-babyagi-plugin,/Users/bramss/Desktop/Extracted_Repo_ICSE/benjaminearlevans__Chatgpt-babyagi-plugin/main.py,No Model Version Pinning (NMVP),2
+benjaminearlevans__Chatgpt-babyagi-plugin,/Users/bramss/Desktop/Extracted_Repo_ICSE/benjaminearlevans__Chatgpt-babyagi-plugin/main.py,No Structured Output (NSO),2
+benjaminearlevans__Chatgpt-babyagi-plugin,/Users/bramss/Desktop/Extracted_Repo_ICSE/benjaminearlevans__Chatgpt-babyagi-plugin/main.py,No System Message (NSM),1
+benjaminearlevans__Chatgpt-babyagi-plugin,/Users/bramss/Desktop/Extracted_Repo_ICSE/benjaminearlevans__Chatgpt-babyagi-plugin/main.py,Unbounded Max Metrics (UMM),1
+c121914yu__FastGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/c121914yu__FastGPT/files/models/ChatGLM2/openai_api.py,No Model Version Pinning (NMVP),2
+camel-ai__camel,/Users/bramss/Desktop/Extracted_Repo_ICSE/camel-ai__camel/camel/models/openai_model.py,LLM Temperature Not Explicitly Set(TNES),1
+camel-ai__camel,/Users/bramss/Desktop/Extracted_Repo_ICSE/camel-ai__camel/camel/models/openai_model.py,No Structured Output (NSO),1
+camel-ai__camel,/Users/bramss/Desktop/Extracted_Repo_ICSE/camel-ai__camel/camel/models/openai_model.py,No System Message (NSM),1
+camel-ai__camel,/Users/bramss/Desktop/Extracted_Repo_ICSE/camel-ai__camel/camel/models/openai_model.py,Unbounded Max Metrics (UMM),1
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/chatchat-server/chatchat_server/agent/container.py,No Model Version Pinning (NMVP),3
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/chatchat-server/chatchat_server/knowledge_base/utils.py,No Model Version Pinning (NMVP),1
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/chatchat-server/chatchat_server/localai_embeddings.py,LLM Temperature Not Explicitly Set(TNES),1
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/chatchat-server/chatchat_server/utils.py,LLM Temperature Not Explicitly Set(TNES),2
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/chatchat-server/chatchat_server/utils.py,Unbounded Max Metrics (UMM),1
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/chatchat/chatchat/tests/api/test_openai_wrap.py,LLM Temperature Not Explicitly Set(TNES),1
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/chatchat/chatchat/tests/api/test_openai_wrap.py,No Structured Output (NSO),1
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/chatchat/chatchat/tests/api/test_openai_wrap.py,No System Message (NSM),1
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/chatchat/chatchat/tests/api/test_openai_wrap.py,Unbounded Max Metrics (UMM),1
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/anthropic/llm/llm.py,LLM Temperature Not Explicitly Set(TNES),1
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/anthropic/llm/llm.py,No Structured Output (NSO),1
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/anthropic/llm/llm.py,Unbounded Max Metrics (UMM),1
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/azure_openai/llm/llm.py,LLM Temperature Not Explicitly Set(TNES),2
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/azure_openai/llm/llm.py,No Structured Output (NSO),2
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/azure_openai/llm/llm.py,No System Message (NSM),1
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/azure_openai/llm/llm.py,Unbounded Max Metrics (UMM),2
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/chatglm/llm/llm.py,LLM Temperature Not Explicitly Set(TNES),2
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/chatglm/llm/llm.py,No Structured Output (NSO),1
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/chatglm/llm/llm.py,Unbounded Max Metrics (UMM),1
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/google/llm/llm.py,LLM Temperature Not Explicitly Set(TNES),1
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/google/llm/llm.py,No Model Version Pinning (NMVP),1
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/google/llm/llm.py,No System Message (NSM),1
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/google/llm/llm.py,Unbounded Max Metrics (UMM),1
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/jina/text_embedding/jina_tokenizer.py,No Model Version Pinning (NMVP),1
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/localai/llm/llm.py,LLM Temperature Not Explicitly Set(TNES),3
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/localai/llm/llm.py,No Structured Output (NSO),1
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/openai/llm/llm.py,LLM Temperature Not Explicitly Set(TNES),6
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/openai/llm/llm.py,No Structured Output (NSO),2
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/openai/llm/llm.py,No System Message (NSM),1
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/openai/llm/llm.py,Unbounded Max Metrics (UMM),2
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/openai/moderation/moderation.py,LLM Temperature Not Explicitly Set(TNES),2
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/openai/speech2text/speech2text.py,LLM Temperature Not Explicitly Set(TNES),1
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/openai/text_embedding/text_embedding.py,LLM Temperature Not Explicitly Set(TNES),2
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/openai/tts/tts.py,LLM Temperature Not Explicitly Set(TNES),2
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/xinference/llm/llm.py,LLM Temperature Not Explicitly Set(TNES),1
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/xinference/llm/llm.py,No Structured Output (NSO),1
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/zhipuai/llm/llm.py,LLM Temperature Not Explicitly Set(TNES),2
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/zhipuai/llm/llm.py,No Structured Output (NSO),2
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/zhipuai/llm/llm.py,No System Message (NSM),2
+chatchat-space__Langchain-Chatchat,/Users/bramss/Desktop/Extracted_Repo_ICSE/chatchat-space__Langchain-Chatchat/model-providers/chatchat_model_providers/core/model_runtime/model_providers/zhipuai/llm/llm.py,Unbounded Max Metrics (UMM),2
+chinesewebman__doc-chatbot,/Users/bramss/Desktop/Extracted_Repo_ICSE/chinesewebman__doc-chatbot/src/modules/chatbot.py,No Model Version Pinning (NMVP),1
+chinesewebman__doc-chatbot,/Users/bramss/Desktop/Extracted_Repo_ICSE/chinesewebman__doc-chatbot/src/modules/chatbot.py,No Structured Output (NSO),1
+chinesewebman__doc-chatbot,/Users/bramss/Desktop/Extracted_Repo_ICSE/chinesewebman__doc-chatbot/src/modules/chatbot.py,No System Message (NSM),1
+cpacker__MemGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/cpacker__MemGPT/memgpt/openai_tools.py,LLM Temperature Not Explicitly Set(TNES),3
+cpacker__MemGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/cpacker__MemGPT/memgpt/openai_tools.py,No Structured Output (NSO),3
+cpacker__MemGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/cpacker__MemGPT/memgpt/openai_tools.py,No System Message (NSM),1
+cpacker__MemGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/cpacker__MemGPT/memgpt/openai_tools.py,Unbounded Max Metrics (UMM),3
+daveshap__ChromaDB_Chatbot_Public,/Users/bramss/Desktop/Extracted_Repo_ICSE/daveshap__ChromaDB_Chatbot_Public/chat.py,No Structured Output (NSO),1
+daveshap__ChromaDB_Chatbot_Public,/Users/bramss/Desktop/Extracted_Repo_ICSE/daveshap__ChromaDB_Chatbot_Public/chat.py,No System Message (NSM),1
+daveshap__ChromaDB_Chatbot_Public,/Users/bramss/Desktop/Extracted_Repo_ICSE/daveshap__ChromaDB_Chatbot_Public/chat.py,Unbounded Max Metrics (UMM),1
+dory111111__babyagi-streamlit,/Users/bramss/Desktop/Extracted_Repo_ICSE/dory111111__babyagi-streamlit/babyagi.py,No Structured Output (NSO),2
+dory111111__babyagi-streamlit,/Users/bramss/Desktop/Extracted_Repo_ICSE/dory111111__babyagi-streamlit/babyagi.py,No System Message (NSM),1
+dotvignesh__PDFChat,/Users/bramss/Desktop/Extracted_Repo_ICSE/dotvignesh__PDFChat/app.py,LLM Temperature Not Explicitly Set(TNES),2
+dotvignesh__PDFChat,/Users/bramss/Desktop/Extracted_Repo_ICSE/dotvignesh__PDFChat/app.py,Unbounded Max Metrics (UMM),2
+edik7333__Auto-GPT-llama-cpp,/Users/bramss/Desktop/Extracted_Repo_ICSE/edik7333__Auto-GPT-llama-cpp/scripts/llm_utils.py,No Structured Output (NSO),2
+edik7333__Auto-GPT-llama-cpp,/Users/bramss/Desktop/Extracted_Repo_ICSE/edik7333__Auto-GPT-llama-cpp/scripts/llm_utils.py,No System Message (NSM),1
+edrickdch__chat-pdf,/Users/bramss/Desktop/Extracted_Repo_ICSE/edrickdch__chat-pdf/src/single-pdf.py,Unbounded Max Metrics (UMM),1
+eosphoros-ai__DB-GPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/eosphoros-ai__DB-GPT/pilot/model/adapter.py,No Model Version Pinning (NMVP),8
+fangyinc__DB-GPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/fangyinc__DB-GPT/dbgpt/core/interface/llm.py,LLM Temperature Not Explicitly Set(TNES),1
+fangyinc__DB-GPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/fangyinc__DB-GPT/dbgpt/core/interface/llm.py,No Structured Output (NSO),1
+fangyinc__DB-GPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/fangyinc__DB-GPT/dbgpt/core/interface/llm.py,No System Message (NSM),1
+fangyinc__DB-GPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/fangyinc__DB-GPT/dbgpt/core/interface/llm.py,Unbounded Max Metrics (UMM),1
+fangyinc__DB-GPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/fangyinc__DB-GPT/dbgpt/model/adapter.py,No Model Version Pinning (NMVP),18
+fangyinc__DB-GPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/fangyinc__DB-GPT/dbgpt/model/loader.py,No Model Version Pinning (NMVP),1
+fangyinc__DB-GPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/fangyinc__DB-GPT/dbgpt/model/model_adapter.py,No Model Version Pinning (NMVP),2
+fangyinc__DB-GPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/fangyinc__DB-GPT/dbgpt/model/proxy/llms/chatgpt.py,LLM Temperature Not Explicitly Set(TNES),1
+fangyinc__DB-GPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/fangyinc__DB-GPT/dbgpt/model/proxy/llms/chatgpt.py,No Structured Output (NSO),3
+fangyinc__DB-GPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/fangyinc__DB-GPT/dbgpt/model/proxy/llms/chatgpt.py,No System Message (NSM),1
+fangyinc__DB-GPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/fangyinc__DB-GPT/dbgpt/util/global_helper.py,No Model Version Pinning (NMVP),1
+fendouai__babyagi_zh,/Users/bramss/Desktop/Extracted_Repo_ICSE/fendouai__babyagi_zh/babyagi.py,No Structured Output (NSO),2
+fendouai__babyagi_zh,/Users/bramss/Desktop/Extracted_Repo_ICSE/fendouai__babyagi_zh/babyagi.py,No System Message (NSM),1
+gabacode__ChatBot-PDF,/Users/bramss/Desktop/Extracted_Repo_ICSE/gabacode__ChatBot-PDF/modules/chatbot.py,Unbounded Max Metrics (UMM),1
+goetzrobin__MemGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/goetzrobin__MemGPT/examples/google_search.py,LLM Temperature Not Explicitly Set(TNES),2
+goetzrobin__MemGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/goetzrobin__MemGPT/examples/google_search.py,No Structured Output (NSO),1
+goetzrobin__MemGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/goetzrobin__MemGPT/examples/google_search.py,No System Message (NSM),1
+goetzrobin__MemGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/goetzrobin__MemGPT/examples/google_search.py,Unbounded Max Metrics (UMM),1
+goetzrobin__MemGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/goetzrobin__MemGPT/examples/openai_client_assistants.py,LLM Temperature Not Explicitly Set(TNES),2
+goetzrobin__MemGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/goetzrobin__MemGPT/examples/openai_client_assistants.py,No Structured Output (NSO),1
+goetzrobin__MemGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/goetzrobin__MemGPT/examples/openai_client_assistants.py,No System Message (NSM),1
+goetzrobin__MemGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/goetzrobin__MemGPT/examples/openai_client_assistants.py,Unbounded Max Metrics (UMM),1
+goetzrobin__MemGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/goetzrobin__MemGPT/tests/test_openai_client.py,LLM Temperature Not Explicitly Set(TNES),2
+goetzrobin__MemGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/goetzrobin__MemGPT/tests/test_openai_client.py,No Structured Output (NSO),1
+goetzrobin__MemGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/goetzrobin__MemGPT/tests/test_openai_client.py,No System Message (NSM),1
+goetzrobin__MemGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/goetzrobin__MemGPT/tests/test_openai_client.py,Unbounded Max Metrics (UMM),1
+h2oai__h2ogpt,/Users/bramss/Desktop/Extracted_Repo_ICSE/h2oai__h2ogpt/models/create_model_cards.py,No Model Version Pinning (NMVP),1
+h2oai__h2ogpt,/Users/bramss/Desktop/Extracted_Repo_ICSE/h2oai__h2ogpt/spaces/demo/app.py,No Model Version Pinning (NMVP),2
+h2oai__h2ogpt,/Users/bramss/Desktop/Extracted_Repo_ICSE/h2oai__h2ogpt/src/create_data.py,No Model Version Pinning (NMVP),1
+h2oai__h2ogpt,/Users/bramss/Desktop/Extracted_Repo_ICSE/h2oai__h2ogpt/src/gen.py,LLM Temperature Not Explicitly Set(TNES),2
+h2oai__h2ogpt,/Users/bramss/Desktop/Extracted_Repo_ICSE/h2oai__h2ogpt/src/gen.py,No Structured Output (NSO),2
+h2oai__h2ogpt,/Users/bramss/Desktop/Extracted_Repo_ICSE/h2oai__h2ogpt/src/gen.py,Unbounded Max Metrics (UMM),2
+h2oai__h2ogpt,/Users/bramss/Desktop/Extracted_Repo_ICSE/h2oai__h2ogpt/src/gpt_langchain.py,LLM Temperature Not Explicitly Set(TNES),1
+h2oai__h2ogpt,/Users/bramss/Desktop/Extracted_Repo_ICSE/h2oai__h2ogpt/src/gpt_langchain.py,Unbounded Max Metrics (UMM),1
+h2oai__h2ogpt,/Users/bramss/Desktop/Extracted_Repo_ICSE/h2oai__h2ogpt/tests/test_eval_models.py,No Model Version Pinning (NMVP),2
+h2oai__h2ogpt,/Users/bramss/Desktop/Extracted_Repo_ICSE/h2oai__h2ogpt/tests/test_langchain_simple.py,LLM Temperature Not Explicitly Set(TNES),1
+h2oai__h2ogpt,/Users/bramss/Desktop/Extracted_Repo_ICSE/h2oai__h2ogpt/tests/test_langchain_simple.py,Unbounded Max Metrics (UMM),1
+h2oai__h2ogpt,/Users/bramss/Desktop/Extracted_Repo_ICSE/h2oai__h2ogpt/tests/test_pipeline.py,No Model Version Pinning (NMVP),6
+h2oai__h2ogpt,/Users/bramss/Desktop/Extracted_Repo_ICSE/h2oai__h2ogpt/tests/test_tokenizer.py,No Model Version Pinning (NMVP),2
+hlohaus__Agent-LLM,/Users/bramss/Desktop/Extracted_Repo_ICSE/hlohaus__Agent-LLM/provider/gpt4free.py,No Structured Output (NSO),1
+hlohaus__Agent-LLM,/Users/bramss/Desktop/Extracted_Repo_ICSE/hlohaus__Agent-LLM/provider/huggingface.py,No Model Version Pinning (NMVP),9
+hlohaus__Agent-LLM,/Users/bramss/Desktop/Extracted_Repo_ICSE/hlohaus__Agent-LLM/provider/openai.py,No Structured Output (NSO),2
+hlohaus__Agent-LLM,/Users/bramss/Desktop/Extracted_Repo_ICSE/hlohaus__Agent-LLM/provider/openai.py,No System Message (NSM),1
+hzg0601__langchain-ChatGLM-annotation,/Users/bramss/Desktop/Extracted_Repo_ICSE/hzg0601__langchain-ChatGLM-annotation/models/fastchat_openai_llm.py,LLM Temperature Not Explicitly Set(TNES),2
+hzg0601__langchain-ChatGLM-annotation,/Users/bramss/Desktop/Extracted_Repo_ICSE/hzg0601__langchain-ChatGLM-annotation/models/fastchat_openai_llm.py,No Structured Output (NSO),2
+hzg0601__langchain-ChatGLM-annotation,/Users/bramss/Desktop/Extracted_Repo_ICSE/hzg0601__langchain-ChatGLM-annotation/models/fastchat_openai_llm.py,Unbounded Max Metrics (UMM),2
+hzg0601__langchain-ChatGLM-annotation,/Users/bramss/Desktop/Extracted_Repo_ICSE/hzg0601__langchain-ChatGLM-annotation/models/loader/loader.py,No Model Version Pinning (NMVP),3
+iMagist486__ElasticSearch-Langchain-Chatglm2,/Users/bramss/Desktop/Extracted_Repo_ICSE/iMagist486__ElasticSearch-Langchain-Chatglm2/model/chatglm_llm.py,No Model Version Pinning (NMVP),2
+junruxiong__IncarnaMind,/Users/bramss/Desktop/Extracted_Repo_ICSE/junruxiong__IncarnaMind/main.py,Unbounded Max Metrics (UMM),1
+junruxiong__IncarnaMind,/Users/bramss/Desktop/Extracted_Repo_ICSE/junruxiong__IncarnaMind/toolkit/local_llm.py,LLM Temperature Not Explicitly Set(TNES),1
+junruxiong__IncarnaMind,/Users/bramss/Desktop/Extracted_Repo_ICSE/junruxiong__IncarnaMind/toolkit/local_llm.py,No Model Version Pinning (NMVP),2
+junruxiong__IncarnaMind,/Users/bramss/Desktop/Extracted_Repo_ICSE/junruxiong__IncarnaMind/toolkit/local_llm.py,Unbounded Max Metrics (UMM),2
+junruxiong__IncarnaMind,/Users/bramss/Desktop/Extracted_Repo_ICSE/junruxiong__IncarnaMind/toolkit/retrivers.py,No Structured Output (NSO),1
+labring__FastGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/labring__FastGPT/files/models/Baichuan2/openai_api.py,No Model Version Pinning (NMVP),2
+labring__FastGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/labring__FastGPT/files/models/ChatGLM2/openai_api.py,No Model Version Pinning (NMVP),2
+langchain-ai__chat-langchain,/Users/bramss/Desktop/Extracted_Repo_ICSE/langchain-ai__chat-langchain/_scripts/evaluate_chains_agent.py,Unbounded Max Metrics (UMM),1
+langchain-ai__chat-langchain,/Users/bramss/Desktop/Extracted_Repo_ICSE/langchain-ai__chat-langchain/main.py,Unbounded Max Metrics (UMM),1
+marella__chatdocs,/Users/bramss/Desktop/Extracted_Repo_ICSE/marella__chatdocs/chatdocs/llms.py,LLM Temperature Not Explicitly Set(TNES),1
+marella__chatdocs,/Users/bramss/Desktop/Extracted_Repo_ICSE/marella__chatdocs/chatdocs/llms.py,No Model Version Pinning (NMVP),1
+marella__chatdocs,/Users/bramss/Desktop/Extracted_Repo_ICSE/marella__chatdocs/chatdocs/llms.py,Unbounded Max Metrics (UMM),1
+matigumma__bb.agi,/Users/bramss/Desktop/Extracted_Repo_ICSE/matigumma__bb.agi/babyagi.py,No Structured Output (NSO),2
+matigumma__bb.agi,/Users/bramss/Desktop/Extracted_Repo_ICSE/matigumma__bb.agi/babyagi.py,No System Message (NSM),1
+robiwan303__babyagi,/Users/bramss/Desktop/Extracted_Repo_ICSE/robiwan303__babyagi/babycoder/babycoder.py,No Structured Output (NSO),2
+robiwan303__babyagi,/Users/bramss/Desktop/Extracted_Repo_ICSE/robiwan303__babyagi/babycoder/babycoder.py,No System Message (NSM),1
+robiwan303__babyagi,/Users/bramss/Desktop/Extracted_Repo_ICSE/robiwan303__babyagi/classic/BabyCatAGI.py,No Model Version Pinning (NMVP),3
+robiwan303__babyagi,/Users/bramss/Desktop/Extracted_Repo_ICSE/robiwan303__babyagi/classic/BabyCatAGI.py,No Structured Output (NSO),3
+robiwan303__babyagi,/Users/bramss/Desktop/Extracted_Repo_ICSE/robiwan303__babyagi/classic/BabyCatAGI.py,No System Message (NSM),1
+robiwan303__babyagi,/Users/bramss/Desktop/Extracted_Repo_ICSE/robiwan303__babyagi/classic/babyagi.py,No Structured Output (NSO),3
+robiwan303__babyagi,/Users/bramss/Desktop/Extracted_Repo_ICSE/robiwan303__babyagi/extensions/smart_search.py,No Model Version Pinning (NMVP),2
+robiwan303__babyagi,/Users/bramss/Desktop/Extracted_Repo_ICSE/robiwan303__babyagi/extensions/smart_search.py,No Structured Output (NSO),2
+robiwan303__babyagi,/Users/bramss/Desktop/Extracted_Repo_ICSE/robiwan303__babyagi/extensions/smart_search.py,No System Message (NSM),1
+saten-private__BabyCommandAGI,/Users/bramss/Desktop/Extracted_Repo_ICSE/saten-private__BabyCommandAGI/babyagi.py,LLM Temperature Not Explicitly Set(TNES),3
+saten-private__BabyCommandAGI,/Users/bramss/Desktop/Extracted_Repo_ICSE/saten-private__BabyCommandAGI/babyagi.py,No Model Version Pinning (NMVP),1
+saten-private__BabyCommandAGI,/Users/bramss/Desktop/Extracted_Repo_ICSE/saten-private__BabyCommandAGI/babyagi.py,No Structured Output (NSO),2
+saten-private__BabyCommandAGI,/Users/bramss/Desktop/Extracted_Repo_ICSE/saten-private__BabyCommandAGI/babyagi.py,No System Message (NSM),1
+saten-private__BabyCommandAGI,/Users/bramss/Desktop/Extracted_Repo_ICSE/saten-private__BabyCommandAGI/babyagi.py,Unbounded Max Metrics (UMM),1
+saten-private__BabyCommandAGI,/Users/bramss/Desktop/Extracted_Repo_ICSE/saten-private__BabyCommandAGI/babycoder/babycoder.py,No Structured Output (NSO),2
+saten-private__BabyCommandAGI,/Users/bramss/Desktop/Extracted_Repo_ICSE/saten-private__BabyCommandAGI/babycoder/babycoder.py,No System Message (NSM),1
+saten-private__BabyCommandAGI,/Users/bramss/Desktop/Extracted_Repo_ICSE/saten-private__BabyCommandAGI/classic/BabyCatAGI.py,No Model Version Pinning (NMVP),3
+saten-private__BabyCommandAGI,/Users/bramss/Desktop/Extracted_Repo_ICSE/saten-private__BabyCommandAGI/classic/BabyCatAGI.py,No Structured Output (NSO),3
+saten-private__BabyCommandAGI,/Users/bramss/Desktop/Extracted_Repo_ICSE/saten-private__BabyCommandAGI/classic/BabyCatAGI.py,No System Message (NSM),1
+saten-private__BabyCommandAGI,/Users/bramss/Desktop/Extracted_Repo_ICSE/saten-private__BabyCommandAGI/classic/babyagi.py,No Structured Output (NSO),3
+sw5park__LUISE,/Users/bramss/Desktop/Extracted_Repo_ICSE/sw5park__LUISE/src/agents/base_agent.py,No Structured Output (NSO),1
+uukuguy__DB-GPT-Lite,/Users/bramss/Desktop/Extracted_Repo_ICSE/uukuguy__DB-GPT-Lite/dbgpt/model/adapter/hf_adapter.py,No Model Version Pinning (NMVP),2
+uukuguy__DB-GPT-Lite,/Users/bramss/Desktop/Extracted_Repo_ICSE/uukuguy__DB-GPT-Lite/dbgpt/model/adapter/loader.py,No Model Version Pinning (NMVP),1
+uukuguy__DB-GPT-Lite,/Users/bramss/Desktop/Extracted_Repo_ICSE/uukuguy__DB-GPT-Lite/dbgpt/model/adapter/old_adapter.py,No Model Version Pinning (NMVP),18
+uukuguy__DB-GPT-Lite,/Users/bramss/Desktop/Extracted_Repo_ICSE/uukuguy__DB-GPT-Lite/dbgpt/model/proxy/llms/chatgpt.py,LLM Temperature Not Explicitly Set(TNES),2
+uukuguy__DB-GPT-Lite,/Users/bramss/Desktop/Extracted_Repo_ICSE/uukuguy__DB-GPT-Lite/dbgpt/model/proxy/llms/chatgpt.py,No Structured Output (NSO),2
+uukuguy__DB-GPT-Lite,/Users/bramss/Desktop/Extracted_Repo_ICSE/uukuguy__DB-GPT-Lite/dbgpt/model/proxy/llms/chatgpt.py,No System Message (NSM),1
+uukuguy__DB-GPT-Lite,/Users/bramss/Desktop/Extracted_Repo_ICSE/uukuguy__DB-GPT-Lite/dbgpt/model/proxy/llms/chatgpt.py,Unbounded Max Metrics (UMM),2
+uukuguy__DB-GPT-Lite,/Users/bramss/Desktop/Extracted_Repo_ICSE/uukuguy__DB-GPT-Lite/dbgpt/model/proxy/llms/gemini.py,LLM Temperature Not Explicitly Set(TNES),1
+uukuguy__DB-GPT-Lite,/Users/bramss/Desktop/Extracted_Repo_ICSE/uukuguy__DB-GPT-Lite/dbgpt/model/proxy/llms/gemini.py,No Model Version Pinning (NMVP),1
+uukuguy__DB-GPT-Lite,/Users/bramss/Desktop/Extracted_Repo_ICSE/uukuguy__DB-GPT-Lite/dbgpt/model/proxy/llms/gemini.py,No System Message (NSM),1
+uukuguy__DB-GPT-Lite,/Users/bramss/Desktop/Extracted_Repo_ICSE/uukuguy__DB-GPT-Lite/dbgpt/model/proxy/llms/gemini.py,Unbounded Max Metrics (UMM),1
+uukuguy__DB-GPT-Lite,/Users/bramss/Desktop/Extracted_Repo_ICSE/uukuguy__DB-GPT-Lite/dbgpt/util/global_helper.py,No Model Version Pinning (NMVP),1
+vmayoral__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/vmayoral__PentestGPT/pentestgpt/utils/chatgpt.py,LLM Temperature Not Explicitly Set(TNES),1
+vmayoral__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/vmayoral__PentestGPT/pentestgpt/utils/chatgpt.py,No Model Version Pinning (NMVP),1
+vmayoral__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/vmayoral__PentestGPT/pentestgpt/utils/chatgpt.py,No Structured Output (NSO),1
+vmayoral__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/vmayoral__PentestGPT/pentestgpt/utils/chatgpt.py,No System Message (NSM),1
+vmayoral__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/vmayoral__PentestGPT/pentestgpt/utils/chatgpt.py,Unbounded Max Metrics (UMM),1
+vmayoral__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/vmayoral__PentestGPT/pentestgpt/utils/chatgpt_api.py,No Structured Output (NSO),3
+vmayoral__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/vmayoral__PentestGPT/pentestgpt/utils/chatgpt_api.py,No System Message (NSM),1
+vmayoral__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/vmayoral__PentestGPT/pentestgpt/utils/chatgpt_api.py,Unbounded Max Metrics (UMM),3
+vmayoral__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/vmayoral__PentestGPT/utils/chatgpt.py,LLM Temperature Not Explicitly Set(TNES),1
+vmayoral__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/vmayoral__PentestGPT/utils/chatgpt.py,No Model Version Pinning (NMVP),1
+vmayoral__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/vmayoral__PentestGPT/utils/chatgpt.py,No Structured Output (NSO),1
+vmayoral__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/vmayoral__PentestGPT/utils/chatgpt.py,No System Message (NSM),1
+vmayoral__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/vmayoral__PentestGPT/utils/chatgpt.py,Unbounded Max Metrics (UMM),1
+vmayoral__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/vmayoral__PentestGPT/utils/chatgpt_api.py,No Structured Output (NSO),3
+vmayoral__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/vmayoral__PentestGPT/utils/chatgpt_api.py,No System Message (NSM),1
+vmayoral__PentestGPT,/Users/bramss/Desktop/Extracted_Repo_ICSE/vmayoral__PentestGPT/utils/chatgpt_api.py,Unbounded Max Metrics (UMM),3
+yoheinakajima__babyagi,/Users/bramss/Desktop/Extracted_Repo_ICSE/yoheinakajima__babyagi/babyagi.py,No Structured Output (NSO),2
+yoheinakajima__babyagi,/Users/bramss/Desktop/Extracted_Repo_ICSE/yoheinakajima__babyagi/babyagi.py,No System Message (NSM),1
+yujiosaka__ChatIQ,/Users/bramss/Desktop/Extracted_Repo_ICSE/yujiosaka__ChatIQ/chatiq/handlers/app_mention.py,Unbounded Max Metrics (UMM),1
+yvann-hub__Robby-chatbot,/Users/bramss/Desktop/Extracted_Repo_ICSE/yvann-hub__Robby-chatbot/src/chatbot_csv.py,Unbounded Max Metrics (UMM),1
+yvann-hub__Robby-chatbot,/Users/bramss/Desktop/Extracted_Repo_ICSE/yvann-hub__Robby-chatbot/src/modules/chatbot.py,Unbounded Max Metrics (UMM),1
+yvann-hub__Robby-chatbot,/Users/bramss/Desktop/Extracted_Repo_ICSE/yvann-hub__Robby-chatbot/src/tuto_chatbot_csv.py,Unbounded Max Metrics (UMM),1
+zhjunqin__Langchain-Chatchat-InternLM,/Users/bramss/Desktop/Extracted_Repo_ICSE/zhjunqin__Langchain-Chatchat-InternLM/chains/llmchain_with_history.py,LLM Temperature Not Explicitly Set(TNES),1
+zhjunqin__Langchain-Chatchat-InternLM,/Users/bramss/Desktop/Extracted_Repo_ICSE/zhjunqin__Langchain-Chatchat-InternLM/chains/llmchain_with_history.py,Unbounded Max Metrics (UMM),1
+zhjunqin__Langchain-Chatchat-InternLM,/Users/bramss/Desktop/Extracted_Repo_ICSE/zhjunqin__Langchain-Chatchat-InternLM/server/chat/chat.py,LLM Temperature Not Explicitly Set(TNES),1
+zhjunqin__Langchain-Chatchat-InternLM,/Users/bramss/Desktop/Extracted_Repo_ICSE/zhjunqin__Langchain-Chatchat-InternLM/server/chat/chat.py,Unbounded Max Metrics (UMM),1
+zhjunqin__Langchain-Chatchat-InternLM,/Users/bramss/Desktop/Extracted_Repo_ICSE/zhjunqin__Langchain-Chatchat-InternLM/server/chat/knowledge_base_chat.py,LLM Temperature Not Explicitly Set(TNES),1
+zhjunqin__Langchain-Chatchat-InternLM,/Users/bramss/Desktop/Extracted_Repo_ICSE/zhjunqin__Langchain-Chatchat-InternLM/server/chat/knowledge_base_chat.py,Unbounded Max Metrics (UMM),1
+zhjunqin__Langchain-Chatchat-InternLM,/Users/bramss/Desktop/Extracted_Repo_ICSE/zhjunqin__Langchain-Chatchat-InternLM/server/chat/openai_chat.py,LLM Temperature Not Explicitly Set(TNES),1
+zhjunqin__Langchain-Chatchat-InternLM,/Users/bramss/Desktop/Extracted_Repo_ICSE/zhjunqin__Langchain-Chatchat-InternLM/server/chat/openai_chat.py,No Structured Output (NSO),1
+zhjunqin__Langchain-Chatchat-InternLM,/Users/bramss/Desktop/Extracted_Repo_ICSE/zhjunqin__Langchain-Chatchat-InternLM/server/chat/openai_chat.py,Unbounded Max Metrics (UMM),1
+zhjunqin__Langchain-Chatchat-InternLM,/Users/bramss/Desktop/Extracted_Repo_ICSE/zhjunqin__Langchain-Chatchat-InternLM/server/chat/search_engine_chat.py,LLM Temperature Not Explicitly Set(TNES),1
+zhjunqin__Langchain-Chatchat-InternLM,/Users/bramss/Desktop/Extracted_Repo_ICSE/zhjunqin__Langchain-Chatchat-InternLM/server/chat/search_engine_chat.py,Unbounded Max Metrics (UMM),1

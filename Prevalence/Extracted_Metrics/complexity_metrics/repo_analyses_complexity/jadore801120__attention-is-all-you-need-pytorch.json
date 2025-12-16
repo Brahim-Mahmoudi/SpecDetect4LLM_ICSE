@@ -1,0 +1,145 @@
+[
+  {
+    "file": "jadore801120/attention-is-all-you-need-pytorch/jadore801120-attention-is-all-you-need-pytorch-132907d/apply_bpe.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 47,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 261
+  },
+  {
+    "file": "jadore801120/attention-is-all-you-need-pytorch/jadore801120-attention-is-all-you-need-pytorch-132907d/learn_bpe.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 48,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 231
+  },
+  {
+    "file": "jadore801120/attention-is-all-you-need-pytorch/jadore801120-attention-is-all-you-need-pytorch-132907d/preprocess.py",
+    "num_functions": 15,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 51,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 336
+  },
+  {
+    "file": "jadore801120/attention-is-all-you-need-pytorch/jadore801120-attention-is-all-you-need-pytorch-132907d/train.py",
+    "num_functions": 12,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 85,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 367
+  },
+  {
+    "file": "jadore801120/attention-is-all-you-need-pytorch/jadore801120-attention-is-all-you-need-pytorch-132907d/transformer/Constants.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 4
+  },
+  {
+    "file": "jadore801120/attention-is-all-you-need-pytorch/jadore801120-attention-is-all-you-need-pytorch-132907d/transformer/Layers.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 42
+  },
+  {
+    "file": "jadore801120/attention-is-all-you-need-pytorch/jadore801120-attention-is-all-you-need-pytorch-132907d/transformer/Models.py",
+    "num_functions": 12,
+    "max_function_depth": 2,
+    "num_classes": 4,
+    "num_assignments": 44,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 198
+  },
+  {
+    "file": "jadore801120/attention-is-all-you-need-pytorch/jadore801120-attention-is-all-you-need-pytorch-132907d/transformer/Modules.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 25
+  },
+  {
+    "file": "jadore801120/attention-is-all-you-need-pytorch/jadore801120-attention-is-all-you-need-pytorch-132907d/transformer/Optim.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 40
+  },
+  {
+    "file": "jadore801120/attention-is-all-you-need-pytorch/jadore801120-attention-is-all-you-need-pytorch-132907d/transformer/SubLayers.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 82
+  },
+  {
+    "file": "jadore801120/attention-is-all-you-need-pytorch/jadore801120-attention-is-all-you-need-pytorch-132907d/transformer/Translator.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 37,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 114
+  },
+  {
+    "file": "jadore801120/attention-is-all-you-need-pytorch/jadore801120-attention-is-all-you-need-pytorch-132907d/transformer/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 12
+  },
+  {
+    "file": "jadore801120/attention-is-all-you-need-pytorch/jadore801120-attention-is-all-you-need-pytorch-132907d/translate.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 109
+  }
+]

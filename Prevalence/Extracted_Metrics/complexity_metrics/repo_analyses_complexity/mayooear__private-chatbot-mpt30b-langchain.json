@@ -1,0 +1,68 @@
+[
+  {
+    "file": "mayooear/private-chatbot-mpt30b-langchain/mayooear-private-chatbot-mpt30b-langchain-dbb888a/chat.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 90
+  },
+  {
+    "file": "mayooear/private-chatbot-mpt30b-langchain/mayooear-private-chatbot-mpt30b-langchain-dbb888a/constants.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 17
+  },
+  {
+    "file": "mayooear/private-chatbot-mpt30b-langchain/mayooear-private-chatbot-mpt30b-langchain-dbb888a/download_model.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 27
+  },
+  {
+    "file": "mayooear/private-chatbot-mpt30b-langchain/mayooear-private-chatbot-mpt30b-langchain-dbb888a/ingest.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 162
+  },
+  {
+    "file": "mayooear/private-chatbot-mpt30b-langchain/mayooear-private-chatbot-mpt30b-langchain-dbb888a/question_answer_docs.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 92
+  },
+  {
+    "file": "mayooear/private-chatbot-mpt30b-langchain/mayooear-private-chatbot-mpt30b-langchain-dbb888a/utils.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 22
+  }
+]

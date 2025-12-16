@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Haste171/langchain-chatbot/Haste171-langchain-chatbot-f399953/chatbot.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 108
+  },
+  {
+    "file": "Haste171/langchain-chatbot/Haste171-langchain-chatbot-f399953/streamlit.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 28,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 119
+  },
+  {
+    "file": "Haste171/langchain-chatbot/Haste171-langchain-chatbot-f399953/templates/condense_prompt.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 6
+  },
+  {
+    "file": "Haste171/langchain-chatbot/Haste171-langchain-chatbot-f399953/templates/qa_prompt.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 9
+  },
+  {
+    "file": "Haste171/langchain-chatbot/Haste171-langchain-chatbot-f399953/utils/ingest.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 30
+  },
+  {
+    "file": "Haste171/langchain-chatbot/Haste171-langchain-chatbot-f399953/utils/query.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 33
+  }
+]

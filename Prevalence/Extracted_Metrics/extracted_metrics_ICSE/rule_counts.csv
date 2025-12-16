@@ -1,0 +1,6 @@
+rule,total_alerts
+No Model Version Pinning (NMVP),151
+No Structured Output (NSO),123
+Unbounded Max Metrics (UMM),106
+LLM Temperature Not Explicitly Set(TNES),91
+No System Message (NSM),53

@@ -1,0 +1,101 @@
+[
+  {
+    "file": "karpathy/minGPT/karpathy-minGPT-37baab7/mingpt/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "karpathy/minGPT/karpathy-minGPT-37baab7/mingpt/bpe.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 64,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 319
+  },
+  {
+    "file": "karpathy/minGPT/karpathy-minGPT-37baab7/mingpt/model.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 82,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 310
+  },
+  {
+    "file": "karpathy/minGPT/karpathy-minGPT-37baab7/mingpt/trainer.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 36,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 109
+  },
+  {
+    "file": "karpathy/minGPT/karpathy-minGPT-37baab7/mingpt/utils.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 103
+  },
+  {
+    "file": "karpathy/minGPT/karpathy-minGPT-37baab7/projects/adder/adder.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 64,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 207
+  },
+  {
+    "file": "karpathy/minGPT/karpathy-minGPT-37baab7/projects/chargpt/chargpt.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 34,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 133
+  },
+  {
+    "file": "karpathy/minGPT/karpathy-minGPT-37baab7/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 12
+  },
+  {
+    "file": "karpathy/minGPT/karpathy-minGPT-37baab7/tests/test_huggingface_import.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 57
+  }
+]

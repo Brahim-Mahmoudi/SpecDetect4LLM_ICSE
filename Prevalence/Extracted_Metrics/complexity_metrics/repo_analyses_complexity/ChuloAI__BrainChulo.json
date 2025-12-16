@@ -1,0 +1,145 @@
+[
+  {
+    "file": "ChuloAI/BrainChulo/ChuloAI-BrainChulo-f2d6753/app/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "ChuloAI/BrainChulo/ChuloAI-BrainChulo-f2d6753/app/conversations/document_based.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 135
+  },
+  {
+    "file": "ChuloAI/BrainChulo/ChuloAI-BrainChulo-f2d6753/app/llms/oobabooga_llm.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 15,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 95
+  },
+  {
+    "file": "ChuloAI/BrainChulo/ChuloAI-BrainChulo-f2d6753/app/main.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 15,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 123
+  },
+  {
+    "file": "ChuloAI/BrainChulo/ChuloAI-BrainChulo-f2d6753/app/memory/base.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 98
+  },
+  {
+    "file": "ChuloAI/BrainChulo/ChuloAI-BrainChulo-f2d6753/app/memory/chroma_memory.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 52
+  },
+  {
+    "file": "ChuloAI/BrainChulo/ChuloAI-BrainChulo-f2d6753/app/prompt_templates/document_based_conversation.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 80
+  },
+  {
+    "file": "ChuloAI/BrainChulo/ChuloAI-BrainChulo-f2d6753/app/prompt_templates/friendly_conversation.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 10
+  },
+  {
+    "file": "ChuloAI/BrainChulo/ChuloAI-BrainChulo-f2d6753/app/settings.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 43
+  },
+  {
+    "file": "ChuloAI/BrainChulo/ChuloAI-BrainChulo-f2d6753/app/tools/base.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 19
+  },
+  {
+    "file": "ChuloAI/BrainChulo/ChuloAI-BrainChulo-f2d6753/app/tools/web_access.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 11
+  },
+  {
+    "file": "ChuloAI/BrainChulo/ChuloAI-BrainChulo-f2d6753/download-model.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 74,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 310
+  },
+  {
+    "file": "ChuloAI/BrainChulo/ChuloAI-BrainChulo-f2d6753/main.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 3
+  }
+]

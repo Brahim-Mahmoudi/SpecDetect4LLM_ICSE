@@ -1,0 +1,200 @@
+[
+  {
+    "file": "openai/tiktoken/openai-tiktoken-97e49cb/scripts/benchmark.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 39
+  },
+  {
+    "file": "openai/tiktoken/openai-tiktoken-97e49cb/scripts/redact.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 67
+  },
+  {
+    "file": "openai/tiktoken/openai-tiktoken-97e49cb/scripts/wheel_download.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 56
+  },
+  {
+    "file": "openai/tiktoken/openai-tiktoken-97e49cb/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 19
+  },
+  {
+    "file": "openai/tiktoken/openai-tiktoken-97e49cb/tests/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "openai/tiktoken/openai-tiktoken-97e49cb/tests/test_encoding.py",
+    "num_functions": 17,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 41,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 263
+  },
+  {
+    "file": "openai/tiktoken/openai-tiktoken-97e49cb/tests/test_helpers.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 22
+  },
+  {
+    "file": "openai/tiktoken/openai-tiktoken-97e49cb/tests/test_misc.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 30
+  },
+  {
+    "file": "openai/tiktoken/openai-tiktoken-97e49cb/tests/test_offsets.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 79
+  },
+  {
+    "file": "openai/tiktoken/openai-tiktoken-97e49cb/tests/test_pickle.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 23
+  },
+  {
+    "file": "openai/tiktoken/openai-tiktoken-97e49cb/tests/test_simple_public.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 42
+  },
+  {
+    "file": "openai/tiktoken/openai-tiktoken-97e49cb/tiktoken/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 8
+  },
+  {
+    "file": "openai/tiktoken/openai-tiktoken-97e49cb/tiktoken/_educational.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 40,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 223
+  },
+  {
+    "file": "openai/tiktoken/openai-tiktoken-97e49cb/tiktoken/core.py",
+    "num_functions": 28,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 34,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 446
+  },
+  {
+    "file": "openai/tiktoken/openai-tiktoken-97e49cb/tiktoken/load.py",
+    "num_functions": 7,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 28,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 172
+  },
+  {
+    "file": "openai/tiktoken/openai-tiktoken-97e49cb/tiktoken/model.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 118
+  },
+  {
+    "file": "openai/tiktoken/openai-tiktoken-97e49cb/tiktoken/registry.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 96
+  },
+  {
+    "file": "openai/tiktoken/openai-tiktoken-97e49cb/tiktoken_ext/openai_public.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 162
+  }
+]

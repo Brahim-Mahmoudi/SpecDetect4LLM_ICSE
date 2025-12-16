@@ -1,0 +1,159 @@
+project,rule,alerts
+0xk1h0__PentestGPT,LLM Temperature Not Explicitly Set(TNES),3
+0xk1h0__PentestGPT,No Model Version Pinning (NMVP),2
+0xk1h0__PentestGPT,No Structured Output (NSO),16
+0xk1h0__PentestGPT,No System Message (NSM),4
+0xk1h0__PentestGPT,Unbounded Max Metrics (UMM),17
+ATheorell__AutoGPTArenaHack,LLM Temperature Not Explicitly Set(TNES),1
+ATheorell__AutoGPTArenaHack,No Model Version Pinning (NMVP),1
+ATheorell__AutoGPTArenaHack,No Structured Output (NSO),1
+ATheorell__AutoGPTArenaHack,Unbounded Max Metrics (UMM),2
+AgentValley__chromadb-chatbot,No Structured Output (NSO),1
+AgentValley__chromadb-chatbot,No System Message (NSM),1
+AgentValley__chromadb-chatbot,Unbounded Max Metrics (UMM),1
+BillSchumacher__Auto-GPT,No Structured Output (NSO),2
+BillSchumacher__Auto-GPT,No System Message (NSM),1
+CloudDevStudios__Agent-LLM,No Structured Output (NSO),2
+CloudDevStudios__Agent-LLM,No System Message (NSM),1
+Doriandarko__BabyAGIChatGPT,LLM Temperature Not Explicitly Set(TNES),1
+Doriandarko__BabyAGIChatGPT,No Model Version Pinning (NMVP),2
+Doriandarko__BabyAGIChatGPT,No Structured Output (NSO),2
+Doriandarko__BabyAGIChatGPT,No System Message (NSM),1
+Doriandarko__BabyAGIChatGPT,Unbounded Max Metrics (UMM),1
+EmbraceAGI__LocalAGI,No Model Version Pinning (NMVP),2
+EmbraceAGI__LocalAGI,No Structured Output (NSO),4
+EmbraceAGI__LocalAGI,No System Message (NSM),2
+ExpressGit__langchain-ChatGLM,No Model Version Pinning (NMVP),2
+FOLLGAD__Godmode-GPT,No Structured Output (NSO),2
+FOLLGAD__Godmode-GPT,No System Message (NSM),1
+Gamma-Software__AppifyAi,Unbounded Max Metrics (UMM),3
+Haste171__langchain-chatbot,Unbounded Max Metrics (UMM),2
+Jerk400__h2ogpt-dev-local,LLM Temperature Not Explicitly Set(TNES),4
+Jerk400__h2ogpt-dev-local,No Model Version Pinning (NMVP),19
+Jerk400__h2ogpt-dev-local,No Structured Output (NSO),2
+Jerk400__h2ogpt-dev-local,Unbounded Max Metrics (UMM),4
+Josh-XT__AGiXT,No Structured Output (NSO),2
+Josh-XT__AGiXT,No System Message (NSM),1
+Shaunwei__RealChar,Unbounded Max Metrics (UMM),2
+Significant-Gravitas__AutoGPT,LLM Temperature Not Explicitly Set(TNES),5
+Significant-Gravitas__AutoGPT,No Model Version Pinning (NMVP),3
+Significant-Gravitas__AutoGPT,No Structured Output (NSO),6
+Significant-Gravitas__AutoGPT,No System Message (NSM),4
+Significant-Gravitas__AutoGPT,Unbounded Max Metrics (UMM),4
+SolaceDev__pr-agent,LLM Temperature Not Explicitly Set(TNES),2
+SolaceDev__pr-agent,Unbounded Max Metrics (UMM),2
+VTSTech__localagi,LLM Temperature Not Explicitly Set(TNES),1
+VTSTech__localagi,No Model Version Pinning (NMVP),2
+VTSTech__localagi,No Structured Output (NSO),1
+VTSTech__localagi,Unbounded Max Metrics (UMM),2
+Vidminas__chatdocs-streamlit,LLM Temperature Not Explicitly Set(TNES),3
+Vidminas__chatdocs-streamlit,No Model Version Pinning (NMVP),2
+Vidminas__chatdocs-streamlit,Unbounded Max Metrics (UMM),2
+X-D-Lab__LangChain-ChatGLM-Webui,No Model Version Pinning (NMVP),4
+ai8hyf__babyagi,No Structured Output (NSO),2
+ai8hyf__babyagi,No System Message (NSM),1
+aigeek0x0__chat-with-multiple-pdfs-streamlit-langchain-faiss-openai,LLM Temperature Not Explicitly Set(TNES),1
+aigeek0x0__chat-with-multiple-pdfs-streamlit-langchain-faiss-openai,Unbounded Max Metrics (UMM),1
+alejandro-ao__ask-multiple-pdfs,LLM Temperature Not Explicitly Set(TNES),1
+alejandro-ao__ask-multiple-pdfs,Unbounded Max Metrics (UMM),1
+amauryfischer__Auto-GPT-WebUI,No Structured Output (NSO),2
+amauryfischer__Auto-GPT-WebUI,No System Message (NSM),1
+arc53__DocsGPT,LLM Temperature Not Explicitly Set(TNES),4
+arc53__DocsGPT,No Model Version Pinning (NMVP),2
+arc53__DocsGPT,No Structured Output (NSO),2
+arc53__DocsGPT,No System Message (NSM),1
+arc53__DocsGPT,Unbounded Max Metrics (UMM),4
+benjaminearlevans__Chatgpt-babyagi-plugin,LLM Temperature Not Explicitly Set(TNES),1
+benjaminearlevans__Chatgpt-babyagi-plugin,No Model Version Pinning (NMVP),2
+benjaminearlevans__Chatgpt-babyagi-plugin,No Structured Output (NSO),2
+benjaminearlevans__Chatgpt-babyagi-plugin,No System Message (NSM),1
+benjaminearlevans__Chatgpt-babyagi-plugin,Unbounded Max Metrics (UMM),1
+c121914yu__FastGPT,No Model Version Pinning (NMVP),2
+camel-ai__camel,LLM Temperature Not Explicitly Set(TNES),1
+camel-ai__camel,No Structured Output (NSO),1
+camel-ai__camel,No System Message (NSM),1
+camel-ai__camel,Unbounded Max Metrics (UMM),1
+chatchat-space__Langchain-Chatchat,LLM Temperature Not Explicitly Set(TNES),29
+chatchat-space__Langchain-Chatchat,No Model Version Pinning (NMVP),6
+chatchat-space__Langchain-Chatchat,No Structured Output (NSO),11
+chatchat-space__Langchain-Chatchat,No System Message (NSM),6
+chatchat-space__Langchain-Chatchat,Unbounded Max Metrics (UMM),11
+chinesewebman__doc-chatbot,No Model Version Pinning (NMVP),1
+chinesewebman__doc-chatbot,No Structured Output (NSO),1
+chinesewebman__doc-chatbot,No System Message (NSM),1
+cpacker__MemGPT,LLM Temperature Not Explicitly Set(TNES),3
+cpacker__MemGPT,No Structured Output (NSO),3
+cpacker__MemGPT,No System Message (NSM),1
+cpacker__MemGPT,Unbounded Max Metrics (UMM),3
+daveshap__ChromaDB_Chatbot_Public,No Structured Output (NSO),1
+daveshap__ChromaDB_Chatbot_Public,No System Message (NSM),1
+daveshap__ChromaDB_Chatbot_Public,Unbounded Max Metrics (UMM),1
+dory111111__babyagi-streamlit,No Structured Output (NSO),2
+dory111111__babyagi-streamlit,No System Message (NSM),1
+dotvignesh__PDFChat,LLM Temperature Not Explicitly Set(TNES),2
+dotvignesh__PDFChat,Unbounded Max Metrics (UMM),2
+edik7333__Auto-GPT-llama-cpp,No Structured Output (NSO),2
+edik7333__Auto-GPT-llama-cpp,No System Message (NSM),1
+edrickdch__chat-pdf,Unbounded Max Metrics (UMM),1
+eosphoros-ai__DB-GPT,No Model Version Pinning (NMVP),8
+fangyinc__DB-GPT,LLM Temperature Not Explicitly Set(TNES),2
+fangyinc__DB-GPT,No Model Version Pinning (NMVP),22
+fangyinc__DB-GPT,No Structured Output (NSO),4
+fangyinc__DB-GPT,No System Message (NSM),2
+fangyinc__DB-GPT,Unbounded Max Metrics (UMM),1
+fendouai__babyagi_zh,No Structured Output (NSO),2
+fendouai__babyagi_zh,No System Message (NSM),1
+gabacode__ChatBot-PDF,Unbounded Max Metrics (UMM),1
+goetzrobin__MemGPT,LLM Temperature Not Explicitly Set(TNES),6
+goetzrobin__MemGPT,No Structured Output (NSO),3
+goetzrobin__MemGPT,No System Message (NSM),3
+goetzrobin__MemGPT,Unbounded Max Metrics (UMM),3
+h2oai__h2ogpt,LLM Temperature Not Explicitly Set(TNES),4
+h2oai__h2ogpt,No Model Version Pinning (NMVP),14
+h2oai__h2ogpt,No Structured Output (NSO),2
+h2oai__h2ogpt,Unbounded Max Metrics (UMM),4
+hlohaus__Agent-LLM,No Model Version Pinning (NMVP),9
+hlohaus__Agent-LLM,No Structured Output (NSO),3
+hlohaus__Agent-LLM,No System Message (NSM),1
+hzg0601__langchain-ChatGLM-annotation,LLM Temperature Not Explicitly Set(TNES),2
+hzg0601__langchain-ChatGLM-annotation,No Model Version Pinning (NMVP),3
+hzg0601__langchain-ChatGLM-annotation,No Structured Output (NSO),2
+hzg0601__langchain-ChatGLM-annotation,Unbounded Max Metrics (UMM),2
+iMagist486__ElasticSearch-Langchain-Chatglm2,No Model Version Pinning (NMVP),2
+junruxiong__IncarnaMind,LLM Temperature Not Explicitly Set(TNES),1
+junruxiong__IncarnaMind,No Model Version Pinning (NMVP),2
+junruxiong__IncarnaMind,No Structured Output (NSO),1
+junruxiong__IncarnaMind,Unbounded Max Metrics (UMM),3
+labring__FastGPT,No Model Version Pinning (NMVP),4
+langchain-ai__chat-langchain,Unbounded Max Metrics (UMM),2
+marella__chatdocs,LLM Temperature Not Explicitly Set(TNES),1
+marella__chatdocs,No Model Version Pinning (NMVP),1
+marella__chatdocs,Unbounded Max Metrics (UMM),1
+matigumma__bb.agi,No Structured Output (NSO),2
+matigumma__bb.agi,No System Message (NSM),1
+robiwan303__babyagi,No Model Version Pinning (NMVP),5
+robiwan303__babyagi,No Structured Output (NSO),10
+robiwan303__babyagi,No System Message (NSM),3
+saten-private__BabyCommandAGI,LLM Temperature Not Explicitly Set(TNES),3
+saten-private__BabyCommandAGI,No Model Version Pinning (NMVP),4
+saten-private__BabyCommandAGI,No Structured Output (NSO),10
+saten-private__BabyCommandAGI,No System Message (NSM),3
+saten-private__BabyCommandAGI,Unbounded Max Metrics (UMM),1
+sw5park__LUISE,No Structured Output (NSO),1
+uukuguy__DB-GPT-Lite,LLM Temperature Not Explicitly Set(TNES),3
+uukuguy__DB-GPT-Lite,No Model Version Pinning (NMVP),23
+uukuguy__DB-GPT-Lite,No Structured Output (NSO),2
+uukuguy__DB-GPT-Lite,No System Message (NSM),2
+uukuguy__DB-GPT-Lite,Unbounded Max Metrics (UMM),3
+vmayoral__PentestGPT,LLM Temperature Not Explicitly Set(TNES),2
+vmayoral__PentestGPT,No Model Version Pinning (NMVP),2
+vmayoral__PentestGPT,No Structured Output (NSO),8
+vmayoral__PentestGPT,No System Message (NSM),4
+vmayoral__PentestGPT,Unbounded Max Metrics (UMM),8
+yoheinakajima__babyagi,No Structured Output (NSO),2
+yoheinakajima__babyagi,No System Message (NSM),1
+yujiosaka__ChatIQ,Unbounded Max Metrics (UMM),1
+yvann-hub__Robby-chatbot,Unbounded Max Metrics (UMM),3
+zhjunqin__Langchain-Chatchat-InternLM,LLM Temperature Not Explicitly Set(TNES),5
+zhjunqin__Langchain-Chatchat-InternLM,No Structured Output (NSO),1
+zhjunqin__Langchain-Chatchat-InternLM,Unbounded Max Metrics (UMM),5

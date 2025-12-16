@@ -1,0 +1,35 @@
+[
+  {
+    "file": "REFRIED-BoolEANS/privatgpt-gui/REFRIED-BoolEANS-privatgpt-gui-8406759/constants.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 15
+  },
+  {
+    "file": "REFRIED-BoolEANS/privatgpt-gui/REFRIED-BoolEANS-privatgpt-gui-8406759/ingest.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 166
+  },
+  {
+    "file": "REFRIED-BoolEANS/privatgpt-gui/REFRIED-BoolEANS-privatgpt-gui-8406759/privateGPT.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 46,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 175
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "file": "facebookresearch/dino/facebookresearch-dino-7c446df/eval_copy_detection.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 76,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 301
+  },
+  {
+    "file": "facebookresearch/dino/facebookresearch-dino-7c446df/eval_image_retrieval.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 56,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 201
+  },
+  {
+    "file": "facebookresearch/dino/facebookresearch-dino-7c446df/eval_knn.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 65,
+    "pipeline_patterns": 1,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 242
+  },
+  {
+    "file": "facebookresearch/dino/facebookresearch-dino-7c446df/eval_linear.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 60,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 281
+  },
+  {
+    "file": "facebookresearch/dino/facebookresearch-dino-7c446df/eval_video_segmentation.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 101,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 292
+  },
+  {
+    "file": "facebookresearch/dino/facebookresearch-dino-7c446df/hubconf.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 151
+  },
+  {
+    "file": "facebookresearch/dino/facebookresearch-dino-7c446df/main_dino.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 83,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 471
+  },
+  {
+    "file": "facebookresearch/dino/facebookresearch-dino-7c446df/run_with_submitit.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 132
+  },
+  {
+    "file": "facebookresearch/dino/facebookresearch-dino-7c446df/utils.py",
+    "num_functions": 55,
+    "max_function_depth": 2,
+    "num_classes": 7,
+    "num_assignments": 181,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 829
+  },
+  {
+    "file": "facebookresearch/dino/facebookresearch-dino-7c446df/video_generation.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 58,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 378
+  },
+  {
+    "file": "facebookresearch/dino/facebookresearch-dino-7c446df/vision_transformer.py",
+    "num_functions": 24,
+    "max_function_depth": 1,
+    "num_classes": 7,
+    "num_assignments": 93,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 291
+  },
+  {
+    "file": "facebookresearch/dino/facebookresearch-dino-7c446df/visualize_attention.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 63,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 213
+  }
+]

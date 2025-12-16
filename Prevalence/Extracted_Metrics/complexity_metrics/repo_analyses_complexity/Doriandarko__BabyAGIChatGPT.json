@@ -1,0 +1,13 @@
+[
+  {
+    "file": "Doriandarko/BabyAGIChatGPT/Doriandarko-BabyAGIChatGPT-174491c/main.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 50,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 220
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "file": "ymcui/Chinese-LLaMA-Alpaca/ymcui-Chinese-LLaMA-Alpaca-090475f/scripts/ceval/eval.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 35,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 115
+  },
+  {
+    "file": "ymcui/Chinese-LLaMA-Alpaca/ymcui-Chinese-LLaMA-Alpaca-090475f/scripts/ceval/evaluator.py",
+    "num_functions": 9,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 47
+  },
+  {
+    "file": "ymcui/Chinese-LLaMA-Alpaca/ymcui-Chinese-LLaMA-Alpaca-090475f/scripts/ceval/llama_evaluator.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 64,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 204
+  },
+  {
+    "file": "ymcui/Chinese-LLaMA-Alpaca/ymcui-Chinese-LLaMA-Alpaca-090475f/scripts/crawl_prompt.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 47
+  },
+  {
+    "file": "ymcui/Chinese-LLaMA-Alpaca/ymcui-Chinese-LLaMA-Alpaca-090475f/scripts/inference/gradio_demo.py",
+    "num_functions": 19,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 55,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 385
+  },
+  {
+    "file": "ymcui/Chinese-LLaMA-Alpaca/ymcui-Chinese-LLaMA-Alpaca-090475f/scripts/inference/inference_hf.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 40,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 172
+  },
+  {
+    "file": "ymcui/Chinese-LLaMA-Alpaca/ymcui-Chinese-LLaMA-Alpaca-090475f/scripts/inference/patches.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 69,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 199
+  },
+  {
+    "file": "ymcui/Chinese-LLaMA-Alpaca/ymcui-Chinese-LLaMA-Alpaca-090475f/scripts/langchain/langchain_qa.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 115
+  },
+  {
+    "file": "ymcui/Chinese-LLaMA-Alpaca/ymcui-Chinese-LLaMA-Alpaca-090475f/scripts/langchain/langchain_sum.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 70
+  },
+  {
+    "file": "ymcui/Chinese-LLaMA-Alpaca/ymcui-Chinese-LLaMA-Alpaca-090475f/scripts/merge_llama_with_chinese_lora.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 68,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 349
+  },
+  {
+    "file": "ymcui/Chinese-LLaMA-Alpaca/ymcui-Chinese-LLaMA-Alpaca-090475f/scripts/merge_llama_with_chinese_lora_low_mem.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 70,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 345
+  },
+  {
+    "file": "ymcui/Chinese-LLaMA-Alpaca/ymcui-Chinese-LLaMA-Alpaca-090475f/scripts/merge_tokenizer/merge_tokenizers.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 66
+  },
+  {
+    "file": "ymcui/Chinese-LLaMA-Alpaca/ymcui-Chinese-LLaMA-Alpaca-090475f/scripts/openai_server_demo/openai_api_protocol.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 9,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 81
+  },
+  {
+    "file": "ymcui/Chinese-LLaMA-Alpaca/ymcui-Chinese-LLaMA-Alpaca-090475f/scripts/openai_server_demo/openai_api_server.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 53,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 228
+  },
+  {
+    "file": "ymcui/Chinese-LLaMA-Alpaca/ymcui-Chinese-LLaMA-Alpaca-090475f/scripts/openai_server_demo/patches.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 69,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 199
+  },
+  {
+    "file": "ymcui/Chinese-LLaMA-Alpaca/ymcui-Chinese-LLaMA-Alpaca-090475f/scripts/training/build_dataset.py",
+    "num_functions": 3,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 104
+  },
+  {
+    "file": "ymcui/Chinese-LLaMA-Alpaca/ymcui-Chinese-LLaMA-Alpaca-090475f/scripts/training/run_clm_pt_with_peft.py",
+    "num_functions": 12,
+    "max_function_depth": 2,
+    "num_classes": 4,
+    "num_assignments": 101,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 642
+  },
+  {
+    "file": "ymcui/Chinese-LLaMA-Alpaca/ymcui-Chinese-LLaMA-Alpaca-090475f/scripts/training/run_clm_sft_with_peft.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 59,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 441
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "file": "blu3mo/scrapchat/blu3mo-scrapchat-ce78a87/archive/app.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 98
+  },
+  {
+    "file": "blu3mo/scrapchat/blu3mo-scrapchat-ce78a87/archive/chain.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 127
+  },
+  {
+    "file": "blu3mo/scrapchat/blu3mo-scrapchat-ce78a87/archive/ingest.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 92
+  },
+  {
+    "file": "blu3mo/scrapchat/blu3mo-scrapchat-ce78a87/archive/ingest_examples.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 219
+  },
+  {
+    "file": "blu3mo/scrapchat/blu3mo-scrapchat-ce78a87/callback.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 33
+  },
+  {
+    "file": "blu3mo/scrapchat/blu3mo-scrapchat-ce78a87/ingest.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 31
+  },
+  {
+    "file": "blu3mo/scrapchat/blu3mo-scrapchat-ce78a87/main.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 83
+  },
+  {
+    "file": "blu3mo/scrapchat/blu3mo-scrapchat-ce78a87/query_data.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 68
+  },
+  {
+    "file": "blu3mo/scrapchat/blu3mo-scrapchat-ce78a87/schemas.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 22
+  },
+  {
+    "file": "blu3mo/scrapchat/blu3mo-scrapchat-ce78a87/scrapchat/ScrapboxLoader.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 46
+  },
+  {
+    "file": "blu3mo/scrapchat/blu3mo-scrapchat-ce78a87/scrapchat/ScrapboxTextSplitter.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "file": "yangchuansheng/DocsGPT/yangchuansheng-DocsGPT-595581b/application/app.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 47,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 181
+  },
+  {
+    "file": "yangchuansheng/DocsGPT/yangchuansheng-DocsGPT-595581b/scripts/ingest.py",
+    "num_functions": 2,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 82
+  },
+  {
+    "file": "yangchuansheng/DocsGPT/yangchuansheng-DocsGPT-595581b/scripts/old/ingest_rst.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 85
+  },
+  {
+    "file": "yangchuansheng/DocsGPT/yangchuansheng-DocsGPT-595581b/scripts/old/ingest_rst_sphinx.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 128
+  },
+  {
+    "file": "yangchuansheng/DocsGPT/yangchuansheng-DocsGPT-595581b/scripts/parser/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "yangchuansheng/DocsGPT/yangchuansheng-DocsGPT-595581b/scripts/parser/file/base.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 20
+  },
+  {
+    "file": "yangchuansheng/DocsGPT/yangchuansheng-DocsGPT-595581b/scripts/parser/file/base_parser.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 38
+  },
+  {
+    "file": "yangchuansheng/DocsGPT/yangchuansheng-DocsGPT-595581b/scripts/parser/file/bulk.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 158
+  },
+  {
+    "file": "yangchuansheng/DocsGPT/yangchuansheng-DocsGPT-595581b/scripts/parser/file/docs_parser.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 59
+  },
+  {
+    "file": "yangchuansheng/DocsGPT/yangchuansheng-DocsGPT-595581b/scripts/parser/file/epub_parser.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 43
+  },
+  {
+    "file": "yangchuansheng/DocsGPT/yangchuansheng-DocsGPT-595581b/scripts/parser/file/markdown_parser.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 130
+  },
+  {
+    "file": "yangchuansheng/DocsGPT/yangchuansheng-DocsGPT-595581b/scripts/parser/file/rst_parser.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 40,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 171
+  },
+  {
+    "file": "yangchuansheng/DocsGPT/yangchuansheng-DocsGPT-595581b/scripts/parser/file/tabular_parser.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 115
+  },
+  {
+    "file": "yangchuansheng/DocsGPT/yangchuansheng-DocsGPT-595581b/scripts/parser/open_ai_func.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 80
+  },
+  {
+    "file": "yangchuansheng/DocsGPT/yangchuansheng-DocsGPT-595581b/scripts/parser/schema/base.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 35
+  },
+  {
+    "file": "yangchuansheng/DocsGPT/yangchuansheng-DocsGPT-595581b/scripts/parser/schema/schema.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 64
+  }
+]

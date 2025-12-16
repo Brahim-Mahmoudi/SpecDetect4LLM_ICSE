@@ -1,0 +1,90 @@
+[
+  {
+    "file": "chinesewebman/doc-chatbot/chinesewebman-doc-chatbot-d17caf9/new-dict.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 38
+  },
+  {
+    "file": "chinesewebman/doc-chatbot/chinesewebman-doc-chatbot-d17caf9/src/Home.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 100
+  },
+  {
+    "file": "chinesewebman/doc-chatbot/chinesewebman-doc-chatbot-d17caf9/src/modules/chatbot.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 49,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 245
+  },
+  {
+    "file": "chinesewebman/doc-chatbot/chinesewebman-doc-chatbot-d17caf9/src/modules/embedder.py",
+    "num_functions": 5,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 99
+  },
+  {
+    "file": "chinesewebman/doc-chatbot/chinesewebman-doc-chatbot-d17caf9/src/modules/history.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 60
+  },
+  {
+    "file": "chinesewebman/doc-chatbot/chinesewebman-doc-chatbot-d17caf9/src/modules/layout.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 44
+  },
+  {
+    "file": "chinesewebman/doc-chatbot/chinesewebman-doc-chatbot-d17caf9/src/modules/sidebar.py",
+    "num_functions": 10,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 108
+  },
+  {
+    "file": "chinesewebman/doc-chatbot/chinesewebman-doc-chatbot-d17caf9/src/modules/utils.py",
+    "num_functions": 9,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 136
+  }
+]

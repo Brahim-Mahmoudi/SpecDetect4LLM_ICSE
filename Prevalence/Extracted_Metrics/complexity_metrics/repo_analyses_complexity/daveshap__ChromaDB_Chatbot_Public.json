@@ -1,0 +1,24 @@
+[
+  {
+    "file": "daveshap/ChromaDB_Chatbot_Public/daveshap-ChromaDB_Chatbot_Public-ad7df3a/chat.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 42,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 165
+  },
+  {
+    "file": "daveshap/ChromaDB_Chatbot_Public/daveshap-ChromaDB_Chatbot_Public-ad7df3a/chromadb_peek.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 14
+  }
+]

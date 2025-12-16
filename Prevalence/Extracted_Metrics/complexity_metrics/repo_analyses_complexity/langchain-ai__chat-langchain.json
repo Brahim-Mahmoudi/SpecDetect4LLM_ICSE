@@ -1,0 +1,101 @@
+[
+  {
+    "file": "langchain-ai/chat-langchain/langchain-ai-chat-langchain-a875a64/_scripts/clear_index.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 53
+  },
+  {
+    "file": "langchain-ai/chat-langchain/langchain-ai-chat-langchain-a875a64/_scripts/evaluate_chains.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 32,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 180
+  },
+  {
+    "file": "langchain-ai/chat-langchain/langchain-ai-chat-langchain-a875a64/_scripts/evaluate_chains_agent.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 201
+  },
+  {
+    "file": "langchain-ai/chat-langchain/langchain-ai-chat-langchain-a875a64/_scripts/evaluate_chains_improved_chain.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 40,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 234
+  },
+  {
+    "file": "langchain-ai/chat-langchain/langchain-ai-chat-langchain-a875a64/_scripts/evaluate_chat_langchain.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 58
+  },
+  {
+    "file": "langchain-ai/chat-langchain/langchain-ai-chat-langchain-a875a64/constants.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "langchain-ai/chat-langchain/langchain-ai-chat-langchain-a875a64/ingest.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 143
+  },
+  {
+    "file": "langchain-ai/chat-langchain/langchain-ai-chat-langchain-a875a64/main.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 298
+  },
+  {
+    "file": "langchain-ai/chat-langchain/langchain-ai-chat-langchain-a875a64/parser.py",
+    "num_functions": 2,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 110
+  }
+]

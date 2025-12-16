@@ -1,0 +1,200 @@
+[
+  {
+    "file": "LlamaFamily/Llama-Chinese/LlamaFamily-Llama-Chinese-6fa0fff/examples/chat_gradio.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 99
+  },
+  {
+    "file": "LlamaFamily/Llama-Chinese/LlamaFamily-Llama-Chinese-6fa0fff/examples/chat_gradio_no_merge.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 105
+  },
+  {
+    "file": "LlamaFamily/Llama-Chinese/LlamaFamily-Llama-Chinese-6fa0fff/examples/llama2_for_langchain.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 52
+  },
+  {
+    "file": "LlamaFamily/Llama-Chinese/LlamaFamily-Llama-Chinese-6fa0fff/inference-speed/GPU/TensorRT-LLM_example/atom_inference.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 36,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 184
+  },
+  {
+    "file": "LlamaFamily/Llama-Chinese/LlamaFamily-Llama-Chinese-6fa0fff/inference-speed/GPU/TensorRT-LLM_example/utils.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 130
+  },
+  {
+    "file": "LlamaFamily/Llama-Chinese/LlamaFamily-Llama-Chinese-6fa0fff/inference-speed/GPU/lmdeploy_example/test_api_server.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 73
+  },
+  {
+    "file": "LlamaFamily/Llama-Chinese/LlamaFamily-Llama-Chinese-6fa0fff/inference-speed/GPU/vllm_example/api_server.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 85
+  },
+  {
+    "file": "LlamaFamily/Llama-Chinese/LlamaFamily-Llama-Chinese-6fa0fff/inference-speed/GPU/vllm_example/client_test.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 35,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 137
+  },
+  {
+    "file": "LlamaFamily/Llama-Chinese/LlamaFamily-Llama-Chinese-6fa0fff/scripts/api/accelerate_client.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 59
+  },
+  {
+    "file": "LlamaFamily/Llama-Chinese/LlamaFamily-Llama-Chinese-6fa0fff/scripts/api/accelerate_server.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 57,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 193
+  },
+  {
+    "file": "LlamaFamily/Llama-Chinese/LlamaFamily-Llama-Chinese-6fa0fff/scripts/convert2hf/convert_llama_weights_to_hf.py",
+    "num_functions": 7,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 49,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 307
+  },
+  {
+    "file": "LlamaFamily/Llama-Chinese/LlamaFamily-Llama-Chinese-6fa0fff/train/merge_peft_model/merge_muilt_peft_adapter.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 1,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 54
+  },
+  {
+    "file": "LlamaFamily/Llama-Chinese/LlamaFamily-Llama-Chinese-6fa0fff/train/merge_peft_model/merge_peft_adapter.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 1,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 42
+  },
+  {
+    "file": "LlamaFamily/Llama-Chinese/LlamaFamily-Llama-Chinese-6fa0fff/train/pretrain/accuracy.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 106
+  },
+  {
+    "file": "LlamaFamily/Llama-Chinese/LlamaFamily-Llama-Chinese-6fa0fff/train/pretrain/pretrain_clm.py",
+    "num_functions": 8,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 80,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 614
+  },
+  {
+    "file": "LlamaFamily/Llama-Chinese/LlamaFamily-Llama-Chinese-6fa0fff/train/sft/accuracy.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 106
+  },
+  {
+    "file": "LlamaFamily/Llama-Chinese/LlamaFamily-Llama-Chinese-6fa0fff/train/sft/finetune_clm.py",
+    "num_functions": 9,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 87,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 614
+  },
+  {
+    "file": "LlamaFamily/Llama-Chinese/LlamaFamily-Llama-Chinese-6fa0fff/train/sft/finetune_clm_lora.py",
+    "num_functions": 10,
+    "max_function_depth": 2,
+    "num_classes": 3,
+    "num_assignments": 95,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 694
+  }
+]

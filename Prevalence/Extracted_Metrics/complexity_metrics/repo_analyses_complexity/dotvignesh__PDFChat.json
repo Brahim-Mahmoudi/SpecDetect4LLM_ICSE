@@ -1,0 +1,13 @@
+[
+  {
+    "file": "dotvignesh/PDFChat/dotvignesh-PDFChat-bb46824/app.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 121
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "file": "yvann-hub/Robby-chatbot/yvann-ba-Robby-chatbot-5beb689/src/chatbot_csv.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 91
+  },
+  {
+    "file": "yvann-hub/Robby-chatbot/yvann-ba-Robby-chatbot-5beb689/src/modules/chatbot.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 46
+  },
+  {
+    "file": "yvann-hub/Robby-chatbot/yvann-ba-Robby-chatbot-5beb689/src/modules/embedder.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 58
+  },
+  {
+    "file": "yvann-hub/Robby-chatbot/yvann-ba-Robby-chatbot-5beb689/src/modules/history.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 57
+  },
+  {
+    "file": "yvann-hub/Robby-chatbot/yvann-ba-Robby-chatbot-5beb689/src/modules/layout.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 45
+  },
+  {
+    "file": "yvann-hub/Robby-chatbot/yvann-ba-Robby-chatbot-5beb689/src/modules/sidebar.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 66
+  },
+  {
+    "file": "yvann-hub/Robby-chatbot/yvann-ba-Robby-chatbot-5beb689/src/modules/utils.py",
+    "num_functions": 4,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 64
+  },
+  {
+    "file": "yvann-hub/Robby-chatbot/yvann-ba-Robby-chatbot-5beb689/src/tuto_chatbot_csv.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 73
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "file": "Mintplex-Labs/anything-llm/Mintplex-Labs-anything-llm-ebd3a62/collector/main.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 81
+  },
+  {
+    "file": "Mintplex-Labs/anything-llm/Mintplex-Labs-anything-llm-ebd3a62/collector/scripts/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "Mintplex-Labs/anything-llm/Mintplex-Labs-anything-llm-ebd3a62/collector/scripts/gitbook.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 44
+  },
+  {
+    "file": "Mintplex-Labs/anything-llm/Mintplex-Labs-anything-llm-ebd3a62/collector/scripts/link.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 41,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 139
+  },
+  {
+    "file": "Mintplex-Labs/anything-llm/Mintplex-Labs-anything-llm-ebd3a62/collector/scripts/link_utils.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 14
+  },
+  {
+    "file": "Mintplex-Labs/anything-llm/Mintplex-Labs-anything-llm-ebd3a62/collector/scripts/medium.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 71
+  },
+  {
+    "file": "Mintplex-Labs/anything-llm/Mintplex-Labs-anything-llm-ebd3a62/collector/scripts/medium_utils.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 71
+  },
+  {
+    "file": "Mintplex-Labs/anything-llm/Mintplex-Labs-anything-llm-ebd3a62/collector/scripts/substack.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 78
+  },
+  {
+    "file": "Mintplex-Labs/anything-llm/Mintplex-Labs-anything-llm-ebd3a62/collector/scripts/substack_utils.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 86
+  },
+  {
+    "file": "Mintplex-Labs/anything-llm/Mintplex-Labs-anything-llm-ebd3a62/collector/scripts/utils.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 10
+  },
+  {
+    "file": "Mintplex-Labs/anything-llm/Mintplex-Labs-anything-llm-ebd3a62/collector/scripts/watch/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "Mintplex-Labs/anything-llm/Mintplex-Labs-anything-llm-ebd3a62/collector/scripts/watch/convert/as_docx.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 58
+  },
+  {
+    "file": "Mintplex-Labs/anything-llm/Mintplex-Labs-anything-llm-ebd3a62/collector/scripts/watch/convert/as_markdown.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 32
+  },
+  {
+    "file": "Mintplex-Labs/anything-llm/Mintplex-Labs-anything-llm-ebd3a62/collector/scripts/watch/convert/as_pdf.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 36
+  },
+  {
+    "file": "Mintplex-Labs/anything-llm/Mintplex-Labs-anything-llm-ebd3a62/collector/scripts/watch/convert/as_text.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 28
+  },
+  {
+    "file": "Mintplex-Labs/anything-llm/Mintplex-Labs-anything-llm-ebd3a62/collector/scripts/watch/filetypes.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 12
+  },
+  {
+    "file": "Mintplex-Labs/anything-llm/Mintplex-Labs-anything-llm-ebd3a62/collector/scripts/watch/main.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 20
+  },
+  {
+    "file": "Mintplex-Labs/anything-llm/Mintplex-Labs-anything-llm-ebd3a62/collector/scripts/watch/utils.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 30
+  },
+  {
+    "file": "Mintplex-Labs/anything-llm/Mintplex-Labs-anything-llm-ebd3a62/collector/scripts/youtube.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 15,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 55
+  },
+  {
+    "file": "Mintplex-Labs/anything-llm/Mintplex-Labs-anything-llm-ebd3a62/collector/scripts/yt_utils.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 120
+  },
+  {
+    "file": "Mintplex-Labs/anything-llm/Mintplex-Labs-anything-llm-ebd3a62/collector/watch.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 21
+  }
+]

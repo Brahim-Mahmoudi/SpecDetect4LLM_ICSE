@@ -1,0 +1,24 @@
+[
+  {
+    "file": "aigeek0x0/chat-with-multiple-pdfs-streamlit-langchain-faiss-openai/aigeek0x0-chat-with-multiple-pdfs-streamlit-langchain-faiss-openai-3cc2b0a/app.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 91
+  },
+  {
+    "file": "aigeek0x0/chat-with-multiple-pdfs-streamlit-langchain-faiss-openai/aigeek0x0-chat-with-multiple-pdfs-streamlit-langchain-faiss-openai-3cc2b0a/htmlTemplates.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 44
+  }
+]

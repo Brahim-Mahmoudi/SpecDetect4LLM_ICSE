@@ -1,0 +1,7 @@
+lark==1.2.2
+lark_parser==0.12.0
+pytest
+fastapi
+uvicorn
+Flask
+pathlib

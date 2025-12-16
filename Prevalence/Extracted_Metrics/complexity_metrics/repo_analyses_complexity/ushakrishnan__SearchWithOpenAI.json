@@ -1,0 +1,79 @@
+[
+  {
+    "file": "ushakrishnan/SearchWithOpenAI/ushakrishnan-SearchWithOpenAI-470a5d1/Home.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 8
+  },
+  {
+    "file": "ushakrishnan/SearchWithOpenAI/ushakrishnan-SearchWithOpenAI-470a5d1/common/funs.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 64
+  },
+  {
+    "file": "ushakrishnan/SearchWithOpenAI/ushakrishnan-SearchWithOpenAI-470a5d1/pages/100_Clean_Up_ChromaDB.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 14
+  },
+  {
+    "file": "ushakrishnan/SearchWithOpenAI/ushakrishnan-SearchWithOpenAI-470a5d1/pages/2_Upload_Documents.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 14
+  },
+  {
+    "file": "ushakrishnan/SearchWithOpenAI/ushakrishnan-SearchWithOpenAI-470a5d1/pages/3_Index_PDFnTXT_Into_ChromaDB_Store.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 20
+  },
+  {
+    "file": "ushakrishnan/SearchWithOpenAI/ushakrishnan-SearchWithOpenAI-470a5d1/pages/4_Query_ChromaDB_Store.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 14
+  },
+  {
+    "file": "ushakrishnan/SearchWithOpenAI/ushakrishnan-SearchWithOpenAI-470a5d1/pages/6_Q&A_with_Open_AI.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 88
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "file": "kroll-software/babyagi4all/kroll-software-babyagi4all-3dc4265/babyagi.py",
+    "num_functions": 19,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 76,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 387
+  }
+]

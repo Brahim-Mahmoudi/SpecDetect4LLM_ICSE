@@ -1,0 +1,222 @@
+[
+  {
+    "file": "sw5park/LUISE/sw5park-LUISE-e88343c/scripts/app.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 18
+  },
+  {
+    "file": "sw5park/LUISE/sw5park-LUISE-e88343c/scripts/main.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 98
+  },
+  {
+    "file": "sw5park/LUISE/sw5park-LUISE-e88343c/src/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 3
+  },
+  {
+    "file": "sw5park/LUISE/sw5park-LUISE-e88343c/src/agents/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 5
+  },
+  {
+    "file": "sw5park/LUISE/sw5park-LUISE-e88343c/src/agents/base_agent.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 21
+  },
+  {
+    "file": "sw5park/LUISE/sw5park-LUISE-e88343c/src/agents/context_agent.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 51
+  },
+  {
+    "file": "sw5park/LUISE/sw5park-LUISE-e88343c/src/agents/execution_agent.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 27
+  },
+  {
+    "file": "sw5park/LUISE/sw5park-LUISE-e88343c/src/agents/prioritization_agent.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 59
+  },
+  {
+    "file": "sw5park/LUISE/sw5park-LUISE-e88343c/src/agents/task_creation_agent.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 58
+  },
+  {
+    "file": "sw5park/LUISE/sw5park-LUISE-e88343c/src/pinecone_helper.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 35
+  },
+  {
+    "file": "sw5park/LUISE/sw5park-LUISE-e88343c/src/task_manager.py",
+    "num_functions": 10,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 88
+  },
+  {
+    "file": "sw5park/LUISE/sw5park-LUISE-e88343c/tests/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "sw5park/LUISE/sw5park-LUISE-e88343c/tests/test_agents_integration.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 15,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 97
+  },
+  {
+    "file": "sw5park/LUISE/sw5park-LUISE-e88343c/tests/test_base_agent.py",
+    "num_functions": 4,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 53
+  },
+  {
+    "file": "sw5park/LUISE/sw5park-LUISE-e88343c/tests/test_context_agent.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 64
+  },
+  {
+    "file": "sw5park/LUISE/sw5park-LUISE-e88343c/tests/test_prioritization_agent.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 60
+  },
+  {
+    "file": "sw5park/LUISE/sw5park-LUISE-e88343c/tests/test_task_creation_agent.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 63
+  },
+  {
+    "file": "sw5park/LUISE/sw5park-LUISE-e88343c/tests/test_task_manager.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 48
+  },
+  {
+    "file": "sw5park/LUISE/sw5park-LUISE-e88343c/utils/embedding.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 13
+  },
+  {
+    "file": "sw5park/LUISE/sw5park-LUISE-e88343c/utils/visualize_interactions.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 70
+  }
+]

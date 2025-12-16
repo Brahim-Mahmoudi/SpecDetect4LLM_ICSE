@@ -1,0 +1,90 @@
+[
+  {
+    "file": "meta-llama/llama3/meta-llama-llama3-a0940f9/example_chat_completion.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 84
+  },
+  {
+    "file": "meta-llama/llama3/meta-llama-llama3-a0940f9/example_text_completion.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 64
+  },
+  {
+    "file": "meta-llama/llama3/meta-llama-llama3-a0940f9/llama/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 6
+  },
+  {
+    "file": "meta-llama/llama3/meta-llama-llama3-a0940f9/llama/generation.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 58,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 365
+  },
+  {
+    "file": "meta-llama/llama3/meta-llama-llama3-a0940f9/llama/model.py",
+    "num_functions": 15,
+    "max_function_depth": 1,
+    "num_classes": 6,
+    "num_assignments": 84,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 302
+  },
+  {
+    "file": "meta-llama/llama3/meta-llama-llama3-a0940f9/llama/test_tokenizer.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 88
+  },
+  {
+    "file": "meta-llama/llama3/meta-llama-llama3-a0940f9/llama/tokenizer.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 229
+  },
+  {
+    "file": "meta-llama/llama3/meta-llama-llama3-a0940f9/setup.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 16
+  }
+]

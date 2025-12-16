@@ -1,0 +1,24 @@
+[
+  {
+    "file": "edrickdch/chat-pdf/edrickdch-chat-pdf-bf5343f/src/ingest.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 140
+  },
+  {
+    "file": "edrickdch/chat-pdf/edrickdch-chat-pdf-bf5343f/src/single-pdf.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 55
+  }
+]

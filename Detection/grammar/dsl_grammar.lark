@@ -1,0 +1,100 @@
+?start: rule_definition+
+
+rule_definition: "rule" IDENTIFIER STRING ":" "condition:" condition_expr "action:" action_expr
+
+// ----------------------------
+// EXPRESSIONS OF CONDITION
+// 
+// ----------------------------
+?condition_expr: assign_expr
+?assign_expr: logical_or_expr
+             | IDENTIFIER "=" assign_expr            -> cond_assign
+
+?logical_or_expr: logical_and_expr
+                | logical_or_expr "or" logical_and_expr   -> cond_or
+
+?logical_and_expr: comparison_expr
+                 | logical_and_expr "and" comparison_expr  -> cond_and
+
+?comparison_expr: arithmetic_expr (compare_op arithmetic_expr)?   -> cond_compare
+
+?arithmetic_expr: additive_expr
+?additive_expr: multiplicative_expr
+              | additive_expr "+" multiplicative_expr   -> add
+              | additive_expr "-" multiplicative_expr   -> sub
+
+?multiplicative_expr: primary_expr
+                    | multiplicative_expr "*" primary_expr   -> mul
+                    | multiplicative_expr "/" primary_expr   -> div
+
+exists_call_expr: "exists" IDENTIFIER "in" "AST" ":" "(" condition_expr ")" -> exists_call_in_ast
+exists_assign_expr: "exists_assign" IDENTIFIER "in" IDENTIFIER ":" "(" condition_expr ")" -> cond_exists_binding_assign
+
+
+
+?primary_expr: "not" primary_expr    -> not_expr
+             | "(" condition_expr ")" -> cond_paren
+             | exists_binding_expr
+             | exists_simple_expr
+             | exists_assign_expr 
+             | count_expr
+             | pattern_expr
+             | var_ref
+             | literal
+
+exists_binding_expr: "exists" IDENTIFIER "in" IDENTIFIER ":" "(" condition_expr ")"  -> cond_exists_binding
+exists_simple_expr: "exists" pattern_expr                                   -> cond_exists_simple
+count_expr: "count" "(" count_binding_expr ")"
+count_binding_expr: IDENTIFIER "in" IDENTIFIER ":" condition_expr           -> count_binding
+
+// ----------------------------
+// ACTIONS
+// ----------------------------
+?action_expr: "report" action_expr_inner  -> report_action
+            | "log"    action_expr_inner  -> log_action
+
+?action_expr_inner: action_concat         -> action_expr_inner_single
+
+?action_concat: action_or                             -> action_concat_single
+              | action_concat "+" action_or           -> action_concat
+
+?action_or: action_primary                  -> action_or_single
+          | action_or "or" action_primary  -> action_or
+
+
+?func_call_node: IDENTIFIER "(" argument_list? ")"
+
+?action_primary: STRING             -> action_string
+               | var_ref            -> action_var
+               | func_call_node     -> action_call
+               | "(" action_expr_inner ")" -> action_paren
+
+
+
+
+argument_list: condition_expr ( "," condition_expr )*
+
+// ----------------------------
+// LEXICON & TERMINALS
+// ----------------------------
+literal: NUMBER | STRING
+
+pattern_expr: IDENTIFIER "(" argument_list? ")"  -> pattern_func
+            | IDENTIFIER                         -> pattern_ident
+
+var_ref: IDENTIFIER ("." IDENTIFIER)+  -> var_ref
+
+!compare_op: ">=" | "<=" | "==" | "!=" | ">" | "<"
+
+
+
+IDENTIFIER: /\$?[A-Za-z][A-Za-z0-9_]*/
+NUMBER: DIGIT+
+STRING: ESCAPED_STRING
+
+LETTER: /[A-Za-z]/
+DIGIT: /[0-9]/
+
+%import common.ESCAPED_STRING
+%import common.WS
+%ignore WS

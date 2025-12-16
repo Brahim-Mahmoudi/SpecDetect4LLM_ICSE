@@ -1,0 +1,13 @@
+[
+  {
+    "file": "c121914yu/FastGPT/c121914yu-FastGPT-2ae8d43/files/models/ChatGLM2/openai_api.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 8,
+    "num_assignments": 40,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 243
+  }
+]

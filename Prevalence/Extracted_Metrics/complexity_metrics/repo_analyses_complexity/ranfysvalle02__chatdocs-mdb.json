@@ -1,0 +1,156 @@
+[
+  {
+    "file": "ranfysvalle02/chatdocs-mdb/ranfysvalle02-chatdocs-mdb-6322d0e/chatdocs/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "ranfysvalle02/chatdocs-mdb/ranfysvalle02-chatdocs-mdb-6322d0e/chatdocs/__main__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 3
+  },
+  {
+    "file": "ranfysvalle02/chatdocs-mdb/ranfysvalle02-chatdocs-mdb-6322d0e/chatdocs/add.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 149
+  },
+  {
+    "file": "ranfysvalle02/chatdocs-mdb/ranfysvalle02-chatdocs-mdb-6322d0e/chatdocs/chains.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 21
+  },
+  {
+    "file": "ranfysvalle02/chatdocs-mdb/ranfysvalle02-chatdocs-mdb-6322d0e/chatdocs/chat.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 46
+  },
+  {
+    "file": "ranfysvalle02/chatdocs-mdb/ranfysvalle02-chatdocs-mdb-6322d0e/chatdocs/config.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 26
+  },
+  {
+    "file": "ranfysvalle02/chatdocs-mdb/ranfysvalle02-chatdocs-mdb-6322d0e/chatdocs/download.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 10
+  },
+  {
+    "file": "ranfysvalle02/chatdocs-mdb/ranfysvalle02-chatdocs-mdb-6322d0e/chatdocs/embeddings.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 14
+  },
+  {
+    "file": "ranfysvalle02/chatdocs-mdb/ranfysvalle02-chatdocs-mdb-6322d0e/chatdocs/llms.py",
+    "num_functions": 2,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 30
+  },
+  {
+    "file": "ranfysvalle02/chatdocs-mdb/ranfysvalle02-chatdocs-mdb-6322d0e/chatdocs/main.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 64
+  },
+  {
+    "file": "ranfysvalle02/chatdocs-mdb/ranfysvalle02-chatdocs-mdb-6322d0e/chatdocs/ui.py",
+    "num_functions": 3,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 63
+  },
+  {
+    "file": "ranfysvalle02/chatdocs-mdb/ranfysvalle02-chatdocs-mdb-6322d0e/chatdocs/utils.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 16
+  },
+  {
+    "file": "ranfysvalle02/chatdocs-mdb/ranfysvalle02-chatdocs-mdb-6322d0e/chatdocs/vectorstores.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 33
+  },
+  {
+    "file": "ranfysvalle02/chatdocs-mdb/ranfysvalle02-chatdocs-mdb-6322d0e/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 67
+  }
+]

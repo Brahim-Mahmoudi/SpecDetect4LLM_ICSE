@@ -1,0 +1,222 @@
+[
+  {
+    "file": "Vidminas/chatdocs-streamlit/Vidminas-chatdocs-streamlit-cf4053a/chatdocs/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "Vidminas/chatdocs-streamlit/Vidminas-chatdocs-streamlit-cf4053a/chatdocs/__main__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 3
+  },
+  {
+    "file": "Vidminas/chatdocs-streamlit/Vidminas-chatdocs-streamlit-cf4053a/chatdocs/add.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 165
+  },
+  {
+    "file": "Vidminas/chatdocs-streamlit/Vidminas-chatdocs-streamlit-cf4053a/chatdocs/chains.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 21
+  },
+  {
+    "file": "Vidminas/chatdocs-streamlit/Vidminas-chatdocs-streamlit-cf4053a/chatdocs/chat.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 63
+  },
+  {
+    "file": "Vidminas/chatdocs-streamlit/Vidminas-chatdocs-streamlit-cf4053a/chatdocs/config.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 26
+  },
+  {
+    "file": "Vidminas/chatdocs-streamlit/Vidminas-chatdocs-streamlit-cf4053a/chatdocs/document_loaders/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "Vidminas/chatdocs-streamlit/Vidminas-chatdocs-streamlit-cf4053a/chatdocs/document_loaders/nougat_loader.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 118
+  },
+  {
+    "file": "Vidminas/chatdocs-streamlit/Vidminas-chatdocs-streamlit-cf4053a/chatdocs/download.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 18
+  },
+  {
+    "file": "Vidminas/chatdocs-streamlit/Vidminas-chatdocs-streamlit-cf4053a/chatdocs/embeddings.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 14
+  },
+  {
+    "file": "Vidminas/chatdocs-streamlit/Vidminas-chatdocs-streamlit-cf4053a/chatdocs/llms.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 13,
+    "pipeline_patterns": 2,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 43
+  },
+  {
+    "file": "Vidminas/chatdocs-streamlit/Vidminas-chatdocs-streamlit-cf4053a/chatdocs/logger.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 3
+  },
+  {
+    "file": "Vidminas/chatdocs-streamlit/Vidminas-chatdocs-streamlit-cf4053a/chatdocs/main.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 66
+  },
+  {
+    "file": "Vidminas/chatdocs-streamlit/Vidminas-chatdocs-streamlit-cf4053a/chatdocs/pages/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "Vidminas/chatdocs-streamlit/Vidminas-chatdocs-streamlit-cf4053a/chatdocs/pages/embeddings_viz.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 40,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 144
+  },
+  {
+    "file": "Vidminas/chatdocs-streamlit/Vidminas-chatdocs-streamlit-cf4053a/chatdocs/st_utils.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 23
+  },
+  {
+    "file": "Vidminas/chatdocs-streamlit/Vidminas-chatdocs-streamlit-cf4053a/chatdocs/ui.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 146
+  },
+  {
+    "file": "Vidminas/chatdocs-streamlit/Vidminas-chatdocs-streamlit-cf4053a/chatdocs/utils.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 10
+  },
+  {
+    "file": "Vidminas/chatdocs-streamlit/Vidminas-chatdocs-streamlit-cf4053a/chatdocs/vectorstores.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 29
+  },
+  {
+    "file": "Vidminas/chatdocs-streamlit/Vidminas-chatdocs-streamlit-cf4053a/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 77
+  }
+]

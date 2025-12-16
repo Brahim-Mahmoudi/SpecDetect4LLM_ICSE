@@ -1,0 +1,211 @@
+[
+  {
+    "file": "lucidrains/DALLE2-pytorch/lucidrains-DALLE2-pytorch-680dfc4/dalle2_pytorch/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 7
+  },
+  {
+    "file": "lucidrains/DALLE2-pytorch/lucidrains-DALLE2-pytorch-680dfc4/dalle2_pytorch/cli.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 52
+  },
+  {
+    "file": "lucidrains/DALLE2-pytorch/lucidrains-DALLE2-pytorch-680dfc4/dalle2_pytorch/dalle2_pytorch.py",
+    "num_functions": 164,
+    "max_function_depth": 2,
+    "num_classes": 30,
+    "num_assignments": 892,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 3340
+  },
+  {
+    "file": "lucidrains/DALLE2-pytorch/lucidrains-DALLE2-pytorch-680dfc4/dalle2_pytorch/dataloaders/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2
+  },
+  {
+    "file": "lucidrains/DALLE2-pytorch/lucidrains-DALLE2-pytorch-680dfc4/dalle2_pytorch/dataloaders/decoder_loader.py",
+    "num_functions": 10,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 35,
+    "pipeline_patterns": 3,
+    "custom_pipeline_classes": 1,
+    "has_dynamic_construct": false,
+    "loc": 266
+  },
+  {
+    "file": "lucidrains/DALLE2-pytorch/lucidrains-DALLE2-pytorch-680dfc4/dalle2_pytorch/dataloaders/prior_loader.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 52,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 282
+  },
+  {
+    "file": "lucidrains/DALLE2-pytorch/lucidrains-DALLE2-pytorch-680dfc4/dalle2_pytorch/dataloaders/simple_image_only_dataloader.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 59
+  },
+  {
+    "file": "lucidrains/DALLE2-pytorch/lucidrains-DALLE2-pytorch-680dfc4/dalle2_pytorch/optimizer.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 34
+  },
+  {
+    "file": "lucidrains/DALLE2-pytorch/lucidrains-DALLE2-pytorch-680dfc4/dalle2_pytorch/tokenizer.py",
+    "num_functions": 14,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 62,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 191
+  },
+  {
+    "file": "lucidrains/DALLE2-pytorch/lucidrains-DALLE2-pytorch-680dfc4/dalle2_pytorch/trackers.py",
+    "num_functions": 64,
+    "max_function_depth": 1,
+    "num_classes": 12,
+    "num_assignments": 93,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 601
+  },
+  {
+    "file": "lucidrains/DALLE2-pytorch/lucidrains-DALLE2-pytorch-680dfc4/dalle2_pytorch/train_configs.py",
+    "num_functions": 17,
+    "max_function_depth": 2,
+    "num_classes": 24,
+    "num_assignments": 39,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 382
+  },
+  {
+    "file": "lucidrains/DALLE2-pytorch/lucidrains-DALLE2-pytorch-680dfc4/dalle2_pytorch/trainer.py",
+    "num_functions": 41,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 149,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 742
+  },
+  {
+    "file": "lucidrains/DALLE2-pytorch/lucidrains-DALLE2-pytorch-680dfc4/dalle2_pytorch/utils.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 35
+  },
+  {
+    "file": "lucidrains/DALLE2-pytorch/lucidrains-DALLE2-pytorch-680dfc4/dalle2_pytorch/version.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "lucidrains/DALLE2-pytorch/lucidrains-DALLE2-pytorch-680dfc4/dalle2_pytorch/vqgan_vae.py",
+    "num_functions": 65,
+    "max_function_depth": 2,
+    "num_classes": 13,
+    "num_assignments": 151,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 764
+  },
+  {
+    "file": "lucidrains/DALLE2-pytorch/lucidrains-DALLE2-pytorch-680dfc4/dalle2_pytorch/vqgan_vae_trainer.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 60,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 278
+  },
+  {
+    "file": "lucidrains/DALLE2-pytorch/lucidrains-DALLE2-pytorch-680dfc4/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 59
+  },
+  {
+    "file": "lucidrains/DALLE2-pytorch/lucidrains-DALLE2-pytorch-680dfc4/train_decoder.py",
+    "num_functions": 15,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 196,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 651
+  },
+  {
+    "file": "lucidrains/DALLE2-pytorch/lucidrains-DALLE2-pytorch-680dfc4/train_diffusion_prior.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 86,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 770
+  }
+]

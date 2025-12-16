@@ -1,0 +1,145 @@
+[
+  {
+    "file": "lucidrains/PaLM-rlhf-pytorch/lucidrains-PaLM-rlhf-pytorch-f736bae/examples.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 66
+  },
+  {
+    "file": "lucidrains/PaLM-rlhf-pytorch/lucidrains-PaLM-rlhf-pytorch-f736bae/palm_rlhf_pytorch/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 5
+  },
+  {
+    "file": "lucidrains/PaLM-rlhf-pytorch/lucidrains-PaLM-rlhf-pytorch-f736bae/palm_rlhf_pytorch/attention.py",
+    "num_functions": 7,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 151
+  },
+  {
+    "file": "lucidrains/PaLM-rlhf-pytorch/lucidrains-PaLM-rlhf-pytorch-f736bae/palm_rlhf_pytorch/flowrl.py",
+    "num_functions": 27,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 125,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 613
+  },
+  {
+    "file": "lucidrains/PaLM-rlhf-pytorch/lucidrains-PaLM-rlhf-pytorch-f736bae/palm_rlhf_pytorch/grpo.py",
+    "num_functions": 25,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 109,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 603
+  },
+  {
+    "file": "lucidrains/PaLM-rlhf-pytorch/lucidrains-PaLM-rlhf-pytorch-f736bae/palm_rlhf_pytorch/implicit_process_reward.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 123
+  },
+  {
+    "file": "lucidrains/PaLM-rlhf-pytorch/lucidrains-PaLM-rlhf-pytorch-f736bae/palm_rlhf_pytorch/lora.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 35
+  },
+  {
+    "file": "lucidrains/PaLM-rlhf-pytorch/lucidrains-PaLM-rlhf-pytorch-f736bae/palm_rlhf_pytorch/palm.py",
+    "num_functions": 27,
+    "max_function_depth": 1,
+    "num_classes": 6,
+    "num_assignments": 114,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 516
+  },
+  {
+    "file": "lucidrains/PaLM-rlhf-pytorch/lucidrains-PaLM-rlhf-pytorch-f736bae/palm_rlhf_pytorch/ppo.py",
+    "num_functions": 26,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 134,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 716
+  },
+  {
+    "file": "lucidrains/PaLM-rlhf-pytorch/lucidrains-PaLM-rlhf-pytorch-f736bae/palm_rlhf_pytorch/reward.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 138
+  },
+  {
+    "file": "lucidrains/PaLM-rlhf-pytorch/lucidrains-PaLM-rlhf-pytorch-f736bae/palm_rlhf_pytorch/utils.py",
+    "num_functions": 9,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 67
+  },
+  {
+    "file": "lucidrains/PaLM-rlhf-pytorch/lucidrains-PaLM-rlhf-pytorch-f736bae/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 39
+  },
+  {
+    "file": "lucidrains/PaLM-rlhf-pytorch/lucidrains-PaLM-rlhf-pytorch-f736bae/train.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 32,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 122
+  }
+]

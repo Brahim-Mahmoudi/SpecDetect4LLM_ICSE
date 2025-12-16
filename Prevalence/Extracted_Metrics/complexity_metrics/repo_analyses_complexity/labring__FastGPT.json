@@ -1,0 +1,90 @@
+[
+  {
+    "file": "labring/FastGPT/labring-FastGPT-05bf1b2/files/models/Baichuan2/openai_api.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 8,
+    "num_assignments": 30,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 233
+  },
+  {
+    "file": "labring/FastGPT/labring-FastGPT-05bf1b2/files/models/ChatGLM2/openai_api.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 8,
+    "num_assignments": 40,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 260
+  },
+  {
+    "file": "labring/FastGPT/labring-FastGPT-05bf1b2/python/api/api.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 3,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 74
+  },
+  {
+    "file": "labring/FastGPT/labring-FastGPT-05bf1b2/python/api/main.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 48
+  },
+  {
+    "file": "labring/FastGPT/labring-FastGPT-05bf1b2/python/api/services/fetch.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 90
+  },
+  {
+    "file": "labring/FastGPT/labring-FastGPT-05bf1b2/python/api/services/office2txt.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 93
+  },
+  {
+    "file": "labring/FastGPT/labring-FastGPT-05bf1b2/python/api/test/fetch_test.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 25
+  },
+  {
+    "file": "labring/FastGPT/labring-FastGPT-05bf1b2/python/api/test/office_test.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 49
+  }
+]

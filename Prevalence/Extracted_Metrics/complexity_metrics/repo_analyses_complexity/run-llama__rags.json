@@ -1,0 +1,178 @@
+[
+  {
+    "file": "run-llama/rags/run-llama-rags-4bec270/1_🏠_Home.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 105
+  },
+  {
+    "file": "run-llama/rags/run-llama-rags-4bec270/core/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "run-llama/rags/run-llama-rags-4bec270/core/agent_builder/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "run-llama/rags/run-llama-rags-4bec270/core/agent_builder/base.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 35,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 250
+  },
+  {
+    "file": "run-llama/rags/run-llama-rags-4bec270/core/agent_builder/loader.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 115
+  },
+  {
+    "file": "run-llama/rags/run-llama-rags-4bec270/core/agent_builder/multimodal.py",
+    "num_functions": 14,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 35,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 256
+  },
+  {
+    "file": "run-llama/rags/run-llama-rags-4bec270/core/agent_builder/registry.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 78
+  },
+  {
+    "file": "run-llama/rags/run-llama-rags-4bec270/core/builder_config.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 20
+  },
+  {
+    "file": "run-llama/rags/run-llama-rags-4bec270/core/callback_manager.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 70
+  },
+  {
+    "file": "run-llama/rags/run-llama-rags-4bec270/core/constants.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 4
+  },
+  {
+    "file": "run-llama/rags/run-llama-rags-4bec270/core/param_cache.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 156
+  },
+  {
+    "file": "run-llama/rags/run-llama-rags-4bec270/core/utils.py",
+    "num_functions": 16,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 64,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 480
+  },
+  {
+    "file": "run-llama/rags/run-llama-rags-4bec270/pages/2_⚙️_RAG_Config.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 143
+  },
+  {
+    "file": "run-llama/rags/run-llama-rags-4bec270/pages/3_🤖_Generated_RAG_Agent.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 118
+  },
+  {
+    "file": "run-llama/rags/run-llama-rags-4bec270/st_utils.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 191
+  },
+  {
+    "file": "run-llama/rags/run-llama-rags-4bec270/tests/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  }
+]

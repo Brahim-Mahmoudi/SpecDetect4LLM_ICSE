@@ -1,0 +1,13 @@
+[
+  {
+    "file": "EmbraceAGI/awesome-chatgpt-zh/EmbraceAGI-awesome-chatgpt-zh-de9b57d/src/get_daily_trending.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 31
+  }
+]

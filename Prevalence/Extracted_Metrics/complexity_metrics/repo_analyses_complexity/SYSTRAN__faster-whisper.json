@@ -1,0 +1,222 @@
+[
+  {
+    "file": "SYSTRAN/faster-whisper/SYSTRAN-faster-whisper-9090997/benchmark/evaluate_yt_commons.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 17,
+    "pipeline_patterns": 1,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 80
+  },
+  {
+    "file": "SYSTRAN/faster-whisper/SYSTRAN-faster-whisper-9090997/benchmark/memory_benchmark.py",
+    "num_functions": 2,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 94
+  },
+  {
+    "file": "SYSTRAN/faster-whisper/SYSTRAN-faster-whisper-9090997/benchmark/speed_benchmark.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 31
+  },
+  {
+    "file": "SYSTRAN/faster-whisper/SYSTRAN-faster-whisper-9090997/benchmark/utils.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 39
+  },
+  {
+    "file": "SYSTRAN/faster-whisper/SYSTRAN-faster-whisper-9090997/benchmark/wer_benchmark.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 15,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 59
+  },
+  {
+    "file": "SYSTRAN/faster-whisper/SYSTRAN-faster-whisper-9090997/docker/infer.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 7
+  },
+  {
+    "file": "SYSTRAN/faster-whisper/SYSTRAN-faster-whisper-9090997/faster_whisper/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 14
+  },
+  {
+    "file": "SYSTRAN/faster-whisper/SYSTRAN-faster-whisper-9090997/faster_whisper/assets/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "SYSTRAN/faster-whisper/SYSTRAN-faster-whisper-9090997/faster_whisper/audio.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 123
+  },
+  {
+    "file": "SYSTRAN/faster-whisper/SYSTRAN-faster-whisper-9090997/faster_whisper/feature_extractor.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 63,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 230
+  },
+  {
+    "file": "SYSTRAN/faster-whisper/SYSTRAN-faster-whisper-9090997/faster_whisper/tokenizer.py",
+    "num_functions": 18,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 33,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 320
+  },
+  {
+    "file": "SYSTRAN/faster-whisper/SYSTRAN-faster-whisper-9090997/faster_whisper/transcribe.py",
+    "num_functions": 27,
+    "max_function_depth": 2,
+    "num_classes": 6,
+    "num_assignments": 303,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 1,
+    "has_dynamic_construct": false,
+    "loc": 1927
+  },
+  {
+    "file": "SYSTRAN/faster-whisper/SYSTRAN-faster-whisper-9090997/faster_whisper/utils.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 170
+  },
+  {
+    "file": "SYSTRAN/faster-whisper/SYSTRAN-faster-whisper-9090997/faster_whisper/vad.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 93,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 351
+  },
+  {
+    "file": "SYSTRAN/faster-whisper/SYSTRAN-faster-whisper-9090997/faster_whisper/version.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 3
+  },
+  {
+    "file": "SYSTRAN/faster-whisper/SYSTRAN-faster-whisper-9090997/setup.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 67
+  },
+  {
+    "file": "SYSTRAN/faster-whisper/SYSTRAN-faster-whisper-9090997/tests/conftest.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 18
+  },
+  {
+    "file": "SYSTRAN/faster-whisper/SYSTRAN-faster-whisper-9090997/tests/test_tokenizer.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 121
+  },
+  {
+    "file": "SYSTRAN/faster-whisper/SYSTRAN-faster-whisper-9090997/tests/test_transcribe.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 64,
+    "pipeline_patterns": 7,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 292
+  },
+  {
+    "file": "SYSTRAN/faster-whisper/SYSTRAN-faster-whisper-9090997/tests/test_utils.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 29
+  }
+]

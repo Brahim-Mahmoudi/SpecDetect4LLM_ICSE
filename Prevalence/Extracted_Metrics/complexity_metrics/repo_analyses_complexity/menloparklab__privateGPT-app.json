@@ -1,0 +1,35 @@
+[
+  {
+    "file": "menloparklab/privateGPT-app/menloparklab-privateGPT-app-028c810/constants.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 15
+  },
+  {
+    "file": "menloparklab/privateGPT-app/menloparklab-privateGPT-app-028c810/ingest.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 105
+  },
+  {
+    "file": "menloparklab/privateGPT-app/menloparklab-privateGPT-app-028c810/streamlit_app.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 92
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "file": "EleutherAI/gpt-neo/EleutherAI-gpt-neo-23485e3/configs.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 47
+  },
+  {
+    "file": "EleutherAI/gpt-neo/EleutherAI-gpt-neo-23485e3/data/create_tfrecords.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 71,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 268
+  },
+  {
+    "file": "EleutherAI/gpt-neo/EleutherAI-gpt-neo-23485e3/data/encoders.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 28
+  },
+  {
+    "file": "EleutherAI/gpt-neo/EleutherAI-gpt-neo-23485e3/data/train_tokenizer.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 73
+  },
+  {
+    "file": "EleutherAI/gpt-neo/EleutherAI-gpt-neo-23485e3/encoders.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 28
+  },
+  {
+    "file": "EleutherAI/gpt-neo/EleutherAI-gpt-neo-23485e3/export.py",
+    "num_functions": 2,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 14
+  },
+  {
+    "file": "EleutherAI/gpt-neo/EleutherAI-gpt-neo-23485e3/inputs.py",
+    "num_functions": 17,
+    "max_function_depth": 3,
+    "num_classes": 0,
+    "num_assignments": 127,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 384
+  },
+  {
+    "file": "EleutherAI/gpt-neo/EleutherAI-gpt-neo-23485e3/main.py",
+    "num_functions": 7,
+    "max_function_depth": 3,
+    "num_classes": 0,
+    "num_assignments": 50,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 257
+  },
+  {
+    "file": "EleutherAI/gpt-neo/EleutherAI-gpt-neo-23485e3/model_fns.py",
+    "num_functions": 7,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 92,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 305
+  },
+  {
+    "file": "EleutherAI/gpt-neo/EleutherAI-gpt-neo-23485e3/models/activations.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 95
+  },
+  {
+    "file": "EleutherAI/gpt-neo/EleutherAI-gpt-neo-23485e3/models/gpt2/gpt2.py",
+    "num_functions": 3,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 74,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 217
+  },
+  {
+    "file": "EleutherAI/gpt-neo/EleutherAI-gpt-neo-23485e3/models/layers.py",
+    "num_functions": 18,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 115,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 357
+  },
+  {
+    "file": "EleutherAI/gpt-neo/EleutherAI-gpt-neo-23485e3/models/utils.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 43,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 124
+  },
+  {
+    "file": "EleutherAI/gpt-neo/EleutherAI-gpt-neo-23485e3/optimizers.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 42,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 176
+  },
+  {
+    "file": "EleutherAI/gpt-neo/EleutherAI-gpt-neo-23485e3/run_experiment.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 38,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 265
+  },
+  {
+    "file": "EleutherAI/gpt-neo/EleutherAI-gpt-neo-23485e3/sample.py",
+    "num_functions": 3,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 42,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 218
+  },
+  {
+    "file": "EleutherAI/gpt-neo/EleutherAI-gpt-neo-23485e3/tasks.py",
+    "num_functions": 7,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 40,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 116
+  },
+  {
+    "file": "EleutherAI/gpt-neo/EleutherAI-gpt-neo-23485e3/test_models.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 62,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 180
+  },
+  {
+    "file": "EleutherAI/gpt-neo/EleutherAI-gpt-neo-23485e3/utils.py",
+    "num_functions": 20,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 54,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 292
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "file": "Byaidu/PDFMathTranslate/Byaidu-PDFMathTranslate-bc5be52/pdf2zh/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 8
+  },
+  {
+    "file": "Byaidu/PDFMathTranslate/Byaidu-PDFMathTranslate-bc5be52/pdf2zh/backend.py",
+    "num_functions": 8,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 96
+  },
+  {
+    "file": "Byaidu/PDFMathTranslate/Byaidu-PDFMathTranslate-bc5be52/pdf2zh/cache.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 146
+  },
+  {
+    "file": "Byaidu/PDFMathTranslate/Byaidu-PDFMathTranslate-bc5be52/pdf2zh/config.py",
+    "num_functions": 16,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 38,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 214
+  },
+  {
+    "file": "Byaidu/PDFMathTranslate/Byaidu-PDFMathTranslate-bc5be52/pdf2zh/converter.py",
+    "num_functions": 14,
+    "max_function_depth": 2,
+    "num_classes": 4,
+    "num_assignments": 94,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 533
+  },
+  {
+    "file": "Byaidu/PDFMathTranslate/Byaidu-PDFMathTranslate-bc5be52/pdf2zh/doclayout.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 5,
+    "num_assignments": 37,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 179
+  },
+  {
+    "file": "Byaidu/PDFMathTranslate/Byaidu-PDFMathTranslate-bc5be52/pdf2zh/gui.py",
+    "num_functions": 12,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 101,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 891
+  },
+  {
+    "file": "Byaidu/PDFMathTranslate/Byaidu-PDFMathTranslate-bc5be52/pdf2zh/high_level.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 77,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 425
+  },
+  {
+    "file": "Byaidu/PDFMathTranslate/Byaidu-PDFMathTranslate-bc5be52/pdf2zh/mcp_server.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 108
+  },
+  {
+    "file": "Byaidu/PDFMathTranslate/Byaidu-PDFMathTranslate-bc5be52/pdf2zh/pdf2zh.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 42,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 467
+  },
+  {
+    "file": "Byaidu/PDFMathTranslate/Byaidu-PDFMathTranslate-bc5be52/pdf2zh/pdfinterp.py",
+    "num_functions": 20,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 78,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 366
+  },
+  {
+    "file": "Byaidu/PDFMathTranslate/Byaidu-PDFMathTranslate-bc5be52/pdf2zh/translator.py",
+    "num_functions": 55,
+    "max_function_depth": 1,
+    "num_classes": 24,
+    "num_assignments": 229,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1078
+  },
+  {
+    "file": "Byaidu/PDFMathTranslate/Byaidu-PDFMathTranslate-bc5be52/test/test_cache.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 40,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 215
+  },
+  {
+    "file": "Byaidu/PDFMathTranslate/Byaidu-PDFMathTranslate-bc5be52/test/test_converter.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 110
+  },
+  {
+    "file": "Byaidu/PDFMathTranslate/Byaidu-PDFMathTranslate-bc5be52/test/test_doclayout.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 105
+  },
+  {
+    "file": "Byaidu/PDFMathTranslate/Byaidu-PDFMathTranslate-bc5be52/test/test_translator.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 40,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 228
+  }
+]

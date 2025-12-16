@@ -1,0 +1,57 @@
+[
+  {
+    "file": "hamelsmu/chat-langchain/hamelsmu-chat-langchain-8252cc4/callback.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 33
+  },
+  {
+    "file": "hamelsmu/chat-langchain/hamelsmu-chat-langchain-8252cc4/ingest.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 46
+  },
+  {
+    "file": "hamelsmu/chat-langchain/hamelsmu-chat-langchain-8252cc4/main.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 85
+  },
+  {
+    "file": "hamelsmu/chat-langchain/hamelsmu-chat-langchain-8252cc4/query_data.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 96
+  },
+  {
+    "file": "hamelsmu/chat-langchain/hamelsmu-chat-langchain-8252cc4/schemas.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 22
+  }
+]

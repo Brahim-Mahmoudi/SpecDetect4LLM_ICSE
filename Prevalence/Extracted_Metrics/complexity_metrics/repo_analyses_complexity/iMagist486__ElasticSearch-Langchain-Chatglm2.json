@@ -1,0 +1,112 @@
+[
+  {
+    "file": "iMagist486/ElasticSearch-Langchain-Chatglm2/iMagist486-ElasticSearch-Langchain-Chatglm2-304d3d2/configs/params.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 39
+  },
+  {
+    "file": "iMagist486/ElasticSearch-Langchain-Chatglm2/iMagist486-ElasticSearch-Langchain-Chatglm2-304d3d2/doc_search.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 97
+  },
+  {
+    "file": "iMagist486/ElasticSearch-Langchain-Chatglm2/iMagist486-ElasticSearch-Langchain-Chatglm2-304d3d2/embedding.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 16
+  },
+  {
+    "file": "iMagist486/ElasticSearch-Langchain-Chatglm2/iMagist486-ElasticSearch-Langchain-Chatglm2-304d3d2/model/base/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 13
+  },
+  {
+    "file": "iMagist486/ElasticSearch-Langchain-Chatglm2/iMagist486-ElasticSearch-Langchain-Chatglm2-304d3d2/model/base/base.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 35
+  },
+  {
+    "file": "iMagist486/ElasticSearch-Langchain-Chatglm2/iMagist486-ElasticSearch-Langchain-Chatglm2-304d3d2/model/base/lavis_blip2_multimodel.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 26
+  },
+  {
+    "file": "iMagist486/ElasticSearch-Langchain-Chatglm2/iMagist486-ElasticSearch-Langchain-Chatglm2-304d3d2/model/base/remote_rpc_model.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 34
+  },
+  {
+    "file": "iMagist486/ElasticSearch-Langchain-Chatglm2/iMagist486-ElasticSearch-Langchain-Chatglm2-304d3d2/model/chatglm_llm.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 83
+  },
+  {
+    "file": "iMagist486/ElasticSearch-Langchain-Chatglm2/iMagist486-ElasticSearch-Langchain-Chatglm2-304d3d2/utils/es_tool.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 31
+  },
+  {
+    "file": "iMagist486/ElasticSearch-Langchain-Chatglm2/iMagist486-ElasticSearch-Langchain-Chatglm2-304d3d2/web.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 35,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 110
+  }
+]
