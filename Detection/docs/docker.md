@@ -1,3 +1,5 @@
+![Overview](/static/web-app.png)
+
 #  Running SpecDetect4LLM Web App with Docker
 
 This guide explains how to containerize and run the SpecDetect4LLM web application using Docker. All you need is Docker installed on your machine.
