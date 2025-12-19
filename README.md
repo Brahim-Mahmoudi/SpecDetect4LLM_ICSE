@@ -62,3 +62,19 @@ This folder provides:
 - **Extracted metrics** (complexity and prevalence metrics)
 - Generated **charts/figures** (PNG)
 
+
+### Reference
+
+If you make use of SpecDetect4LLM or its ICSE 2026 NIER replication package in your research, please cite the following:
+
+```
+@software{mahmoudi2025specdetect4llm,
+  title   = {SpecDetect4LLM\_ICSE: ICSE\_NIER\_2026\_Specification and Detection of LLM Code Smells},
+  author  = {Mahmoudi, Brahim and Chenail-Larcher, Zacharie and Moha, Naouel and Stiévenart, Quentin and Avellaneda, Florent},
+  year    = {2026},
+  version = {ICSE\_NIER},
+  publisher = {Zenodo},
+  doi     = {10.5281/zenodo.17991130},
+  url     = {https://doi.org/10.5281/zenodo.17991130}
+}
+```
