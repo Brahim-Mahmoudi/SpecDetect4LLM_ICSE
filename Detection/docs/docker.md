@@ -32,10 +32,7 @@ This command reads your `Dockerfile` and creates a Docker image named `specdetec
 
 Once the image is built, run the container using the following command. We will map the internal port 5000 (where Flask runs) to an external port, like 8080, on your host machine.
 ```bash
-docker run -d \
-  -p 8080:5000 \
-  --name specdetect4llm_app \
-  specdetect4llm-web
+docker run -d -p 8080:5000 --name specdetect4llm_app specdetect4llm-web
 ```
 
 | Option | Description |
