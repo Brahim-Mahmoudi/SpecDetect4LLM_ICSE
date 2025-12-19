@@ -1,223 +1,372 @@
 project,rule,alerts
-1Panel-dev__MaxKB,R25,23
-1Panel-dev__MaxKB,R26,1
-1Panel-dev__MaxKB,R27,1
-1Panel-dev__MaxKB,R28,3
-1Panel-dev__MaxKB,R29,1
-567-labs__instructor,R25,382
-567-labs__instructor,R26,136
-567-labs__instructor,R27,218
-567-labs__instructor,R28,287
-567-labs__instructor,R29,306
-All-Hands-AI__OpenHands,R25,10
-All-Hands-AI__OpenHands,R27,4
-All-Hands-AI__OpenHands,R29,9
-AntonOsika__gpt-engineer,R25,1
-AntonOsika__gpt-engineer,R27,1
-AntonOsika__gpt-engineer,R28,3
-AntonOsika__gpt-engineer,R29,1
-AstrBotDevs__AstrBot,R25,5
-AstrBotDevs__AstrBot,R28,5
-AstrBotDevs__AstrBot,R29,3
-Azure-Samples__azure-search-openai-demo,R25,1
-Azure-Samples__azure-search-openai-demo,R27,1
-Azure-Samples__azure-search-openai-demo,R29,2
-BlinkDL__RWKV-LM,R26,2
-Byaidu__PDFMathTranslate,R25,5
-Byaidu__PDFMathTranslate,R27,1
-Byaidu__PDFMathTranslate,R28,5
-Byaidu__PDFMathTranslate,R29,4
-EleutherAI__gpt-neox,R26,7
-GaiZhenbiao__ChuanhuChatGPT,R25,8
-GaiZhenbiao__ChuanhuChatGPT,R26,8
-GaiZhenbiao__ChuanhuChatGPT,R27,1
-GaiZhenbiao__ChuanhuChatGPT,R28,9
-GaiZhenbiao__ChuanhuChatGPT,R29,3
-InternLM__lmdeploy,R25,42
-InternLM__lmdeploy,R26,24
-InternLM__lmdeploy,R27,2
-InternLM__lmdeploy,R28,37
-InternLM__lmdeploy,R29,48
-LlamaFamily__Llama-Chinese,R26,20
-MaartenGr__BERTopic,R25,2
-MaartenGr__BERTopic,R27,1
-MaartenGr__BERTopic,R28,2
-MaartenGr__BERTopic,R29,1
-NVIDIA__Megatron-LM,R26,12
-OpenRLHF__OpenRLHF,R26,3
-OthersideAI__self-operating-computer,R25,11
-OthersideAI__self-operating-computer,R26,8
-OthersideAI__self-operating-computer,R27,2
-OthersideAI__self-operating-computer,R28,8
-OthersideAI__self-operating-computer,R29,9
-QuivrHQ__quivr,R25,1
-QuivrHQ__quivr,R26,1
-QuivrHQ__quivr,R28,3
-RayVentura__ShortGPT,R25,2
-RayVentura__ShortGPT,R27,1
-RayVentura__ShortGPT,R29,1
-RockChinQ__LangBot,R25,7
-RockChinQ__LangBot,R27,1
-RockChinQ__LangBot,R28,7
-RockChinQ__LangBot,R29,7
-Shubhamsaboo__awesome-llm-apps,R25,37
-Shubhamsaboo__awesome-llm-apps,R26,11
-Shubhamsaboo__awesome-llm-apps,R27,5
-Shubhamsaboo__awesome-llm-apps,R28,24
-Shubhamsaboo__awesome-llm-apps,R29,20
-Significant-Gravitas__AutoGPT,R25,13
-Significant-Gravitas__AutoGPT,R26,1
-Significant-Gravitas__AutoGPT,R27,1
-Significant-Gravitas__AutoGPT,R28,5
-Significant-Gravitas__AutoGPT,R29,10
-TheR1D__shell_gpt,R25,1
-TransformerOptimus__SuperAGI,R27,1
-TransformerOptimus__SuperAGI,R28,2
-TransformerOptimus__SuperAGI,R29,1
-UKPLab__sentence-transformers,R26,8
-Upsonic__Upsonic,R25,2
-Upsonic__Upsonic,R26,2
-abetlen__llama-cpp-python,R25,2
-abetlen__llama-cpp-python,R26,2
-abetlen__llama-cpp-python,R27,1
-abetlen__llama-cpp-python,R28,1
-abetlen__llama-cpp-python,R29,2
-activeloopai__deeplake,R25,6
-activeloopai__deeplake,R28,4
-bentoml__OpenLLM,R25,1
-bentoml__OpenLLM,R27,1
-bentoml__OpenLLM,R28,1
-bentoml__OpenLLM,R29,1
-bigscience-workshop__petals,R26,1
-chidiwilliams__buzz,R25,7
-chidiwilliams__buzz,R28,1
-chidiwilliams__buzz,R29,1
-comet-ml__opik,R25,82
-comet-ml__opik,R26,13
-comet-ml__opik,R27,11
-comet-ml__opik,R28,48
-comet-ml__opik,R29,34
-deepset-ai__haystack,R25,7
-deepset-ai__haystack,R26,6
-deepset-ai__haystack,R27,1
-deepset-ai__haystack,R28,1
-deepset-ai__haystack,R29,1
-h2oai__h2ogpt,R25,43
-h2oai__h2ogpt,R26,39
-h2oai__h2ogpt,R27,8
-h2oai__h2ogpt,R28,11
-h2oai__h2ogpt,R29,14
-haotian-liu__LLaVA,R25,1
-haotian-liu__LLaVA,R26,24
-haotian-liu__LLaVA,R29,4
-hiyouga__LLaMA-Factory,R25,6
-hiyouga__LLaMA-Factory,R26,32
-hiyouga__LLaMA-Factory,R27,2
-hiyouga__LLaMA-Factory,R28,4
-hiyouga__LLaMA-Factory,R29,4
-huggingface__peft,R26,456
-huggingface__trl,R25,2
-huggingface__trl,R26,304
-huggingface__trl,R27,1
-huggingface__trl,R29,1
-intel__ipex-llm,R25,2
-intel__ipex-llm,R26,783
-intel__ipex-llm,R27,1
-intel__ipex-llm,R28,1
-intel__ipex-llm,R29,2
-jzhang38__TinyLlama,R25,2
-jzhang38__TinyLlama,R26,9
-jzhang38__TinyLlama,R28,2
-jzhang38__TinyLlama,R29,2
-khoj-ai__khoj,R25,9
-khoj-ai__khoj,R26,2
-khoj-ai__khoj,R27,3
-khoj-ai__khoj,R28,10
-khoj-ai__khoj,R29,6
-labmlai__annotated_deep_learning_paper_implementations,R26,2
-ludwig-ai__ludwig,R26,10
-meta-llama__llama-stack,R25,81
-meta-llama__llama-stack,R26,9
-meta-llama__llama-stack,R27,18
-meta-llama__llama-stack,R28,72
-meta-llama__llama-stack,R29,57
-microsoft__markitdown,R25,3
-microsoft__markitdown,R27,2
-microsoft__markitdown,R28,3
-microsoft__markitdown,R29,2
-modelscope__ms-swift,R25,10
-modelscope__ms-swift,R26,24
-modelscope__ms-swift,R27,7
-modelscope__ms-swift,R28,6
-modelscope__ms-swift,R29,14
-neuml__txtai,R26,15
-openai__openai-agents-python,R25,4
-openai__openai-agents-python,R27,1
-openai__openai-agents-python,R28,3
-openai__openai-agents-python,R29,5
-openai__openai-python,R25,94
-openai__openai-python,R26,34
-openai__openai-python,R27,28
-openai__openai-python,R28,43
-openai__openai-python,R29,45
-openai__swarm,R25,10
-openai__swarm,R26,1
-openai__swarm,R27,2
-openai__swarm,R28,3
-openai__swarm,R29,6
-oumi-ai__oumi,R25,3
-oumi-ai__oumi,R26,19
-oumi-ai__oumi,R27,1
-oumi-ai__oumi,R28,1
-oumi-ai__oumi,R29,1
-qodo-ai__pr-agent,R25,2
-qodo-ai__pr-agent,R27,1
-qodo-ai__pr-agent,R28,3
-qodo-ai__pr-agent,R29,1
-run-llama__llama_index,R25,135
-run-llama__llama_index,R26,35
-run-llama__llama_index,R27,8
-run-llama__llama_index,R28,52
-run-llama__llama_index,R29,33
-run-llama__rags,R25,3
-sgl-project__sglang,R25,44
-sgl-project__sglang,R26,73
-sgl-project__sglang,R27,32
-sgl-project__sglang,R28,41
-sgl-project__sglang,R29,78
-simonw__llm,R25,8
-simonw__llm,R27,1
-simonw__llm,R28,8
-simonw__llm,R29,4
-speechbrain__speechbrain,R26,5
-stas00__ml-engineering,R26,1
-unslothai__unsloth,R26,22
-wzpan__wukong-robot,R25,1
-wzpan__wukong-robot,R28,1
-wzpan__wukong-robot,R29,2
-xorbitsai__inference,R25,22
-xorbitsai__inference,R26,57
-xorbitsai__inference,R27,9
-xorbitsai__inference,R28,18
-xorbitsai__inference,R29,20
-xtekky__gpt4free,R25,49
-xtekky__gpt4free,R26,10
-xtekky__gpt4free,R27,12
-xtekky__gpt4free,R28,41
-xtekky__gpt4free,R29,63
-ymcui__Chinese-LLaMA-Alpaca,R25,1
-ymcui__Chinese-LLaMA-Alpaca,R26,3
-ymcui__Chinese-LLaMA-Alpaca,R27,1
-ymcui__Chinese-LLaMA-Alpaca,R28,1
-ymcui__Chinese-LLaMA-Alpaca,R29,1
-ymcui__Chinese-LLaMA-Alpaca-2,R26,12
-zhayujie__chatgpt-on-wechat,R25,5
-zhayujie__chatgpt-on-wechat,R26,1
-zhayujie__chatgpt-on-wechat,R27,1
-zhayujie__chatgpt-on-wechat,R28,4
-zhayujie__chatgpt-on-wechat,R29,4
-zilliztech__GPTCache,R25,85
-zilliztech__GPTCache,R26,73
-zilliztech__GPTCache,R27,33
-zilliztech__GPTCache,R28,83
-zilliztech__GPTCache,R29,81
+0xk1h0__PentestGPT,LLM Temperature Not Explicitly Set(TNES),3
+0xk1h0__PentestGPT,No Model Version Pinning (NMVP),2
+0xk1h0__PentestGPT,No Structured Output (NSO),16
+0xk1h0__PentestGPT,No System Message (NSM),4
+0xk1h0__PentestGPT,Unbounded Max Metrics (UMM),17
+1Panel-dev__MaxKB,LLM Temperature Not Explicitly Set(TNES),23
+1Panel-dev__MaxKB,No Model Version Pinning (NMVP),1
+1Panel-dev__MaxKB,No Structured Output (NSO),1
+1Panel-dev__MaxKB,No System Message (NSM),1
+1Panel-dev__MaxKB,Unbounded Max Metrics (UMM),3
+567-labs__instructor,LLM Temperature Not Explicitly Set(TNES),382
+567-labs__instructor,No Model Version Pinning (NMVP),136
+567-labs__instructor,No Structured Output (NSO),306
+567-labs__instructor,No System Message (NSM),218
+567-labs__instructor,Unbounded Max Metrics (UMM),287
+ATheorell__AutoGPTArenaHack,LLM Temperature Not Explicitly Set(TNES),1
+ATheorell__AutoGPTArenaHack,No Model Version Pinning (NMVP),1
+ATheorell__AutoGPTArenaHack,No Structured Output (NSO),1
+ATheorell__AutoGPTArenaHack,Unbounded Max Metrics (UMM),2
+AgentValley__chromadb-chatbot,No Structured Output (NSO),1
+AgentValley__chromadb-chatbot,No System Message (NSM),1
+AgentValley__chromadb-chatbot,Unbounded Max Metrics (UMM),1
+All-Hands-AI__OpenHands,LLM Temperature Not Explicitly Set(TNES),10
+All-Hands-AI__OpenHands,No Structured Output (NSO),9
+All-Hands-AI__OpenHands,No System Message (NSM),4
+AntonOsika__gpt-engineer,LLM Temperature Not Explicitly Set(TNES),1
+AntonOsika__gpt-engineer,No Structured Output (NSO),1
+AntonOsika__gpt-engineer,No System Message (NSM),1
+AntonOsika__gpt-engineer,Unbounded Max Metrics (UMM),3
+AstrBotDevs__AstrBot,LLM Temperature Not Explicitly Set(TNES),5
+AstrBotDevs__AstrBot,No Structured Output (NSO),3
+AstrBotDevs__AstrBot,Unbounded Max Metrics (UMM),5
+Azure-Samples__azure-search-openai-demo,LLM Temperature Not Explicitly Set(TNES),1
+Azure-Samples__azure-search-openai-demo,No Structured Output (NSO),2
+Azure-Samples__azure-search-openai-demo,No System Message (NSM),1
+BillSchumacher__Auto-GPT,No Structured Output (NSO),2
+BillSchumacher__Auto-GPT,No System Message (NSM),1
+BlinkDL__RWKV-LM,No Model Version Pinning (NMVP),2
+Byaidu__PDFMathTranslate,LLM Temperature Not Explicitly Set(TNES),5
+Byaidu__PDFMathTranslate,No Structured Output (NSO),4
+Byaidu__PDFMathTranslate,No System Message (NSM),1
+Byaidu__PDFMathTranslate,Unbounded Max Metrics (UMM),5
+CloudDevStudios__Agent-LLM,No Structured Output (NSO),2
+CloudDevStudios__Agent-LLM,No System Message (NSM),1
+Doriandarko__BabyAGIChatGPT,LLM Temperature Not Explicitly Set(TNES),1
+Doriandarko__BabyAGIChatGPT,No Model Version Pinning (NMVP),2
+Doriandarko__BabyAGIChatGPT,No Structured Output (NSO),2
+Doriandarko__BabyAGIChatGPT,No System Message (NSM),1
+Doriandarko__BabyAGIChatGPT,Unbounded Max Metrics (UMM),1
+EleutherAI__gpt-neox,No Model Version Pinning (NMVP),7
+EmbraceAGI__LocalAGI,No Model Version Pinning (NMVP),2
+EmbraceAGI__LocalAGI,No Structured Output (NSO),4
+EmbraceAGI__LocalAGI,No System Message (NSM),2
+ExpressGit__langchain-ChatGLM,No Model Version Pinning (NMVP),2
+FOLLGAD__Godmode-GPT,No Structured Output (NSO),2
+FOLLGAD__Godmode-GPT,No System Message (NSM),1
+GaiZhenbiao__ChuanhuChatGPT,LLM Temperature Not Explicitly Set(TNES),8
+GaiZhenbiao__ChuanhuChatGPT,No Model Version Pinning (NMVP),8
+GaiZhenbiao__ChuanhuChatGPT,No Structured Output (NSO),3
+GaiZhenbiao__ChuanhuChatGPT,No System Message (NSM),1
+GaiZhenbiao__ChuanhuChatGPT,Unbounded Max Metrics (UMM),9
+Gamma-Software__AppifyAi,Unbounded Max Metrics (UMM),3
+Haste171__langchain-chatbot,Unbounded Max Metrics (UMM),2
+InternLM__lmdeploy,LLM Temperature Not Explicitly Set(TNES),42
+InternLM__lmdeploy,No Model Version Pinning (NMVP),24
+InternLM__lmdeploy,No Structured Output (NSO),48
+InternLM__lmdeploy,No System Message (NSM),2
+InternLM__lmdeploy,Unbounded Max Metrics (UMM),37
+Jerk400__h2ogpt-dev-local,LLM Temperature Not Explicitly Set(TNES),4
+Jerk400__h2ogpt-dev-local,No Model Version Pinning (NMVP),19
+Jerk400__h2ogpt-dev-local,No Structured Output (NSO),2
+Jerk400__h2ogpt-dev-local,Unbounded Max Metrics (UMM),4
+Josh-XT__AGiXT,No Structured Output (NSO),2
+Josh-XT__AGiXT,No System Message (NSM),1
+LlamaFamily__Llama-Chinese,No Model Version Pinning (NMVP),20
+MaartenGr__BERTopic,LLM Temperature Not Explicitly Set(TNES),2
+MaartenGr__BERTopic,No Structured Output (NSO),1
+MaartenGr__BERTopic,No System Message (NSM),1
+MaartenGr__BERTopic,Unbounded Max Metrics (UMM),2
+NVIDIA__Megatron-LM,No Model Version Pinning (NMVP),12
+OpenRLHF__OpenRLHF,No Model Version Pinning (NMVP),3
+OthersideAI__self-operating-computer,LLM Temperature Not Explicitly Set(TNES),11
+OthersideAI__self-operating-computer,No Model Version Pinning (NMVP),8
+OthersideAI__self-operating-computer,No Structured Output (NSO),9
+OthersideAI__self-operating-computer,No System Message (NSM),2
+OthersideAI__self-operating-computer,Unbounded Max Metrics (UMM),8
+QuivrHQ__quivr,LLM Temperature Not Explicitly Set(TNES),1
+QuivrHQ__quivr,No Model Version Pinning (NMVP),1
+QuivrHQ__quivr,Unbounded Max Metrics (UMM),3
+RayVentura__ShortGPT,LLM Temperature Not Explicitly Set(TNES),2
+RayVentura__ShortGPT,No Structured Output (NSO),1
+RayVentura__ShortGPT,No System Message (NSM),1
+RockChinQ__LangBot,LLM Temperature Not Explicitly Set(TNES),7
+RockChinQ__LangBot,No Structured Output (NSO),7
+RockChinQ__LangBot,No System Message (NSM),1
+RockChinQ__LangBot,Unbounded Max Metrics (UMM),7
+Shaunwei__RealChar,Unbounded Max Metrics (UMM),2
+Shubhamsaboo__awesome-llm-apps,LLM Temperature Not Explicitly Set(TNES),37
+Shubhamsaboo__awesome-llm-apps,No Model Version Pinning (NMVP),11
+Shubhamsaboo__awesome-llm-apps,No Structured Output (NSO),20
+Shubhamsaboo__awesome-llm-apps,No System Message (NSM),5
+Shubhamsaboo__awesome-llm-apps,Unbounded Max Metrics (UMM),24
+Significant-Gravitas__AutoGPT,LLM Temperature Not Explicitly Set(TNES),18
+Significant-Gravitas__AutoGPT,No Model Version Pinning (NMVP),4
+Significant-Gravitas__AutoGPT,No Structured Output (NSO),16
+Significant-Gravitas__AutoGPT,No System Message (NSM),5
+Significant-Gravitas__AutoGPT,Unbounded Max Metrics (UMM),9
+SolaceDev__pr-agent,LLM Temperature Not Explicitly Set(TNES),2
+SolaceDev__pr-agent,Unbounded Max Metrics (UMM),2
+TheR1D__shell_gpt,LLM Temperature Not Explicitly Set(TNES),1
+TransformerOptimus__SuperAGI,No Structured Output (NSO),1
+TransformerOptimus__SuperAGI,No System Message (NSM),1
+TransformerOptimus__SuperAGI,Unbounded Max Metrics (UMM),2
+UKPLab__sentence-transformers,No Model Version Pinning (NMVP),8
+Upsonic__Upsonic,LLM Temperature Not Explicitly Set(TNES),2
+Upsonic__Upsonic,No Model Version Pinning (NMVP),2
+VTSTech__localagi,LLM Temperature Not Explicitly Set(TNES),1
+VTSTech__localagi,No Model Version Pinning (NMVP),2
+VTSTech__localagi,No Structured Output (NSO),1
+VTSTech__localagi,Unbounded Max Metrics (UMM),2
+Vidminas__chatdocs-streamlit,LLM Temperature Not Explicitly Set(TNES),3
+Vidminas__chatdocs-streamlit,No Model Version Pinning (NMVP),2
+Vidminas__chatdocs-streamlit,Unbounded Max Metrics (UMM),2
+X-D-Lab__LangChain-ChatGLM-Webui,No Model Version Pinning (NMVP),4
+abetlen__llama-cpp-python,LLM Temperature Not Explicitly Set(TNES),2
+abetlen__llama-cpp-python,No Model Version Pinning (NMVP),2
+abetlen__llama-cpp-python,No Structured Output (NSO),2
+abetlen__llama-cpp-python,No System Message (NSM),1
+abetlen__llama-cpp-python,Unbounded Max Metrics (UMM),1
+activeloopai__deeplake,LLM Temperature Not Explicitly Set(TNES),6
+activeloopai__deeplake,Unbounded Max Metrics (UMM),4
+ai8hyf__babyagi,No Structured Output (NSO),2
+ai8hyf__babyagi,No System Message (NSM),1
+aigeek0x0__chat-with-multiple-pdfs-streamlit-langchain-faiss-openai,LLM Temperature Not Explicitly Set(TNES),1
+aigeek0x0__chat-with-multiple-pdfs-streamlit-langchain-faiss-openai,Unbounded Max Metrics (UMM),1
+alejandro-ao__ask-multiple-pdfs,LLM Temperature Not Explicitly Set(TNES),1
+alejandro-ao__ask-multiple-pdfs,Unbounded Max Metrics (UMM),1
+amauryfischer__Auto-GPT-WebUI,No Structured Output (NSO),2
+amauryfischer__Auto-GPT-WebUI,No System Message (NSM),1
+arc53__DocsGPT,LLM Temperature Not Explicitly Set(TNES),4
+arc53__DocsGPT,No Model Version Pinning (NMVP),2
+arc53__DocsGPT,No Structured Output (NSO),2
+arc53__DocsGPT,No System Message (NSM),1
+arc53__DocsGPT,Unbounded Max Metrics (UMM),4
+benjaminearlevans__Chatgpt-babyagi-plugin,LLM Temperature Not Explicitly Set(TNES),1
+benjaminearlevans__Chatgpt-babyagi-plugin,No Model Version Pinning (NMVP),2
+benjaminearlevans__Chatgpt-babyagi-plugin,No Structured Output (NSO),2
+benjaminearlevans__Chatgpt-babyagi-plugin,No System Message (NSM),1
+benjaminearlevans__Chatgpt-babyagi-plugin,Unbounded Max Metrics (UMM),1
+bentoml__OpenLLM,LLM Temperature Not Explicitly Set(TNES),1
+bentoml__OpenLLM,No Structured Output (NSO),1
+bentoml__OpenLLM,No System Message (NSM),1
+bentoml__OpenLLM,Unbounded Max Metrics (UMM),1
+bigscience-workshop__petals,No Model Version Pinning (NMVP),1
+c121914yu__FastGPT,No Model Version Pinning (NMVP),2
+camel-ai__camel,LLM Temperature Not Explicitly Set(TNES),1
+camel-ai__camel,No Structured Output (NSO),1
+camel-ai__camel,No System Message (NSM),1
+camel-ai__camel,Unbounded Max Metrics (UMM),1
+chatchat-space__Langchain-Chatchat,LLM Temperature Not Explicitly Set(TNES),29
+chatchat-space__Langchain-Chatchat,No Model Version Pinning (NMVP),6
+chatchat-space__Langchain-Chatchat,No Structured Output (NSO),11
+chatchat-space__Langchain-Chatchat,No System Message (NSM),6
+chatchat-space__Langchain-Chatchat,Unbounded Max Metrics (UMM),11
+chidiwilliams__buzz,LLM Temperature Not Explicitly Set(TNES),7
+chidiwilliams__buzz,No Structured Output (NSO),1
+chidiwilliams__buzz,Unbounded Max Metrics (UMM),1
+chinesewebman__doc-chatbot,No Model Version Pinning (NMVP),1
+chinesewebman__doc-chatbot,No Structured Output (NSO),1
+chinesewebman__doc-chatbot,No System Message (NSM),1
+comet-ml__opik,LLM Temperature Not Explicitly Set(TNES),82
+comet-ml__opik,No Model Version Pinning (NMVP),13
+comet-ml__opik,No Structured Output (NSO),34
+comet-ml__opik,No System Message (NSM),11
+comet-ml__opik,Unbounded Max Metrics (UMM),48
+cpacker__MemGPT,LLM Temperature Not Explicitly Set(TNES),3
+cpacker__MemGPT,No Structured Output (NSO),3
+cpacker__MemGPT,No System Message (NSM),1
+cpacker__MemGPT,Unbounded Max Metrics (UMM),3
+daveshap__ChromaDB_Chatbot_Public,No Structured Output (NSO),1
+daveshap__ChromaDB_Chatbot_Public,No System Message (NSM),1
+daveshap__ChromaDB_Chatbot_Public,Unbounded Max Metrics (UMM),1
+deepset-ai__haystack,LLM Temperature Not Explicitly Set(TNES),7
+deepset-ai__haystack,No Model Version Pinning (NMVP),6
+deepset-ai__haystack,No Structured Output (NSO),1
+deepset-ai__haystack,No System Message (NSM),1
+deepset-ai__haystack,Unbounded Max Metrics (UMM),1
+dory111111__babyagi-streamlit,No Structured Output (NSO),2
+dory111111__babyagi-streamlit,No System Message (NSM),1
+dotvignesh__PDFChat,LLM Temperature Not Explicitly Set(TNES),2
+dotvignesh__PDFChat,Unbounded Max Metrics (UMM),2
+edik7333__Auto-GPT-llama-cpp,No Structured Output (NSO),2
+edik7333__Auto-GPT-llama-cpp,No System Message (NSM),1
+edrickdch__chat-pdf,Unbounded Max Metrics (UMM),1
+eosphoros-ai__DB-GPT,No Model Version Pinning (NMVP),8
+fangyinc__DB-GPT,LLM Temperature Not Explicitly Set(TNES),2
+fangyinc__DB-GPT,No Model Version Pinning (NMVP),22
+fangyinc__DB-GPT,No Structured Output (NSO),4
+fangyinc__DB-GPT,No System Message (NSM),2
+fangyinc__DB-GPT,Unbounded Max Metrics (UMM),1
+fendouai__babyagi_zh,No Structured Output (NSO),2
+fendouai__babyagi_zh,No System Message (NSM),1
+gabacode__ChatBot-PDF,Unbounded Max Metrics (UMM),1
+goetzrobin__MemGPT,LLM Temperature Not Explicitly Set(TNES),6
+goetzrobin__MemGPT,No Structured Output (NSO),3
+goetzrobin__MemGPT,No System Message (NSM),3
+goetzrobin__MemGPT,Unbounded Max Metrics (UMM),3
+h2oai__h2ogpt,LLM Temperature Not Explicitly Set(TNES),47
+h2oai__h2ogpt,No Model Version Pinning (NMVP),53
+h2oai__h2ogpt,No Structured Output (NSO),16
+h2oai__h2ogpt,No System Message (NSM),8
+h2oai__h2ogpt,Unbounded Max Metrics (UMM),15
+haotian-liu__LLaVA,LLM Temperature Not Explicitly Set(TNES),1
+haotian-liu__LLaVA,No Model Version Pinning (NMVP),24
+haotian-liu__LLaVA,No Structured Output (NSO),4
+hiyouga__LLaMA-Factory,LLM Temperature Not Explicitly Set(TNES),6
+hiyouga__LLaMA-Factory,No Model Version Pinning (NMVP),32
+hiyouga__LLaMA-Factory,No Structured Output (NSO),4
+hiyouga__LLaMA-Factory,No System Message (NSM),2
+hiyouga__LLaMA-Factory,Unbounded Max Metrics (UMM),4
+hlohaus__Agent-LLM,No Model Version Pinning (NMVP),9
+hlohaus__Agent-LLM,No Structured Output (NSO),3
+hlohaus__Agent-LLM,No System Message (NSM),1
+huggingface__peft,No Model Version Pinning (NMVP),456
+huggingface__trl,LLM Temperature Not Explicitly Set(TNES),2
+huggingface__trl,No Model Version Pinning (NMVP),304
+huggingface__trl,No Structured Output (NSO),1
+huggingface__trl,No System Message (NSM),1
+hzg0601__langchain-ChatGLM-annotation,LLM Temperature Not Explicitly Set(TNES),2
+hzg0601__langchain-ChatGLM-annotation,No Model Version Pinning (NMVP),3
+hzg0601__langchain-ChatGLM-annotation,No Structured Output (NSO),2
+hzg0601__langchain-ChatGLM-annotation,Unbounded Max Metrics (UMM),2
+iMagist486__ElasticSearch-Langchain-Chatglm2,No Model Version Pinning (NMVP),2
+intel__ipex-llm,LLM Temperature Not Explicitly Set(TNES),2
+intel__ipex-llm,No Model Version Pinning (NMVP),783
+intel__ipex-llm,No Structured Output (NSO),2
+intel__ipex-llm,No System Message (NSM),1
+intel__ipex-llm,Unbounded Max Metrics (UMM),1
+junruxiong__IncarnaMind,LLM Temperature Not Explicitly Set(TNES),1
+junruxiong__IncarnaMind,No Model Version Pinning (NMVP),2
+junruxiong__IncarnaMind,No Structured Output (NSO),1
+junruxiong__IncarnaMind,Unbounded Max Metrics (UMM),3
+jzhang38__TinyLlama,LLM Temperature Not Explicitly Set(TNES),2
+jzhang38__TinyLlama,No Model Version Pinning (NMVP),9
+jzhang38__TinyLlama,No Structured Output (NSO),2
+jzhang38__TinyLlama,Unbounded Max Metrics (UMM),2
+khoj-ai__khoj,LLM Temperature Not Explicitly Set(TNES),9
+khoj-ai__khoj,No Model Version Pinning (NMVP),2
+khoj-ai__khoj,No Structured Output (NSO),6
+khoj-ai__khoj,No System Message (NSM),3
+khoj-ai__khoj,Unbounded Max Metrics (UMM),10
+labmlai__annotated_deep_learning_paper_implementations,No Model Version Pinning (NMVP),2
+labring__FastGPT,No Model Version Pinning (NMVP),4
+langchain-ai__chat-langchain,Unbounded Max Metrics (UMM),2
+ludwig-ai__ludwig,No Model Version Pinning (NMVP),10
+marella__chatdocs,LLM Temperature Not Explicitly Set(TNES),1
+marella__chatdocs,No Model Version Pinning (NMVP),1
+marella__chatdocs,Unbounded Max Metrics (UMM),1
+matigumma__bb.agi,No Structured Output (NSO),2
+matigumma__bb.agi,No System Message (NSM),1
+meta-llama__llama-stack,LLM Temperature Not Explicitly Set(TNES),81
+meta-llama__llama-stack,No Model Version Pinning (NMVP),9
+meta-llama__llama-stack,No Structured Output (NSO),57
+meta-llama__llama-stack,No System Message (NSM),18
+meta-llama__llama-stack,Unbounded Max Metrics (UMM),72
+microsoft__markitdown,LLM Temperature Not Explicitly Set(TNES),3
+microsoft__markitdown,No Structured Output (NSO),2
+microsoft__markitdown,No System Message (NSM),2
+microsoft__markitdown,Unbounded Max Metrics (UMM),3
+modelscope__ms-swift,LLM Temperature Not Explicitly Set(TNES),10
+modelscope__ms-swift,No Model Version Pinning (NMVP),24
+modelscope__ms-swift,No Structured Output (NSO),14
+modelscope__ms-swift,No System Message (NSM),7
+modelscope__ms-swift,Unbounded Max Metrics (UMM),6
+neuml__txtai,No Model Version Pinning (NMVP),15
+openai__openai-agents-python,LLM Temperature Not Explicitly Set(TNES),4
+openai__openai-agents-python,No Structured Output (NSO),5
+openai__openai-agents-python,No System Message (NSM),1
+openai__openai-agents-python,Unbounded Max Metrics (UMM),3
+openai__openai-python,LLM Temperature Not Explicitly Set(TNES),94
+openai__openai-python,No Model Version Pinning (NMVP),34
+openai__openai-python,No Structured Output (NSO),45
+openai__openai-python,No System Message (NSM),28
+openai__openai-python,Unbounded Max Metrics (UMM),43
+openai__swarm,LLM Temperature Not Explicitly Set(TNES),10
+openai__swarm,No Model Version Pinning (NMVP),1
+openai__swarm,No Structured Output (NSO),6
+openai__swarm,No System Message (NSM),2
+openai__swarm,Unbounded Max Metrics (UMM),3
+oumi-ai__oumi,LLM Temperature Not Explicitly Set(TNES),3
+oumi-ai__oumi,No Model Version Pinning (NMVP),19
+oumi-ai__oumi,No Structured Output (NSO),1
+oumi-ai__oumi,No System Message (NSM),1
+oumi-ai__oumi,Unbounded Max Metrics (UMM),1
+qodo-ai__pr-agent,LLM Temperature Not Explicitly Set(TNES),2
+qodo-ai__pr-agent,No Structured Output (NSO),1
+qodo-ai__pr-agent,No System Message (NSM),1
+qodo-ai__pr-agent,Unbounded Max Metrics (UMM),3
+robiwan303__babyagi,No Model Version Pinning (NMVP),5
+robiwan303__babyagi,No Structured Output (NSO),10
+robiwan303__babyagi,No System Message (NSM),3
+run-llama__llama_index,LLM Temperature Not Explicitly Set(TNES),135
+run-llama__llama_index,No Model Version Pinning (NMVP),35
+run-llama__llama_index,No Structured Output (NSO),33
+run-llama__llama_index,No System Message (NSM),8
+run-llama__llama_index,Unbounded Max Metrics (UMM),52
+run-llama__rags,LLM Temperature Not Explicitly Set(TNES),3
+saten-private__BabyCommandAGI,LLM Temperature Not Explicitly Set(TNES),3
+saten-private__BabyCommandAGI,No Model Version Pinning (NMVP),4
+saten-private__BabyCommandAGI,No Structured Output (NSO),10
+saten-private__BabyCommandAGI,No System Message (NSM),3
+saten-private__BabyCommandAGI,Unbounded Max Metrics (UMM),1
+sgl-project__sglang,LLM Temperature Not Explicitly Set(TNES),44
+sgl-project__sglang,No Model Version Pinning (NMVP),73
+sgl-project__sglang,No Structured Output (NSO),78
+sgl-project__sglang,No System Message (NSM),32
+sgl-project__sglang,Unbounded Max Metrics (UMM),41
+simonw__llm,LLM Temperature Not Explicitly Set(TNES),8
+simonw__llm,No Structured Output (NSO),4
+simonw__llm,No System Message (NSM),1
+simonw__llm,Unbounded Max Metrics (UMM),8
+speechbrain__speechbrain,No Model Version Pinning (NMVP),5
+stas00__ml-engineering,No Model Version Pinning (NMVP),1
+sw5park__LUISE,No Structured Output (NSO),1
+unslothai__unsloth,No Model Version Pinning (NMVP),22
+uukuguy__DB-GPT-Lite,LLM Temperature Not Explicitly Set(TNES),3
+uukuguy__DB-GPT-Lite,No Model Version Pinning (NMVP),23
+uukuguy__DB-GPT-Lite,No Structured Output (NSO),2
+uukuguy__DB-GPT-Lite,No System Message (NSM),2
+uukuguy__DB-GPT-Lite,Unbounded Max Metrics (UMM),3
+vmayoral__PentestGPT,LLM Temperature Not Explicitly Set(TNES),2
+vmayoral__PentestGPT,No Model Version Pinning (NMVP),2
+vmayoral__PentestGPT,No Structured Output (NSO),8
+vmayoral__PentestGPT,No System Message (NSM),4
+vmayoral__PentestGPT,Unbounded Max Metrics (UMM),8
+wzpan__wukong-robot,LLM Temperature Not Explicitly Set(TNES),1
+wzpan__wukong-robot,No Structured Output (NSO),2
+wzpan__wukong-robot,Unbounded Max Metrics (UMM),1
+xorbitsai__inference,LLM Temperature Not Explicitly Set(TNES),22
+xorbitsai__inference,No Model Version Pinning (NMVP),57
+xorbitsai__inference,No Structured Output (NSO),20
+xorbitsai__inference,No System Message (NSM),9
+xorbitsai__inference,Unbounded Max Metrics (UMM),18
+xtekky__gpt4free,LLM Temperature Not Explicitly Set(TNES),49
+xtekky__gpt4free,No Model Version Pinning (NMVP),10
+xtekky__gpt4free,No Structured Output (NSO),63
+xtekky__gpt4free,No System Message (NSM),12
+xtekky__gpt4free,Unbounded Max Metrics (UMM),41
+ymcui__Chinese-LLaMA-Alpaca,LLM Temperature Not Explicitly Set(TNES),1
+ymcui__Chinese-LLaMA-Alpaca,No Model Version Pinning (NMVP),3
+ymcui__Chinese-LLaMA-Alpaca,No Structured Output (NSO),1
+ymcui__Chinese-LLaMA-Alpaca,No System Message (NSM),1
+ymcui__Chinese-LLaMA-Alpaca,Unbounded Max Metrics (UMM),1
+ymcui__Chinese-LLaMA-Alpaca-2,No Model Version Pinning (NMVP),12
+yoheinakajima__babyagi,No Structured Output (NSO),2
+yoheinakajima__babyagi,No System Message (NSM),1
+yujiosaka__ChatIQ,Unbounded Max Metrics (UMM),1
+yvann-hub__Robby-chatbot,Unbounded Max Metrics (UMM),3
+zhayujie__chatgpt-on-wechat,LLM Temperature Not Explicitly Set(TNES),5
+zhayujie__chatgpt-on-wechat,No Model Version Pinning (NMVP),1
+zhayujie__chatgpt-on-wechat,No Structured Output (NSO),4
+zhayujie__chatgpt-on-wechat,No System Message (NSM),1
+zhayujie__chatgpt-on-wechat,Unbounded Max Metrics (UMM),4
+zhjunqin__Langchain-Chatchat-InternLM,LLM Temperature Not Explicitly Set(TNES),5
+zhjunqin__Langchain-Chatchat-InternLM,No Structured Output (NSO),1
+zhjunqin__Langchain-Chatchat-InternLM,Unbounded Max Metrics (UMM),5
+zilliztech__GPTCache,LLM Temperature Not Explicitly Set(TNES),85
+zilliztech__GPTCache,No Model Version Pinning (NMVP),73
+zilliztech__GPTCache,No Structured Output (NSO),81
+zilliztech__GPTCache,No System Message (NSM),33
+zilliztech__GPTCache,Unbounded Max Metrics (UMM),83

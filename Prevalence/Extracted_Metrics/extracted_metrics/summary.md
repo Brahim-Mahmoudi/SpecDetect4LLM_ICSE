@@ -1,27 +1,35 @@
-# SpecDetect4AI — Résultats agrégés
+# SpecDetect4AI — Aggregated Results
 
-- **Projets analysés** : 65
-- **Fichiers avec alertes** : 1312
-- **Total d'alertes** : 5813
-- **Règles distinctes** : 5
+- **Projects analyzed**: 121
+- **Files with alerts**: 1451
+- **Total alerts**: 6337
+- **Distinct rules**: 5
 
-## Règles les plus fréquentes
+## Most frequent rules
 
-- **R26** : 2321
-- **R25** : 1283
-- **R29** : 915
-- **R28** : 867
-- **R27** : 427
+- **No Model Version Pinning (NMVP)**: 2472
+- **LLM Temperature Not Explicitly Set(TNES)**: 1374
+- **No Structured Output (NSO)**: 1038
+- **Unbounded Max Metrics (UMM)**: 973
+- **No System Message (NSM)**: 480
 
-## Projets avec le plus d'alertes (Top 10)
+## Projects with the most alerts (Top 10)
 
-- **567-labs__instructor** : 1329
-- **intel__ipex-llm** : 789
-- **huggingface__peft** : 456
-- **zilliztech__GPTCache** : 355
-- **huggingface__trl** : 308
-- **sgl-project__sglang** : 268
-- **run-llama__llama_index** : 263
-- **openai__openai-python** : 244
-- **meta-llama__llama-stack** : 237
-- **comet-ml__opik** : 188
+- **567-labs__instructor**: 1329
+- **intel__ipex-llm**: 789
+- **huggingface__peft**: 456
+- **zilliztech__GPTCache**: 355
+- **huggingface__trl**: 308
+- **sgl-project__sglang**: 268
+- **run-llama__llama_index**: 263
+- **openai__openai-python**: 244
+- **meta-llama__llama-stack**: 237
+- **comet-ml__opik**: 188
+
+## Rules affecting the most projects (Top 10)
+
+- **No Structured Output (NSO)**: 81 projects
+- **Unbounded Max Metrics (UMM)**: 76 projects
+- **LLM Temperature Not Explicitly Set(TNES)**: 73 projects
+- **No Model Version Pinning (NMVP)**: 72 projects
+- **No System Message (NSM)**: 69 projects

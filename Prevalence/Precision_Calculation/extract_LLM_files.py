@@ -3,10 +3,11 @@ import pandas as pd
 from pathlib import Path
 
 # === CONFIG ===
-CSV_FILE = "/Users/bramss/Documents/ETS/PhD/Code_Smell_LLM/Code_Smell_LLM/Prevalence/Dataset/merged_repos.csv"
-OUTPUT_DIR = "/Users/bramss/Desktop/LLM_Files_Extracted"
-SUMMARY_CSV = "/Users/bramss/Desktop/llm_extraction_summary.csv"
-GITHUB_TOKEN  = ""   
+CSV_FILE = "../Dataset/merged_repos.csv"
+OUTPUT_DIR = "LLM_Files_Extracted"
+SUMMARY_CSV = "llm_extraction_summary.csv"
+TOKEN_ENV_VAR = "GITHUB_TOKEN"   # environment variable containing the GitHub token
+GITHUB_TOKEN = os.getenv(TOKEN_ENV_VAR, "").strip()  
 
 PAUSE_EVERY = 50
 PAUSE_SECONDS = 60

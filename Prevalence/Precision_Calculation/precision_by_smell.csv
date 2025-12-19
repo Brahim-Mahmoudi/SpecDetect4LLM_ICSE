@@ -1,0 +1,6 @@
+smell,n_instances,TP,FP,precision
+LLM Temperature Not Explicitly,23,19,4,0.8260869565217391
+No Model Version Pinning,23,22,1,0.9565217391304348
+No Structured Output,20,16,4,0.8
+No System Message,21,18,3,0.8571428571428571
+Unbounded Max Metrics,22,19,3,0.8636363636363636

@@ -4,16 +4,21 @@
 
 > Companion materials for **specifying**, **detecting**, and **measuring the prevalence** of *LLM integration code smells*.
 
+
+
 ---
 
 
-## How to use: 
+## How to use **SpecDetect4LLM**: 
 
+- [Web-app](Detection/docs/docker.md) (Recommended (Docker we app))
 - [Command Line](/Detection/docs/usage.md) 
-- [Web-app](Detection/docs/docker.md) 
+
 
 
 ## 1) `Catalog_Construction`
+
+- [Catalog Construction](/Catalog_Construction/README.md) 
 
 This folder contains the **formal specification** of each LLM code smell, including:
 
@@ -37,15 +42,23 @@ and, for each code smell:
 ## 2) `Detection`
 
 This folder provides:
-- **SpecDetect4LLM**, the extended version of SpecDetect4AI with the **new detection rules** for LLM integration
+- **SpecDetect4LLM**, with the **new detection rules** for LLM integration in `/test_rules`. 
 
 ---
 
 ## 3) `Prevalence`
 
 This folder provides:
-- The **dataset** used in our study
--**Results** (JSON)
-- **Extracted metrics** (CSV/Parquet)
+- The **dataset** used in our study in Dataset
+- **Precision Calculation** (manual detection and precision calculation)
+
+    Run
+        `python Prevalence/Precision_Calculation/compute_precision.py`
+
+    Outputs
+    The script writes:
+        `precision_by_smell.csv` in the current working directory
+        and prints a summary to stdout including micro average and macro average precision
+- **Extracted metrics** (complexity and prevalence metrics)
 - Generated **charts/figures** (PNG)
 
